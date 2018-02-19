@@ -19,6 +19,7 @@ __1.4 Material Acuan__
 __1.5 Definisi dan Akronim__
 
 * Definisi
+
 __Sistem__ : Suatu kesatuan yang terdiri komponen atau elemen yang dihubungkan bersama untuk memudahkan aliran informasi, materi atau energi untuk mencapai suatu tujuan.
 __Aplikasi__ : Suatu program komputer yang dibuat untuk mengerjakan dan melaksanakan tugas khusus dari pengguna.
 __Penyewaan__ : Sebuah persetujuan di mana sebuah pembayaran dilakukan atas penggunaan suatu barang atau properti secara sementara oleh orang lain. Barang yang dapat disewa bermacam-macam, tarif dan lama sewa juga bermacam-macam.
