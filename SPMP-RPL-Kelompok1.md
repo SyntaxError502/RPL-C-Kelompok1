@@ -88,72 +88,6 @@ __3.5 Perencanaan Staf__
 * Mendesain
 * Mengimplementasikan
 
-### BAB 5
-### Paket Pekerjaan, Jadwal dan Budget
-
-__5.1 Paket Pekerjaan__
-
-- ANNISA KARTIKA UTAMI
-- ARI IRAWAN
-- IMAM MUHAYAT
-- HASRI HABBEANA PERTIWI
-- ADE KARTONO
-		
-
-| Nama | JobDesk | Rincian Pekerjaan |
-| ----------- | :---------: | ----------: |
-| Annisa Kartika Utami | Design | Isi 3 - 1 |
-| Ari Irawan | Analysis | Isi 3 - 2 |
-| Imam Muhayat | Projek manager | Isi 3 - 3 |
-| Hasri Habbeana Pertiwi | Programmer | Isi 3 - 3 |
-| Ade Kartono | Programmer | Isi 3 - 3 |
-	
-
-Kategori Kegiatan :
-
-- Penentuan judul proyek dan pengumpulan sumber daya yang diperlukan
-- Membuat proposal dan pengajuan ke mitra
-- Pencarian referensi dan pengerjaan projek
-- Pengecekan aplikasi dan implementasikan hasil projek
-- Melakukan Perbaikan jika terjadi kesalahan
-- Melaksanakan persentasi projek
-
-__5.2 Ketergantungan dan Keterkaitan__
-
-![modul](img/modul.png)
-
-
-__5.3 Kebutuhan-Kebutuhan Sumber Daya__
-
-5.3.1 Kebutuhan Sumber Daya Manusia
-
-- Annisa Kartika Utami
-- Ari Irawan
-- Imam Muhayat
-- Hasri Habbeana Pertiwi
-- Ade Kartono
-
-5.3.2 Kebutuhan Sumber Daya Software
-
-- Android studio
-- Mysql
-- emulator
-
-5.3.3 Kebutuhan Sumber Daya Hardware
-
-- Pc/Laptop
-- flashdrive
-- ponsel/smartphone
-
-__5.4 Alokasi Budget dan Sumber Daya__
-
-__5.5 Jadwal__
-
-
-
-
-
-
 
 ###BAB 4
 . Proses teknis
@@ -242,4 +176,79 @@ internet
 Untuk membantu mencari referensi projeck
 
 material
+
+
+
+
+
+
+
+### BAB 5
+### Paket Pekerjaan, Jadwal dan Budget
+
+__5.1 Paket Pekerjaan__
+
+- ANNISA KARTIKA UTAMI
+- ARI IRAWAN
+- IMAM MUHAYAT
+- HASRI HABBEANA PERTIWI
+- ADE KARTONO
+		
+
+| Nama | JobDesk | Rincian Pekerjaan |
+| ----------- | :---------: | ----------: |
+| Annisa Kartika Utami | Design | Isi 3 - 1 |
+| Ari Irawan | Analysis | Isi 3 - 2 |
+| Imam Muhayat | Projek manager | Isi 3 - 3 |
+| Hasri Habbeana Pertiwi | Programmer | Isi 3 - 3 |
+| Ade Kartono | Programmer | Isi 3 - 3 |
+	
+
+Kategori Kegiatan :
+
+- Penentuan judul proyek dan pengumpulan sumber daya yang diperlukan
+- Membuat proposal dan pengajuan ke mitra
+- Pencarian referensi dan pengerjaan projek
+- Pengecekan aplikasi dan implementasikan hasil projek
+- Melakukan Perbaikan jika terjadi kesalahan
+- Melaksanakan persentasi projek
+
+__5.2 Ketergantungan dan Keterkaitan__
+
+![modul](img/modul.png)
+
+
+__5.3 Kebutuhan-Kebutuhan Sumber Daya__
+
+5.3.1 Kebutuhan Sumber Daya Manusia
+
+- Annisa Kartika Utami
+- Ari Irawan
+- Imam Muhayat
+- Hasri Habbeana Pertiwi
+- Ade Kartono
+
+5.3.2 Kebutuhan Sumber Daya Software
+
+- Android studio
+- Mysql
+- emulator
+
+5.3.3 Kebutuhan Sumber Daya Hardware
+
+- Pc/Laptop
+- flashdrive
+- ponsel/smartphone
+
+__5.4 Alokasi Budget dan Sumber Daya__
+
+__5.5 Jadwal__
+
+
+
+
+
+
+
+
 
