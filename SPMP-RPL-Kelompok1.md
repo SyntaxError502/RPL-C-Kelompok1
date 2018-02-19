@@ -1,3 +1,29 @@
+BAB 1
+PENDAHULUAN
+
+1.1 Gambaran Proyek
+
+Pada proyek ini kami membuat Aplikasi Penyewaan dan Guide Transportasi.
+
+1.2 Dokumen - Dokumen Dalam Proyek
+
+Dokumen yang akan digunakan dalam proyek antara lain: 1. SPMP (Software Project Management Plan) 2. SRS (Software Requirements Specification)
+
+1.3 Evolusi SPMP
+
+Dokumen ini dirawat oleh masing-masing anggota sesuai dengan tanggung jawabnya. Dimana pada SPMP ini setiap anggota bertanggung jawab pada satu bab.
+
+1.4 Material Acuan
+
+1.5 Definisi dan Akronim
+
+    Definisi
+    Sistem : Suatu kesatuan yang terdiri komponen atau elemen yang dihubungkan bersama untuk memudahkan aliran informasi, materi atau energi untuk mencapai suatu tujuan.
+    Aplikasi : Suatu program komputer yang dibuat untuk mengerjakan dan melaksanakan tugas khusus dari pengguna.
+    Penyewaan : Sebuah persetujuan di mana sebuah pembayaran dilakukan atas penggunaan suatu barang atau properti secara sementara oleh orang lain. Barang yang dapat disewa bermacam-macam, tarif dan lama sewa juga bermacam-macam.
+
+    Akronim
+
 5
 .1 Paket Pekerjaan
 
