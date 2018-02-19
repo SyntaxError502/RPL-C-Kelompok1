@@ -101,7 +101,7 @@ PROSES TEKNIS
 
 4.1 Metoda, tool, dan teknis
 
-metodaDE
+1.metode
 Penelitian ini menggunakan
 
 metode SDLC (The sytems development life cycle) adalah model konseptual yang digunakan dalam manajemen pengembangan proyek sistem informasi dari studi kelayakan hingga aplikasi selesai dibangun. Enam langkah utama dari SDLC yang paling sering digunakan oleh para software developer meliputi :
@@ -134,28 +134,19 @@ sesumgguhnya, membuat program dan menyiapkan data base.
 
 5.Pengujian
 
-Melakukan pengujian terhadap
-
-sistem yang dikembangkan apakah sesuai dengan harapan dan kebutuhan pengguna serta
-
-melakukan debugging dan penyesuain akhir.
+Melakukan pengujian terhadap sistem yang dikembangkan apakah sesuai dengan harapan dan kebutuhan pengguna serta melakukan debugging dan penyesuain akhir.
 
 6.Implementasi
 
-Software yang telah diuji lalu
+Software yang telah diuji lalu diimplemetasikan kedalam sistem pengguna serta membuat panduan manual maupun pelatihan.
 
-diimplemetasikan kedalam sistem pengguna serta membuat
+*tool
 
-panduan manual maupun pelatihan.
-
-tool
-
-treknis
+*treknis
 
 4.2 Dokumentasi peragkat lunak
 
-Dalam pengembangan perangkat lunak professional, dokumentasi merupakan hal yang fital, oleh karena itu oleh karena itu projeck manager dan Software Engineer harus memperhatikan dokumentasi.
-Adapun dokumentasi perangkat lunak terbagi dalam 2 yaitu,
+Dalam pengembangan perangkat lunak professional, dokumentasi merupakan hal yang fital, oleh karena itu oleh karena itu projeck manager dan Software Engineer harus memperhatikan dokumentasi. Adapun dokumentasi perangkat lunak terbagi dalam 2 yaitu,
 
 1.Dokumentasi proses
 
