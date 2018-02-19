@@ -148,3 +148,98 @@ __5.3 Kebutuhan-Kebutuhan Sumber Daya__
 __5.4 Alokasi Budget dan Sumber Daya__
 
 __5.5 Jadwal__
+
+
+
+
+
+
+
+4
+. Proses teknis
+4.1 Metoda, tool, dan teknik
+
+4.2 Dokumentasi perangkat lunak
+
+4.3 Fungsi-fungsi pendukung proyek
+
+PROSES TEKNIS
+
+4.1 Metoda, tool, dan teknis
+
+metodaDE
+Penelitian ini menggunakan
+
+metode SDLC (The sytems development life cycle) adalah model konseptual yang digunakan dalam manajemen pengembangan proyek sistem informasi dari studi kelayakan hingga aplikasi selesai dibangun. Enam langkah utama dari SDLC yang paling sering digunakan oleh para software developer meliputi :
+
+1.Studi kelayakan
+
+Mempelajari konsep sistem yang diinginkan oleh pihak manajemen dengan pengambilan keputusan untuk mengupdate sistem yang sudah ada atau mengganti dengan yang baru.
+
+2.Analisis
+
+Mengumpulkan, mempelajari kebutuhan secara analisis dengan masukan dari konsumen.
+
+3.Desain
+
+Developer melakukan pembuatan
+
+blueprintsistem.Dengan
+
+penyesuaian arsitektur komunikasi, software, hardware serta membuat model sistem secara graphical user interface (GUI), data base dan lain – lain unyuk pengembangan lebih lanjut.
+
+4.Pengembangan
+
+Developer melakukan koding
+
+untukmenerapkandesain
+
+kedalamsistemyang
+
+sesumgguhnya, membuat program dan menyiapkan data base.
+
+5.Pengujian
+
+Melakukan pengujian terhadap
+
+sistem yang dikembangkan apakah sesuai dengan harapan dan kebutuhan pengguna serta
+
+melakukan debugging dan penyesuain akhir.
+
+6.Implementasi
+
+Software yang telah diuji lalu
+
+diimplemetasikan kedalam sistem pengguna serta membuat
+
+panduan manual maupun pelatihan.
+
+tool
+
+treknis
+
+4.2 Dokumentasi peragkat lunak
+
+Dalam pengembangan perangkat lunak professional, dokumentasi merupakan hal yang fital, oleh karena itu oleh karena itu projeck manager dan Software Engineer harus memperhatikan dokumentasi.
+Adapun dokumentasi perangkat lunak terbagi dalam 2 yaitu,
+
+1.Dokumentasi proses
+
+2.Dokumentasi produk
+
+1.Dokumentasi proses
+Adalah pekerjaan dokumentasi yang merekam semua proses pengimbangan dan perawatan (maintenance). Adapun hal-hal yang di catat dalam dokumentasi adalah rencana-rencana, jadwal, Standar organisasi, Standar proses.
+
+2. Dokumentasi produk
+Menggambarkan produk yang sudah di kembangkan
+
+4.3 Fungsi-fungsi pendukung proyek
+
+laptop
+Untuk membuat projek dan merangkum semua materi dll
+
+internet
+Untuk membantu mencari referensi projeck
+
+material
+
