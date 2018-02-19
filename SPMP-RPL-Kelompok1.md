@@ -43,7 +43,7 @@ Perusahaan jasa rental mobil dapat menciptakan dan meningkatkan kepuasan konsume
 Penelitian dilakukan dengan batasan - batasan tertentu agar tidak menyimpang   dari permasalahan yang ada. Dalam penelitian ini, membatasi pada masalah strategi pemasaran jasa meliputi product, harga, tempat, promosi, orang, sarana fisik, dan proses, yang berpengaruh terhadap kepuasan konsumen dalam meggunakan jasa sewa kendaraan
 
 __3.3 Manajemen Resiko__
-1. Manajemen keungan
+1. Manajemen keuangan
 2. Manajemen Armada atau Mobil
 3. Manajemen Administrasi
 4. Manajemen Pelanggan
