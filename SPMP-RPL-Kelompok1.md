@@ -27,6 +27,38 @@ __Aplikasi__ : Suatu program komputer yang dibuat untuk mengerjakan dan melaksan
 __Penyewaan__ : Sebuah persetujuan di mana sebuah pembayaran dilakukan atas penggunaan suatu barang atau properti secara sementara oleh orang lain. Barang yang dapat disewa bermacam-macam, tarif dan lama sewa juga bermacam-macam.
 
 * Akronim
+BAB 3
+Proses Manajerial
+3.1 Tujuan dan prioritas manajemen
+
+Tujuan dari proyek ini adalah untuk megembangkan sistem penyewaan transpotasi sesuai anggaran , waktu, dan kualitas yang ditentukan. Proyek ini sangat di prioritaskan karena memberi manfaat yang tinggi bagi masyarakat yang ingin meyewa kendaraan dan proyek ini juga menyediakan guide untuk membantu masyarakat mengenali tempat - tempat wisata yang ingin di tuju.
+
+3.2 Asumsi, keterkaitan dan batasan - batasan
+
+Asumsi dari Proyek ini adalah sebagai berikut
+Perusahaan jasa rental mobil dapat menciptakan dan meningkatkan kepuasan konsumennya. Strategi pemasaran yang telah dilaksanakan selama ini dirasakan kurang efektif sehingga menyebabkan keuntungan yang diperoleh tidak maksimal karena fluktasi jumlah penjualan dari waktu ke waktu. Hal ini diindikasikan karena adanya tingkat kepuasan konsumen yang rendah. Dengan demikian, kami berusaha meningkatkan cara - cara pemasaran dan membuat aplikasi penyewaan transportasi yang lebih efektif agar dapat meciptakakn dan meningkatkakn kepuasan konsumen sehingga dapat merebut juga sekaligus mempertahankan pelanggannya demi kelangsungan hidup perusahaan.
+
+Batasan - batasan
+Penelitian dilakukan dengan batasan - batasan tertentu agar tidak menyimpang dari permasalahan yang ada. Dalam penelitian ini, membatasi pada masalah strategi pemasaran jasa meliputi product, harga, tempat, promosi, orang, sarana fisik, dan proses, yang berpengaruh terhadap kepuasan konsumen dalam meggunakan jasa sewa kendaraan
+
+3.3 Manajemen Resiko
+
+Manajemen keungan
+Manajemen Armada atau Mobil
+Manajemen Administrasi
+Manajemen Pelanggan
+3.4 Mekanisme monitoring dan kontroling
+
+Rapat proyek mingguan
+Penyimpanan dokumen bersama
+Perencanaan Proyek
+Pencarian manfaat dalam proyek
+3.5 Perencanaan Staf
+
+planning ( perencanaan )
+menganalisis
+mendesain
+mengimplementasikan
 
 5
 .1 Paket Pekerjaan
