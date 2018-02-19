@@ -30,38 +30,41 @@ __Penyewaan__ : Sebuah persetujuan di mana sebuah pembayaran dilakukan atas peng
 * Akronim
 
 
-BAB 3
-Proses Manajerial
-3.1 Tujuan dan prioritas manajemen
+### BAB 3
+### Proses Manajerial
 
-Tujuan dari proyek ini adalah untuk megembangkan sistem penyewaan transpotasi sesuai anggaran , waktu, dan kualitas yang ditentukan. Proyek ini sangat di prioritaskan karena memberi manfaat yang tinggi bagi masyarakat yang ingin meyewa kendaraan dan proyek ini juga menyediakan guide untuk membantu masyarakat mengenali tempat - tempat wisata yang ingin di tuju.
+__3.1 Tujuan dan Prioritas Manajemen__
 
-3.2 Asumsi, keterkaitan dan batasan - batasan
+Tujuan dari proyek ini adalah untuk megembangkan sistem penyewaan transpotasi sesuai anggaran , waktu, dan kualitas yang ditentukan. Proyek ini sangat di prioritaskan karena memberi manfaat yang tinggi bagi masyarakat yang ingin meyewa kendaraan dan proyek ini juga menyediakan guide untuk membantu masyarakat mengenali tempat-tempat wisata yang ingin di tuju.
 
-Asumsi dari Proyek ini adalah sebagai berikut
+__3.2 Asumsi, Keterkaitan dan Batasan-Batasan__
+
+* __Asumsi__
 Perusahaan jasa rental mobil dapat menciptakan dan meningkatkan kepuasan konsumennya. Strategi pemasaran yang telah dilaksanakan selama ini dirasakan kurang efektif sehingga menyebabkan keuntungan yang diperoleh tidak maksimal karena fluktasi jumlah penjualan dari waktu ke waktu. Hal ini diindikasikan karena adanya tingkat kepuasan konsumen yang rendah. Dengan demikian, kami berusaha meningkatkan cara - cara pemasaran dan membuat aplikasi penyewaan transportasi yang lebih efektif agar dapat meciptakakn dan meningkatkakn kepuasan konsumen sehingga dapat merebut juga sekaligus mempertahankan pelanggannya demi kelangsungan hidup perusahaan.
 
-Batasan - batasan
+* __Batasan-Batasan__
 Penelitian dilakukan dengan batasan - batasan tertentu agar tidak menyimpang dari permasalahan yang ada. Dalam penelitian ini, membatasi pada masalah strategi pemasaran jasa meliputi product, harga, tempat, promosi, orang, sarana fisik, dan proses, yang berpengaruh terhadap kepuasan konsumen dalam meggunakan jasa sewa kendaraan
 
-3.3 Manajemen Resiko
+__3.3 Manajemen Resiko__
 
-Manajemen keungan
-Manajemen Armada atau Mobil
-Manajemen Administrasi
-Manajemen Pelanggan
-3.4 Mekanisme monitoring dan kontroling
+* Manajemen keuangan
+* Manajemen Armada atau Mobil
+* Manajemen Administrasi
+* Manajemen Pelanggan
 
-Rapat proyek mingguan
-Penyimpanan dokumen bersama
-Perencanaan Proyek
-Pencarian manfaat dalam proyek
-3.5 Perencanaan Staf
+__3.4 Mekanisme Monitoring dan Kontroling__
 
-planning ( perencanaan )
-menganalisis
-mendesain
-mengimplementasikan
+* Rapat proyek mingguan
+* Penyimpanan dokumen bersama
+* Perencanaan Proyek
+* Pencarian manfaat dalam proyek
+
+__3.5 Perencanaan Staf__
+
+* Planning ( perencanaan )
+* Menganalisis
+* Mendesain
+* Mengimplementasikan
 
 ### BAB 5
 ### Paket Pekerjaan, Jadwal dan Budget
@@ -77,11 +80,11 @@ __5.1 Paket Pekerjaan__
 
 | Nama | JobDesk | Rincian Pekerjaan |
 | ----------- | :---------: | ----------: |
-| Annisa Kartika Utami | Design | - |
-| Ari Irawan | Analysis | - |
-| Imam Muhayat | Projek manager | - |
-| Hasri Habbeana Pertiwi | Database | - |
-| Ade Kartono | Programmer | - |
+| Annisa Kartika Utami | Design | Isi 3 - 1 |
+| Ari Irawan | Analysis | Isi 3 - 2 |
+| Imam Muhayat | Projek manager | Isi 3 - 3 |
+| Hasri Habbeana Pertiwi | Programmer | Isi 3 - 3 |
+| Ade Kartono | Programmer | Isi 3 - 3 |
 	
 
 Kategori Kegiatan :
