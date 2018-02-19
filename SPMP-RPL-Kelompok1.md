@@ -120,6 +120,9 @@ Kategori Kegiatan :
 
 __5.2 Ketergantungan dan Keterkaitan__
 
+![modul](img/modul.png)
+
+
 __5.3 Kebutuhan-Kebutuhan Sumber Daya__
 
 5.3.1 Kebutuhan Sumber Daya Manusia
