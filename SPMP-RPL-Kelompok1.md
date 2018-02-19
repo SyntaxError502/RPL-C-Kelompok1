@@ -77,11 +77,11 @@ __5.1 Paket Pekerjaan__
 
 | Nama | JobDesk | Rincian Pekerjaan |
 | ----------- | :---------: | ----------: |
-| Annisa Kartika Utami | Design | Isi 3 - 1 |
-| Ari Irawan | Analysis | Isi 3 - 2 |
-| Imam Muhayat | Projek manager | Isi 3 - 3 |
-| Hasri Habbeana Pertiwi | Programmer | Isi 3 - 3 |
-| Ade Kartono | Programmer | Isi 3 - 3 |
+| Annisa Kartika Utami | Design | - |
+| Ari Irawan | Analysis | - |
+| Imam Muhayat | Projek manager | - |
+| Hasri Habbeana Pertiwi | Database | - |
+| Ade Kartono | Programmer | - |
 	
 
 Kategori Kegiatan :
