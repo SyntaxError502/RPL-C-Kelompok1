@@ -29,6 +29,28 @@ __Penyewaan__ : Sebuah persetujuan di mana sebuah pembayaran dilakukan atas peng
 
 * Akronim
 
+## 2. Organisasi proyek
+
+__2.1 Model Prosess__
+aplikasi ini berbasis pernagkat lunak
+
+__sistem ini__
+
+__2.2 Struktur Organisasi__
+Project manager
+programer
+analisis
+__2.3 Batasan dan antarmuka organisasi__
+Project manager yang bertanggung jawab penuh pada prject yang kita buat
+programer yang bertanggung jawab membuat dan menyempurnakan program
+analisis bertanggung jawab memberikan gmabaran project dan alur pengkodingan pada programer
+
+__2.4 Lingkup tanggung jawab__
+__Penjelasan__
+lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pembuatan proyek ini
+project manager :seseorang yang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim tidak hanya fokus pada hal-hal yang teknis sifatnya manager juga harus memenjemen tim dengan baik agar target project tercapai. selain itu beri pengarahan, memonitoring kinejrha tim serta membagi tugas juga bagian tanggung jawab dari seorang manager
+Programer :Dalam hal ini, seorang programer bertugas unutk mengimplementsikan dari sistem yang sudah dirancang didesaign . programer dituntut dalam penulisan code program dengan baik, dan efesien . hal ini dimaksudkan menghindari terjadi nya banyak oror dalam proses implentsinya.
+Ananlisis :Banyak hal yang harus dilakukan oleh seorang analisis, terutama yang berkaitan dengan pemecehan maslah. seorang sistem analisis harus mampu menganalisa segala kemungkinan dari permaslahan yang ada, dan dapat menghasilkan solusi yang tepat dari permasalahan tersebut. menentukan sistem yang tepat merupakan bagian dari tugas seorang analiss, sehingga kinerja tim dapat berjalan secara efesien
 
 ### BAB 3
 ### Proses Manajerial
