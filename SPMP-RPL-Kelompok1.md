@@ -208,6 +208,15 @@ __5.2 Ketergantungan dan Keterkaitan__
 
 ![modul](img/modul.png)
 
+Penjelasan dari keterkaitan modul aplikasi ini yaitu terdapat 3 modul
+
+- Data kendaraan
+- Stok kendaraan
+- Data penyewa
+
+Data kendaraan dan Stok kendaraan diotorisasi oleh admin jika admin ingin mengupdate data kendaraan atau stok
+diharuskan login terlebih dahulu sedangkan penyewa disini hanya menginput data jika ingin menyewa kendaraan. 
+
 
 __5.3 Kebutuhan-Kebutuhan Sumber Daya__
 
