@@ -76,3 +76,22 @@ __2.5 Asumsi-asumsi dan ketergantungan/keterkaitan__
 
    Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan
    Pengembangan perangkat lunak tidak akan merubah file-file atau pun database yang ada
+   
+   
+   
+   
+   
+##2.6 Kebutuhan-kebutuhan penyeimbang
+
+Kebutuhan fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan yang memiliki input,proses, dan output.
+
+kebutuhan fungsional yang harus ada dalam sistem yang akan dikembangkan adalah
+
+sebagai berikut:
+
+    1. Sistem harus dapat mempermudah pengguna/user dalam konsumen.
+    2. Sistem harus dapat mempermudah pengguna/ user dalam menggunakan aplikasi ini.
+
+3 Kebutuhan lain yang spesifik
+
+4 Informasi pendukung
