@@ -55,11 +55,16 @@ __2.1.8 Kebutuhan - Kebutuhan dalam tahapan adaptasi__
 * Panduan aplikasi menggunakan mode interaktif
 * Aplikasi ini menggunakan rute perjalanan
   
- _2.3 Karakteristik pengguna__
+ __2.3 Karakteristik pengguna__
+ 
 Karakteristik pengguna dari perangkat lunak adalah pengguna langsung berinteraksi langsung.
+
 __2.4 Batasan-batasan__
+
     Penginputan data atau memasukan nama pada aplikasi ini.
     Perangkat lunak bisa diakses ketika terhubung dengan internet 
+    
 __2.5 Asumsi-asumsi dan ketergantungan/keterkaitan__
+
      Waktu pengembangan pernagkat lunak yang singkat membuat adanya kemungkinan tidak      semua fungsi yang ada dapat dilaksanakan
     Pengembangan perangkat lunak tidak akan merubah file-file atau pun daatabase yang     ada
