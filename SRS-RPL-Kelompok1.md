@@ -33,24 +33,33 @@ Aplikasi penyewaan  ini dapat melakukan hal-hal berikut ini :
 - Admin dapat menambah dan menghapus dari kendaraan yang 
   dipakai
   
-__2. Gambaran Umum__
+  ### BAB 2 
+  ### GAMBARAN UMUM
+__2.1.5 Antarmuka Komunikasi__
 
-__2.2 Fungsi-fungsi produk__
+Proses komunikasi dalam aplikasi ini melibatkan pengguna dengan perangkat mobile berbasis android.
 
-Fungsi dari aplikasi rental mobiil berdasarkan pengguna sistem ini adalah sebagai berikut:
-a. Membuat user dalam dalam membuat atau membagi sebuah atau beberapa kelompok secara acak dengan mudah dan cepat
-b. Program ini bisa menginputkan list nama peminjam kemudian ditampilkan
+__2.1.6 Batasan - Batasan Memori__
 
-__2.3 Karakteristik pengguna__
+Batasan minimum mempri RAM yang dibutuhkan agar sistem berjalan dengan baik adalah minimal 4 GB
+sedangkan ruang cakra padat (hard disk) yang diperlukan adalah 500 GB.
 
+__2.1.7 Operasi - Operasi__
+
+Sebagai penyesuaian operasional untuk pengguna akan dilakukan Training bertingkat.
+Tingkat user/Operator dan Supervisor, masing-masing tingkat memiliki tingkat pengetahuan yang berbeda dan hak akses sistem yang berbeda sehingga pelatihannya pun akan berberda.
+
+__2.1.8 Kebutuhan - Kebutuhan dalam tahapan adaptasi__
+
+* Perangkat lunak menggunakan bahasa indonesia
+* Panduan aplikasi menggunakan mode interaktif
+* Aplikasi ini menggunakan rute perjalanan
+  
+ _2.3 Karakteristik pengguna__
 Karakteristik pengguna dari perangkat lunak adalah pengguna langsung berinteraksi langsung.
-
 __2.4 Batasan-batasan__
-
     Penginputan data atau memasukan nama pada aplikasi ini.
     Perangkat lunak bisa diakses ketika terhubung dengan internet 
-    
 __2.5 Asumsi-asumsi dan ketergantungan/keterkaitan__
-
      Waktu pengembangan pernagkat lunak yang singkat membuat adanya kemungkinan tidak      semua fungsi yang ada dapat dilaksanakan
     Pengembangan perangkat lunak tidak akan merubah file-file atau pun daatabase yang     ada
