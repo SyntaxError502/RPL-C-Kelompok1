@@ -66,5 +66,5 @@ __2.4 Batasan-batasan__
     
 __2.5 Asumsi-asumsi dan ketergantungan/keterkaitan__
 
-     Waktu pengembangan pernagkat lunak yang singkat membuat adanya kemungkinan tidak      semua fungsi yang ada dapat dilaksanakan
-    Pengembangan perangkat lunak tidak akan merubah file-file atau pun daatabase yang     ada
+     Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan
+    Pengembangan perangkat lunak tidak akan merubah file-file atau pun database yang ada
