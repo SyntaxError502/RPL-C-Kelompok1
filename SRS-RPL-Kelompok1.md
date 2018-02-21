@@ -33,8 +33,8 @@ Aplikasi penyewaan  ini dapat melakukan hal-hal berikut ini :
 - Admin dapat menambah dan menghapus dari kendaraan yang 
   dipakai
   
-  ### BAB 2 
-  ### GAMBARAN UMUM
+  # BAB 2 
+  # GAMBARAN UMUM
 __2.1.5 Antarmuka Komunikasi__
 
 Proses komunikasi dalam aplikasi ini melibatkan pengguna dengan perangkat mobile berbasis android.
@@ -61,10 +61,10 @@ Karakteristik pengguna dari perangkat lunak adalah pengguna langsung berinteraks
 
 __2.4 Batasan-batasan__
 
-    Penginputan data atau memasukan nama pada aplikasi ini.
-    Perangkat lunak bisa diakses ketika terhubung dengan internet 
+   Penginputan data atau memasukan nama pada aplikasi ini.
+   Perangkat lunak bisa diakses ketika terhubung dengan internet 
     
 __2.5 Asumsi-asumsi dan ketergantungan/keterkaitan__
 
-     Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan
-    Pengembangan perangkat lunak tidak akan merubah file-file atau pun database yang ada
+   Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan
+   Pengembangan perangkat lunak tidak akan merubah file-file atau pun database yang ada
