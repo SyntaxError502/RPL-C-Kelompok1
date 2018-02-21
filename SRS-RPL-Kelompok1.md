@@ -56,6 +56,12 @@ __2.1.8 Kebutuhan - Kebutuhan dalam tahapan adaptasi__
 * Perangkat lunak menggunakan bahasa indonesia
 * Panduan aplikasi menggunakan mode interaktif
 * Aplikasi ini menggunakan rute perjalanan
+
+__2.2 Fungsi-fungsi produk__
+
+Fungsi dari aplikasi rental mobiil berdasarkan pengguna sistem ini adalah sebagai berikut:
+a. Membuat user dalam dalam membuat atau membagi sebuah atau beberapa kelompok secara acak dengan mudah dan cepat
+b. Program ini bisa menginputkan list nama peminjam kemudian ditampilkan
   
  __2.3 Karakteristik pengguna__
  
