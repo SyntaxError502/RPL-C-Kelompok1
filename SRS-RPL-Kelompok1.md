@@ -13,3 +13,22 @@ pada saat proses pengembangan perangkat lunak maupun di akhir pengembangannya.
 Dengan adanya dokumen SRS ini diharapkan pengembangan perangkat lunak akan lebih terarah dan lebih 
 terfokus serta tidak menimbulkan ambiguitas terutama bagi pengembang perangkat lunak 
 Aplikasi penyewaan kendaraan dan rute perjalanan.
+
+1.2 Lingkup
+
+Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi penyewaan kendaraan, 
+yaitu merupakan perangkat lunak yang digunakan untuk mempermudah pengguna (user)
+ menyewa kendaraan dan memilih jenis kendaraan beserta mengetahui rute perjalanan 
+
+Aplikasi penyewaan  ini dapat melakukan hal-hal berikut ini :
+- pengguna ( user ) dapat mudah memilih kendaraan yang akan    
+  disewa
+
+- pengguna ( user ) dapat mengetahui langsung harga dari 
+  kendaraan yang disewa 
+
+- pengguna ( user ) dapat mengetahui rute perjalanan yang  
+  akan dituju saat diperjalanan
+
+- Admin dapat menambah dan menghapus dari kendaraan yang 
+  dipakai

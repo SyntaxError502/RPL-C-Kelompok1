@@ -245,6 +245,7 @@ __5.4 Alokasi Budget dan Sumber Daya__
 __5.5 Jadwal__
 
 
+![jadwal](img/jadwal.png)
 
 
 
