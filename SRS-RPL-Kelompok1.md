@@ -34,6 +34,20 @@ Aplikasi penyewaan  ini dapat melakukan hal-hal berikut ini :
   dipakai
   
   BAB 2 GAMBARAN UMUM
+  BAB II
+2.1.5 Antarmuka Komunikasi
+Proses komunikasi dalam aplikasi ini melibatkan pengguna dengan perangkat mobile berbasis android.
+2.1.6 Batasan - Batasan Memori
+Batasan minimum mempri RAM yang dibutuhkan agar sistem berjalan dengan baik adalah minimal 4 GB
+sedangkan ruang cakra padat (hard disk) yang diperlukan adalah 500 GB.
+2.1.7 Operasi - Operasi
+Sebagai penyesuaian operasional untuk pengguna akan dilakukan Training bertingkat.
+Tingkat user/Operator dan Supervisor, masing-masing tingkat memiliki tingkat pengetahuan yang berbeda dan hak akses sistem yang berbeda sehingga pelatihannya pun akan berberda.
+2.1.8 Kebutuhan - Kebutuhan dalam tahapan adaptasi
+
+Perangkat lunak menggunakan bahasa indonesia
+Panduan aplikasi menggunakan mode interaktif
+Aplikasi ini menggunakan rute perjalanan
   
  _2.3 Karakteristik pengguna__
 Karakteristik pengguna dari perangkat lunak adalah pengguna langsung berinteraksi langsung.
