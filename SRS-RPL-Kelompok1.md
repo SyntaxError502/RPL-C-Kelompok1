@@ -33,8 +33,8 @@ Aplikasi penyewaan  ini dapat melakukan hal-hal berikut ini :
 - Admin dapat menambah dan menghapus dari kendaraan yang 
   dipakai
   
-  # BAB 2 
-  # GAMBARAN UMUM
+ BAB 2 
+ GAMBARAN UMUM
 __2.1.5 Antarmuka Komunikasi__
 
 Proses komunikasi dalam aplikasi ini melibatkan pengguna dengan perangkat mobile berbasis android.
