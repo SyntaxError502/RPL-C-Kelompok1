@@ -206,7 +206,7 @@ Kategori Kegiatan :
 
 __5.2 Ketergantungan dan Keterkaitan__
 
-![modul](img/modul.png)
+![](http://i64.tinypic.com/o1mon.png)
 
 Penjelasan dari keterkaitan modul aplikasi ini yaitu terdapat 3 modul
 
@@ -244,12 +244,12 @@ __5.4 Alokasi Budget dan Sumber Daya__
 
 Berikut adalah rincian biaya yang diperlukan untuk penggarapan proyek 2 antara lain :
 
-![Listbudget](img/budget.png)
+![](http://i66.tinypic.com/iy23hd.png)
 
 __5.5 Jadwal__
 
 
-![jadwal](img/jadwal.png)
+![](http://i65.tinypic.com/nxko7k.png)
 
 
 
