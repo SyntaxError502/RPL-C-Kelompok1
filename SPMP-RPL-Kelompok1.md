@@ -5,7 +5,7 @@
 
 __1.1 Gambaran Proyek__
 
-Pada proyek ini kami membuat Aplikasi Penyewaan dan Guide Transportasi.
+Pada proyek ini kami membuat Aplikasi Penyewaan Transportasi Beserta Rute Perjalanan. Aplikasi ini dapat memberikan kemudahan dalam melakukan interaksi penyewaan transportasi. Pada aplikasi ini terdapat rute perjalanan yang dapat dilihat oleh user. Dengan adanya aplikasi ini diharapkan dapat membuat interaksi penyewaan transportasi menjadi lebih efektif dan efisien.
 
 __1.2 Dokumen - Dokumen Dalam Proyek__
 
