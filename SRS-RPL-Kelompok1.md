@@ -94,6 +94,14 @@ sebagai berikut:
     2. Sistem harus dapat mempermudah pengguna/ user dalam menggunakan aplikasi ini.
 
 3 Kebutuhan lain yang spesifik
+-perawatan rutin setiap minggu
+-full serfis setiap bulannya
 
 4 Informasi pendukung
+-internet
+-iklan di berbagai media sosial
+-pamplet
+
+
+
 >>>>>>> bb10f36620bebadef4cf147df65ee7d7589032c9
