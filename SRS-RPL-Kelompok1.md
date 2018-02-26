@@ -94,13 +94,18 @@ sebagai berikut:
     2. Sistem harus dapat mempermudah pengguna/ user dalam menggunakan aplikasi ini.
 
 3 Kebutuhan lain yang spesifik
--perawatan rutin setiap minggu
--full serfis setiap bulannya
+
+    1. perawatan rutin setiap minggu
+    2. full serfis setiap bulannya
+
 
 4 Informasi pendukung
--internet
--iklan di berbagai media sosial
--pamplet
+
+    1. internet
+    2. iklan di berbagai media sosial
+    3. pamplet
+
+
 
 
 
