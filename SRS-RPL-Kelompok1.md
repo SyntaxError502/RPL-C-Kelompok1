@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 SOFTWARE REQUIEREMENTS SPECIFICATION ( SRS )
 
 BAB 1 PENDAHULUAN
@@ -107,6 +106,3 @@ sebagai berikut:
 
 
 
-
-
->>>>>>> bb10f36620bebadef4cf147df65ee7d7589032c9
