@@ -61,7 +61,8 @@ Akronim dan Singkatan :
 
 1.5 Overview
 
-	Dokumen SRS ini merupakan acuan untuk mengetahui spesifikasi kebutuhan dalam menyelesaikan proyek ini. Dokumen SRS ini berisi tentang deskripsi kebutuhan perangkat lunak (tools pendukung , peranan sistem yang akan dikembangkan), perangkat keras, dan sumber daya manusia (SDM)
+Dokumen SRS ini merupakan acuan untuk mengetahui spesifikasi kebutuhan dalam menyelesaikan proyek ini.	
+Dokumen SRS ini berisi tentang deskripsi kebutuhan perangkat lunak (tools pendukung , peranan sistem yang akan dikembangkan), perangkat keras, dan sumber daya manusia (SDM).
   
  BAB 2 
  
