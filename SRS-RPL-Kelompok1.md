@@ -51,7 +51,17 @@ Akronim dan Singkatan :
 
 1.4 Referensi
 
+
+- https://pengertiandefinisi.com/pengertian-aplikasi-dan-sejarah-perkembangan
+  aplikasi/
+
+- IEEE std.830-1998,IEEE Recomended Practice for Software Requitment Specification
+
+- https://hansiaditya.files.wordpress.com/2007/10/uts-rpl-final02.pdf
+
 1.5 Overview
+
+	Dokumen SRS ini merupakan acuan untuk mengetahui spesifikasi kebutuhan dalam menyelesaikan proyek ini. Dokumen SRS ini berisi tentang deskripsi kebutuhan perangkat lunak (tools pendukung , peranan sistem yang akan dikembangkan), perangkat keras, dan sumber daya manusia (SDM)
   
  BAB 2 
  
