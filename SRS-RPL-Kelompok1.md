@@ -32,6 +32,21 @@ Aplikasi penyewaan  ini dapat melakukan hal-hal berikut ini :
 
 - Admin dapat menambah dan menghapus dari kendaraan yang 
   dipakai
+
+1.3 Definisi, Akronim, Singkatan
+
+	Definisi
+		Sistem : Suatu kesatuan yang terdiri komponen atau elemen yang dihubungkan bersama untuk memudahkan aliran informasi, materi atau energi untuk mencapai suatu tujuan.
+
+	Akronim dan Singkatan :
+	
+- SRS = Software Requirement Spesification
+- RAM = Random Akses Memori
+- SKPL = Spesifikasi Kebutuhan Perangkat Lunak
+
+1.4 Referensi
+
+1.5 Overview
   
  BAB 2 
  
@@ -43,7 +58,7 @@ Proses komunikasi dalam aplikasi ini melibatkan pengguna dengan perangkat mobile
 
 __2.1.6 Batasan - Batasan Memori__
 
-Batasan minimum mempri RAM yang dibutuhkan agar sistem berjalan dengan baik adalah minimal 4 GB
+Batasan minimum meliputi RAM yang dibutuhkan agar sistem berjalan dengan baik adalah minimal 4 GB
 sedangkan ruang cakra padat (hard disk) yang diperlukan adalah 500 GB.
 
 __2.1.7 Operasi - Operasi__
