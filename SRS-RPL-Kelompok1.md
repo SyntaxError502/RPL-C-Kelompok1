@@ -36,7 +36,10 @@ Aplikasi penyewaan  ini dapat melakukan hal-hal berikut ini :
 1.3 Definisi, Akronim, Singkatan
 
 	Definisi
-		Sistem : Suatu kesatuan yang terdiri komponen atau elemen yang dihubungkan bersama untuk memudahkan aliran informasi, materi atau energi untuk mencapai suatu tujuan.
+		Sistem : Suatu kesatuan yang terdiri komponen atau
+				 elemen yang dihubungkan bersama untuk
+				 memudahkan aliran informasi,
+				 materi atau energi untuk mencapai suatu tujuan.
 
 	Akronim dan Singkatan :
 	
