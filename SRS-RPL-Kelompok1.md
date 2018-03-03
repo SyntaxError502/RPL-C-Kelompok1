@@ -1,5 +1,7 @@
 SOFTWARE REQUIEREMENTS SPECIFICATION ( SRS )
 
+![Polindra](http://i67.tinypic.com/2exaon4.jpg)
+
 BAB 1 PENDAHULUAN
 
 1.1 Tujuan
