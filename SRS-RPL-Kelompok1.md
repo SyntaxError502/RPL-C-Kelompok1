@@ -69,7 +69,19 @@ Dokumen SRS ini berisi tentang deskripsi kebutuhan perangkat lunak (tools penduk
  BAB 2 
  
  GAMBARAN UMUM
+
+__2.1 Perspektif Produk__
+
+Aplikasi Penyewaan Mobil Beserta Rute Kendaraan Alika Express ini merupakan aplikasi berbasis android yang dapat memudahkan penyewa dalam melakukan proses penyewaan kendaraan.
+
+__2.1.1 Antarmuka Sistem__
+
+__2.1.2 Antarmuka Pengguna__
+
+__2.1.3 Antarmuka Perangkat Keras__
+
  
+
 __2.1.5 Antarmuka Komunikasi__
 
 Proses komunikasi dalam aplikasi ini melibatkan pengguna dengan perangkat mobile berbasis android.
