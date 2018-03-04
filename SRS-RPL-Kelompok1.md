@@ -1,14 +1,21 @@
-SOFTWARE REQUIEREMENTS SPECIFICATION ( SRS )
+__SOFTWARE REQUIEREMENTS SPECIFICATION__
 
-VERSION 1.0
+__VERSION 1.0__
 
 ![Polindra](http://i67.tinypic.com/2exaon4.jpg)
 
-Ade Kartono
-Annisa Kartika Utami
-Ari Irawan
-Hasri Habbeana Pertiwi
-Imam Muhayat
+__Ade Kartono__
+
+__Annisa Kartika Utami__
+
+__Ari Irawan__
+
+__Hasri Habbeana Pertiwi__
+
+__Imam Muhayat__
+
+
+
 
 BAB 1 PENDAHULUAN
 
