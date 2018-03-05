@@ -1,5 +1,7 @@
 __SOFTWARE PROJECT MANAGEMENT PLAN__
 
+__VERSION 1.0__
+
 ![Polindra](http://i66.tinypic.com/30lcn6a.png)
 
 __Disusun Oleh :__
