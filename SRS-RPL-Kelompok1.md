@@ -2,7 +2,7 @@ __SOFTWARE REQUIEREMENTS SPECIFICATION__
 
 __VERSION 1.0__
 
-![Polindra](http://i67.tinypic.com/2exaon4.jpg)
+![Polindra](http://i66.tinypic.com/30lcn6a.png)
 
 __Ade Kartono__
 
@@ -15,6 +15,11 @@ __Hasri Habbeana Pertiwi__
 __Imam Muhayat__
 
 
+__JURUSAN TEKNIK INFORMATIKA__
+
+__POLITEKNIK NEGERI INDRAMAYU__
+
+__2018__
 
 
 BAB 1 PENDAHULUAN
@@ -91,7 +96,33 @@ Aplikasi Penyewaan Mobil Beserta Rute Kendaraan Alika Express ini merupakan apli
 
 __2.1.1 Antarmuka Sistem__
 
+* Use Case Costumers
+
+![Use Case Costumers](http://i66.tinypic.com/mhbtd5.jpg)
+
+* Use Case Admin
+
+![Use Case Admin](http://i65.tinypic.com/34od4w5.jpg)
+
 __2.1.2 Antarmuka Pengguna__
+
+![1](http://i63.tinypic.com/mrb8ko.jpg)
+
+![2](http://i67.tinypic.com/jzchav.jpg)
+
+![3](http://i65.tinypic.com/2vs4zo9.jpg)
+
+![4](http://i64.tinypic.com/2pt57ol.jpg)
+
+![5](http://i63.tinypic.com/29zyo9h.jpg)
+
+![6](http://i66.tinypic.com/hsryv6.jpg)
+
+![7](http://i66.tinypic.com/1609yqe.jpg)
+
+![8](http://i64.tinypic.com/152pdfb.jpg)
+
+![9](http://i63.tinypic.com/dgo613.jpg)
 
 __2.1.3 Antarmuka Perangkat Keras__
 
