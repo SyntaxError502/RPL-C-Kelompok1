@@ -1,3 +1,26 @@
+__SOFTWARE PROJECT MANAGEMENT PLAN__
+
+![Polindra](http://i66.tinypic.com/30lcn6a.png)
+
+__Disusun Oleh :__
+
+__Ade Kartono__
+
+__Annisa Kartika Utami__
+
+__Ari Irawan__
+
+__Hasri Habbeana Pertiwi__
+
+__Imam Muhayat__
+
+__JURUSAN TEKNIK INFORMATIKA__
+
+__POLITEKNIK NEGERI INDRAMAYU__
+
+__2018__
+
+
 ### BAB 1
 
 ### PENDAHULUAN
