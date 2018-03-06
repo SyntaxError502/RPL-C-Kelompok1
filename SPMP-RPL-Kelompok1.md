@@ -244,7 +244,7 @@ __5.4 Alokasi Budget dan Sumber Daya__
 
 Berikut adalah rincian biaya yang diperlukan untuk penggarapan proyek 2 antara lain :
 
-![](http://i66.tinypic.com/iy23hd.png)
+![](http://i65.tinypic.com/28tklsi.png)
 
 __5.5 Jadwal__
 
