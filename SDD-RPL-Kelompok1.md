@@ -44,3 +44,11 @@ Secara ringkas fungsi dari aplikasi ini diantaranya :
 - Customer memasukan data sesuai ketentuan
 - Mengisikan form data transaksi
 - Dan yang terakhir menentukan Rute perjalanannya 
+
+
+
+1.2 LINGKUP
+
+     Hadirnya aplikasi sebagai sarana untuk memudahkan konsumen untuk menggunakan jasa layanan transportasi rental mobil haruslah mempertimbangkan aspek fleksibilitas dalam penggunaan nya, salah satu yang harus tertanam adalah kemudahan untuk syarat sebelum konsumen menggunakan mobil rental. Jika jalur konvensioanal mengharuskan konsumen menyerahkan identitas diri dengan menunjukan data fisik kepada perushaan, kini aktivitas tersebut dapat diganti dengan data digital berupa scan atau copy dari dokumen document tersebut.
+    Perjanjian ketiika terjadinya sebuah insiden sial berupa (kecelakaan) dan laain sebagainya.
+    
