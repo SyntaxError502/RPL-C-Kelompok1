@@ -49,7 +49,7 @@ Secara ringkas fungsi dari aplikasi ini diantaranya :
 
 1.2 LINGKUP
 
-Fleksibel
+     Fleksibel
      Hadirnya aplikasi sebagai sarana untuk memudahkan konsumen untuk 
      menggunakan jasa layanan transportasi rental mobil haruslah mempertimbangkan 
      aspek fleksibilitas dalam penggunaan nya, salah satu yang harus tertanam adalah kemudahan 
@@ -58,13 +58,13 @@ Fleksibel
      kini aktivitas tersebut dapat diganti dengan data digital berupa scan atau copy dari dokumen document tersebut.
      Perjanjian ketiika terjadinya sebuah insidensial berupa (kecelakaan) dan lain sebagainya.
     
-Informasi Detil
+     Informasi Detil
      Aplikasi rental mobil yang baik adalah yang mampu memberikan infomasi secara komprehensif kepada konsumen, 
      melalui media aplikasi tersebut penyedia jasa haruslah memberikan detil jasa yang ditawarkan, 
      informasi dapat berupa varian dan tipe mobil yang dapat dipilih oleh konsumen berikut harga sewa yang harus dibayarkan, 
      jangan lupa untuk menambahkan tahun keluaran mobil dan ketentuan tertentu untuk force majeur.
 
-Komunikatif
+     Komunikatif
      Tak hanya sebagai sarana pemesanan mobil, aplikasi rental mobil haruslah mampu menghadirkan komunikasi dua arah 
      antara konsumen dan operator penyedia jasa, kehadirran fitur ini semata mata untuk memberikan kenyamanan konsumen 
      selama mereka menggunakan mobil dari perusahaan rental. Adanya fitur komunisi dua arah membuat pemilik rental mudah 
@@ -72,7 +72,7 @@ Komunikatif
      yang menghambat aktifitas konsumen, pemilik rental mobil tentu dengan mudah mengirimkan mobil pengganti 
      atau teknisi untuk mengatasi permasalahan tersebut.
 
-GPS dan Tracking
+     GPS dan Tracking
      Melalui aplikasi, konsumen tentu dengan mudah melacak keberadaan mobil rental yang hendak disewa, 
      lewat fitur ini konsumen dapat mendeteksi mobil yang paling dekat dengan lokasi mereka secara real time. 
      Meskipun fitur ini mungkin berlebihan untuk aplikasi rental mobil, tak ada salahnya memberikan informasi detil 
