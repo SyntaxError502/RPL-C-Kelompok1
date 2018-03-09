@@ -83,3 +83,6 @@ Secara ringkas fungsi dari aplikasi ini diantaranya :
      SO        : Fron Offices
      SKPL      : Spesifikasi Perangkat Lunak
      ADMIN     : Administrator
+     
+ 
+ Tabele ora bisa nganue cah, anuaken
