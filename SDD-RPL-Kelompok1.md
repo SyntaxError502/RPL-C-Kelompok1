@@ -78,6 +78,7 @@ Secara ringkas fungsi dari aplikasi ini diantaranya :
      lewat aplikasi kepada konsumen.
 
 1.3 Definisi, akronim, singkatan
+
      SKPL      : Spesifikasi Kebutuhan Perangkat Lunak
      SO        : Fron Offices
      SKPL      : Spesifikasi Perangkat Lunak
