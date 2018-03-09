@@ -274,7 +274,7 @@ Berikut adalah rincian biaya yang diperlukan untuk penggarapan proyek 2 antara l
 __5.5 Jadwal__
 
 
-![](http://i65.tinypic.com/nxko7k.png)
+![](http://i63.tinypic.com/6rnatu.jpg)
 
 
 
