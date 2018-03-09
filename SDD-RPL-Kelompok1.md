@@ -56,7 +56,6 @@ Secara ringkas fungsi dari aplikasi ini diantaranya :
      untuk syarat sebelum konsumen menggunakan mobil rental. Jika jalur konvensioanal mengharuskan 
      konsumen menyerahkan identitas diri dengan menunjukan data fisik kepada perushaan, 
      kini aktivitas tersebut dapat diganti dengan data digital berupa scan atau copy dari dokumen document tersebut.
-     Perjanjian ketiika terjadinya sebuah insidensial berupa (kecelakaan) dan lain sebagainya.
     
      Informasi Detil
      Aplikasi rental mobil yang baik adalah yang mampu memberikan infomasi secara komprehensif kepada konsumen, 
@@ -77,3 +76,9 @@ Secara ringkas fungsi dari aplikasi ini diantaranya :
      lewat fitur ini konsumen dapat mendeteksi mobil yang paling dekat dengan lokasi mereka secara real time. 
      Meskipun fitur ini mungkin berlebihan untuk aplikasi rental mobil, tak ada salahnya memberikan informasi detil 
      lewat aplikasi kepada konsumen.
+
+1.3 Definisi, akronim, singkatan
+     SKPL      : Spesifikasi Kebutuhan Perangkat Lunak
+     SO        : Fron Offices
+     SKPL      : Spesifikasi Perangkat Lunak
+     ADMIN     : Administrator
