@@ -61,7 +61,7 @@ Secara ringkas fungsi dari aplikasi ini diantaranya :
      Aplikasi rental mobil yang baik adalah yang mampu memberikan infomasi secara komprehensif kepada konsumen, 
      melalui media aplikasi tersebut penyedia jasa haruslah memberikan detil jasa yang ditawarkan, 
      informasi dapat berupa varian dan tipe mobil yang dapat dipilih oleh konsumen berikut harga sewa yang harus dibayarkan, 
-     jangan lupa untuk menambahkan tahun keluaran mobil dan ketentuan tertentu untuk force majeur.
+     jangan lupa untuk menambahkan tahun keluaran mobil dan ketentuan tertentu.
 
      Komunikatif
      Tak hanya sebagai sarana pemesanan mobil, aplikasi rental mobil haruslah mampu menghadirkan komunikasi dua arah 
