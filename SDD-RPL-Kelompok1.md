@@ -1,27 +1,27 @@
-## SOFTWARE DESIGN DESCRIPTION ##
+<html>
+<body><div align="center"><h1>Software Design Document</h1></div>
+<p align="center"><b>Version 1.0 </b><br>
+<p align="center">11 Maret 2018<br><br>
+<p align="center">
+<img src="http://i67.tinypic.com/mwba89.png"/>
+</p>
 
+<br><p align="center"><b> APLIKASI SISTEM PENYEWAAN KENDARAAN BESERTA RUTE PERJALANAN (ALIKHA EXPRESS) </b><br>
 
+<p align="center"><b>Kelompok 1</b><br>
+ Annisa Kartika Utami 			(1603061)<br>
+ Ari Irawan				  (1603063)<br>
+ Hasri Habbeana Pertiwi			(1603070)<br>
+ Imam Muhayat    	(1603071)<br>
+ Ade Kartono    	(1503029)<br><br><br>
 
-### 1. PENDAHULUAN ###
+<p align="center"><b>Jurusan Teknik Informatika</b><br>
+<p align="center"><b>Politeknik Negeri Indramayu</b><br>
+<p align="center"><b>2018</b><br><br>
+</p>
+</body>
+</html>
 
-
-1.1 TUJUAN
-
-Tujuan pembuatan SDD (Software Design Description) ini adalah untuk menjelaskan
-langkah langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan
-diterapkan pada Aplikasi penyewaan kendaraan dan rute perjalanan, dan juga memberi definisi kebutuhan
-untuk sistem, spesifikasi kebutuhan fungsional.
-Fungsi utama dari aplikasi ini adalah mempermudah customer memesan kendaraan untuk disewa dan dapat memantau rute yang akan dituju.
-
-Secara ringkas fungsi dari aplikasi ini diantaranya :
-
-- Customer mengunduh dan menginstall aplikasi ini.
-- Customer Login ke aplikasi jika belum terdaftar sign up terlebih dahulu
-- Mencari dan memilih mobil yang akan disewa
-- Customer memasukan data sesuai ketentuan
-- Mengisikan form data transaksi
-
-## SOFTWARE DESIGN DESCRIPTION ##
 
 
 
@@ -84,5 +84,6 @@ Secara ringkas fungsi dari aplikasi ini diantaranya :
      SKPL      : Spesifikasi Perangkat Lunak
      ADMIN     : Administrator
      
- 
- Tabele ora bisa nganue cah, anuaken
+
+__DFD__
+![Context Diagram](http://i64.tinypic.com/234iah.jpg)
