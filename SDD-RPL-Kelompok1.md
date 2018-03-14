@@ -1,5 +1,5 @@
 <html>
-<body><div align="center"><h1>Software Design Document</h1></div>
+<body><div align="center"><h1>Software Design Description</h1></div>
 <p align="center"><b>Version 1.0 </b><br>
 <p align="center">11 Maret 2018<br><br>
 <p align="center">
