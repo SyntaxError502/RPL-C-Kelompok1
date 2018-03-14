@@ -1,26 +1,26 @@
-						__SOFTWARE PROJECT MANAGEMENT PLAN__
+__SOFTWARE PROJECT MANAGEMENT PLAN__
 
-							__VERSION 1.0__
+__VERSION 1.0__
 
-							![Polindra](http://i66.tinypic.com/30lcn6a.png)
+![Polindra](http://i66.tinypic.com/30lcn6a.png)
 
-							__Disusun Oleh :__
+__Disusun Oleh :__
 
-							__Ade Kartono__
+__Ade Kartono__
 
-							__Annisa Kartika Utami__
+__Annisa Kartika Utami__
 
-							__Ari Irawan__
+__Ari Irawan__
 
-							__Hasri Habbeana Pertiwi__
+__Hasri Habbeana Pertiwi__
 
-							__Imam Muhayat__
+__Imam Muhayat__
 
-						__JURUSAN TEKNIK INFORMATIKA__
+__JURUSAN TEKNIK INFORMATIKA__
 
-						__POLITEKNIK NEGERI INDRAMAYU__
+__POLITEKNIK NEGERI INDRAMAYU__
 
-						           __2018__
+ __2018__
 
 
 ### BAB 1
