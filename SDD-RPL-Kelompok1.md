@@ -85,6 +85,10 @@ Secara ringkas fungsi dari aplikasi ini diantaranya :
      ADMIN     : Administrator
      
 
-__DFD__
+__Context Diagram__
 
 ![Context Diagram](http://i64.tinypic.com/234iah.jpg)
+
+
+__DFD__
+![DFD Level 0](http://i65.tinypic.com/fmjbba.png)
