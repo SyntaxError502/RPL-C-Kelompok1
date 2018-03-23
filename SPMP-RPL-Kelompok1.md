@@ -1,31 +1,30 @@
-__SOFTWARE PROJECT MANAGEMENT PLAN__
+<html>
+<body><div align="center"><h1>Software Project Management Plan</h1></div>
+<p align="center"><b>Version 1.0 </b><br>
+<p align="center">23 Maret 2018<br><br>
+<p align="center">
+<img src="http://i67.tinypic.com/mwba89.png"/>
+</p>
 
-__VERSION 1.0__
+<br><p align="center"><b> APLIKASI SISTEM PENYEWAAN KENDARAAN BESERTA RUTE PERJALANAN (ALIKHA EXPRESS) </b><br>
 
-![Polindra](http://i66.tinypic.com/30lcn6a.png)
+<p align="center"><b>Kelompok 1</b><br>
+ Annisa Kartika Utami 			(1603061)<br>
+ Ari Irawan				  (1603063)<br>
+ Hasri Habbeana Pertiwi			(1603070)<br>
+ Imam Muhayat    	(1603071)<br>
+ Ade Kartono    	(1503029)<br><br><br>
 
-__Disusun Oleh :__
-
-__Ade Kartono__
-
-__Annisa Kartika Utami__
-
-__Ari Irawan__
-
-__Hasri Habbeana Pertiwi__
-
-__Imam Muhayat__
-
-__JURUSAN TEKNIK INFORMATIKA__
-
-__POLITEKNIK NEGERI INDRAMAYU__
-
- __2018__
+<p align="center"><b>Jurusan Teknik Informatika</b><br>
+<p align="center"><b>Politeknik Negeri Indramayu</b><br>
+<p align="center"><b>2018</b><br><br>
+</p>
+</body>
+</html>
 
 
-### BAB 1
 
-### PENDAHULUAN
+__BAB 1 PENDAHULUAN__
 
 __1.1 Gambaran Proyek__
 
@@ -41,43 +40,52 @@ Dokumen ini dirawat oleh masing-masing anggota sesuai dengan tanggung jawabnya. 
 
 __1.4 Material Acuan__
 
+Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum, siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi umum serta mengakui proses, kegiatan dan tugas. IEEE adalah sebuah organisasi profesi nirlaba yang terdiri dari banyak ahli dibidang teknik yang mempromosikan pengembangan standar-standar dan bertindak sebagai pihak yang mempercepat teknologi- teknologi baru dalam semua aspek dalam industry dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika. Tujuan inti IEEE adalah mendorong inovasi teknologi dan kesempurnaan untuk kepentingan kemanusiaan.Visi IEEE adalah akan menjadi penting untuk masyarakat teknis global dan professional teknis dimana-mana dan dikenal secara universal untuk kontribusi teknologi dan teknis yang professional dalam meningkatkan kondisi perkembangan global. Standar dalam IEEE adalah mengatur fungsi, kemampuan dan interoperabilitas dari berbagai macam produk dan layanan yang mengubah cara orang hidup, bekerja dan berkomunikasi.
+
 __1.5 Definisi dan Akronim__
 
-* Definisi
+Sistem : Suatu kesatuan yang terdiri komponen atau elemen yang dihubungkan bersama untuk memudahkan aliran informasi, materi atau energi untuk mencapai suatu tujuan.
 
-__Sistem__ : Suatu kesatuan yang terdiri komponen atau elemen yang dihubungkan bersama untuk memudahkan aliran informasi, materi atau energi untuk mencapai suatu tujuan.
+Aplikasi : Suatu program komputer yang dibuat untuk mengerjakan dan melaksanakan tugas khusus dari pengguna.
 
-__Aplikasi__ : Suatu program komputer yang dibuat untuk mengerjakan dan melaksanakan tugas khusus dari pengguna.
+Penyewaan : Sebuah persetujuan di mana sebuah pembayaran dilakukan atas penggunaan suatu barang atau properti secara sementara oleh orang lain. Barang yang dapat disewa bermacam-macam, tarif dan lama sewa juga bermacam-macam.
 
-__Penyewaan__ : Sebuah persetujuan di mana sebuah pembayaran dilakukan atas penggunaan suatu barang atau properti secara sementara oleh orang lain. Barang yang dapat disewa bermacam-macam, tarif dan lama sewa juga bermacam-macam.
+IEEE : The International Institute of Electronic and Electrical Engineers.
 
-* Akronim
 
-## 2. Organisasi proyek
+__BAB 2 ORGANISASI PROYEK__
 
 __2.1 Model Prosess__
-aplikasi ini berbasis pernagkat lunak
 
-__sistem ini__
+Model proses yang akan digunakan dalam proyek ini adalah V Model. V Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang.
 
 __2.2 Struktur Organisasi__
-Project manager
-programer
-analisis
+
+Project Manager : Imam Muhayat
+
+Anggota	    :
+
+1. Annisa Kartika Utami	(UI/UX Design)
+2. Ari Irawan 		(Analisis)
+3. Hasri Habbeana Pertiwi 	(Database)
+4. Ade Kartono		(Pogrammer)
+
+
 __2.3 Batasan dan antarmuka organisasi__
 Project manager yang bertanggung jawab penuh pada prject yang kita buat
 programer yang bertanggung jawab membuat dan menyempurnakan program
 analisis bertanggung jawab memberikan gmabaran project dan alur pengkodingan pada programer
 
-__2.4 Lingkup tanggung jawab__
+__2.4 Lingkup Tanggung Jawab__
+
 __Penjelasan__
-lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pembuatan proyek ini
+
+Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pembuatan proyek ini
 project manager :seseorang yang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim tidak hanya fokus pada hal-hal yang teknis sifatnya manager juga harus memenjemen tim dengan baik agar target project tercapai. selain itu beri pengarahan, memonitoring kinejrha tim serta membagi tugas juga bagian tanggung jawab dari seorang manager
 Programer :Dalam hal ini, seorang programer bertugas unutk mengimplementsikan dari sistem yang sudah dirancang didesaign . programer dituntut dalam penulisan code program dengan baik, dan efesien . hal ini dimaksudkan menghindari terjadi nya banyak oror dalam proses implentsinya.
 Ananlisis :Banyak hal yang harus dilakukan oleh seorang analisis, terutama yang berkaitan dengan pemecehan maslah. seorang sistem analisis harus mampu menganalisa segala kemungkinan dari permaslahan yang ada, dan dapat menghasilkan solusi yang tepat dari permasalahan tersebut. menentukan sistem yang tepat merupakan bagian dari tugas seorang analiss, sehingga kinerja tim dapat berjalan secara efesien
 
-### BAB 3
-### Proses Manajerial
+__BAB 3 PROSES MANAGERIAL__
 
 __3.1 Tujuan dan Prioritas Manajemen__
 
@@ -113,102 +121,52 @@ __3.5 Perencanaan Staf__
 * Mengimplementasikan
 
 
-###BAB 4
-. Proses teknis
-4.1 Metoda, tool, dan teknik
+__BAB 4 PROSES TEKNIK__
 
-4.2 Dokumentasi perangkat lunak
+__4.1 Metoda, Tool, dan Teknik__
 
-4.3 Fungsi-fungsi pendukung proyek
+Metode SDLC (The sytems development life cycle) adalah model konseptual yang digunakan dalam manajemen pengembangan proyek sistem informasi dari studi kelayakan hingga aplikasi selesai dibangun. Enam langkah utama dari SDLC yang paling sering digunakan oleh para software developer meliputi :
 
-PROSES TEKNIS
-
-4.1 Metoda, tool, dan teknis
-
-1.metode
-Penelitian ini menggunakan
-
-metode SDLC (The sytems development life cycle) adalah model konseptual yang digunakan dalam manajemen pengembangan proyek sistem informasi dari studi kelayakan hingga aplikasi selesai dibangun. Enam langkah utama dari SDLC yang paling sering digunakan oleh para software developer meliputi :
-
-1.Studi kelayakan
-
+a.	Studi kelayakan
 Mempelajari konsep sistem yang diinginkan oleh pihak manajemen dengan pengambilan keputusan untuk mengupdate sistem yang sudah ada atau mengganti dengan yang baru.
 
-2.Analisis
-
+b.	Analisis
 Mengumpulkan, mempelajari kebutuhan secara analisis dengan masukan dari konsumen.
 
-3.Desain
+c.	Desain
+Developer melakukan pembuatanblueprintsistem.Dengan penyesuaian arsitektur komunikasi, software, hardware serta membuat model sistem secara graphical user interface (GUI), data base dan lain – lain unyuk pengembangan lebih lanjut.
 
-Developer melakukan pembuatan
+d.	Pengembangan
+Developer melakukan koding untuk menerapkan desain kedalam sistem yang sesungguhnya, membuat program dan menyiapkan database.
 
-blueprintsistem.Dengan
-
-penyesuaian arsitektur komunikasi, software, hardware serta membuat model sistem secara graphical user interface (GUI), data base dan lain – lain unyuk pengembangan lebih lanjut.
-
-4.Pengembangan
-
-Developer melakukan koding
-
-untukmenerapkandesain
-
-kedalamsistemyang
-
-sesumgguhnya, membuat program dan menyiapkan data base.
-
-5.Pengujian
-
+e.	Pengujian
 Melakukan pengujian terhadap sistem yang dikembangkan apakah sesuai dengan harapan dan kebutuhan pengguna serta melakukan debugging dan penyesuain akhir.
 
-6.Implementasi
-
+f.	Implementasi
 Software yang telah diuji lalu diimplemetasikan kedalam sistem pengguna serta membuat panduan manual maupun pelatihan.
 
-*tool
 
-*treknis
-
-4.2 Dokumentasi peragkat lunak
+__4.2 Dokumentasi Perangkat Lunak__
 
 Dalam pengembangan perangkat lunak professional, dokumentasi merupakan hal yang fital, oleh karena itu oleh karena itu projeck manager dan Software Engineer harus memperhatikan dokumentasi. Adapun dokumentasi perangkat lunak terbagi dalam 2 yaitu,
 
-1.Dokumentasi proses
+a.	Dokumentasi proses Adalah pekerjaan dokumentasi yang merekam semua proses pengimbangan dan perawatan (maintenance). Adapun hal-hal yang di catat dalam dokumentasi adalah rencana-rencana, jadwal, Standar organisasi, Standar proses.
 
-2.Dokumentasi produk
+b.	Dokumentasi produk Menggambarkan produk yang sudah di kembangkan.
 
-1.Dokumentasi proses
-Adalah pekerjaan dokumentasi yang merekam semua proses pengimbangan dan perawatan (maintenance). Adapun hal-hal yang di catat dalam dokumentasi adalah rencana-rencana, jadwal, Standar organisasi, Standar proses.
 
-2. Dokumentasi produk
-Menggambarkan produk yang sudah di kembangkan
+__4.3 Fungsi-Fungsi Pendukung Proyek__
 
-4.3 Fungsi-fungsi pendukung proyek
+a.	Laptop Untuk membuat projek dan merangkum semua materi dll.
 
-laptop
-Untuk membuat projek dan merangkum semua materi dll
-
-internet
-Untuk membantu mencari referensi projeck
-
-material
+b.	Internet Untuk membantu mencari referensi projeck material
 
 
 
-
-
-
-
-### BAB 5
-### Paket Pekerjaan, Jadwal dan Budget
+__BAB 5 Paket Pekerjaan, Jadwal dan Budget__
 
 __5.1 Paket Pekerjaan__
 
-- ANNISA KARTIKA UTAMI
-- ARI IRAWAN
-- IMAM MUHAYAT
-- HASRI HABBEANA PERTIWI
-- ADE KARTONO
-		
 
 | Nama | JobDesk | Rincian Pekerjaan |
 | ----------- | :---------: | ----------: |
@@ -244,7 +202,7 @@ diharuskan login terlebih dahulu sedangkan penyewa disini hanya menginput data j
 
 __5.3 Kebutuhan-Kebutuhan Sumber Daya__
 
-5.3.1 Kebutuhan Sumber Daya Manusia
+__5.3.1 Kebutuhan Sumber Daya Manusia__
 
 - Annisa Kartika Utami
 - Ari Irawan
@@ -252,13 +210,13 @@ __5.3 Kebutuhan-Kebutuhan Sumber Daya__
 - Hasri Habbeana Pertiwi
 - Ade Kartono
 
-5.3.2 Kebutuhan Sumber Daya Software
+__5.3.2 Kebutuhan Sumber Daya Software__
 
 - Android studio
 - Mysql
 - emulator
 
-5.3.3 Kebutuhan Sumber Daya Hardware
+__5.3.3 Kebutuhan Sumber Daya Hardware__
 
 - Pc/Laptop
 - flashdrive

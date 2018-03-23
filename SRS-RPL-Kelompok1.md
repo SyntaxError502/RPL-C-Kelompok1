@@ -1,30 +1,32 @@
-__SOFTWARE REQUIEREMENTS SPECIFICATION__
+<html>
+<body><div align="center"><h1>Software Requirement Specification</h1></div>
+<p align="center"><b>Version 1.0 </b><br>
+<p align="center">23 Maret 2018<br><br>
+<p align="center">
+<img src="http://i67.tinypic.com/mwba89.png"/>
+</p>
 
-__VERSION 1.0__
+<br><p align="center"><b> APLIKASI SISTEM PENYEWAAN KENDARAAN BESERTA RUTE PERJALANAN (ALIKHA EXPRESS) </b><br>
 
-![Polindra](http://i66.tinypic.com/30lcn6a.png)
+<p align="center"><b>Kelompok 1</b><br>
+ Annisa Kartika Utami 			(1603061)<br>
+ Ari Irawan			(1603063)<br>
+ Hasri Habbeana Pertiwi			(1603070)<br>
+ Imam Muhayat    	(1603071)<br>
+ Ade Kartono    	(1503029)<br><br><br>
 
-__Ade Kartono__
-
-__Annisa Kartika Utami__
-
-__Ari Irawan__
-
-__Hasri Habbeana Pertiwi__
-
-__Imam Muhayat__
-
-
-__JURUSAN TEKNIK INFORMATIKA__
-
-__POLITEKNIK NEGERI INDRAMAYU__
-
-__2018__
+<p align="center"><b>Jurusan Teknik Informatika</b><br>
+<p align="center"><b>Politeknik Negeri Indramayu</b><br>
+<p align="center"><b>2018</b><br><br>
+</p>
+</body>
+</html>
 
 
-BAB 1 PENDAHULUAN
 
-1.1 Tujuan
+__BAB 1 PENDAHULUAN__
+
+__1.1 Tujuan__
 
 Dokumen ini berisi Spesifikasi Kebutuhan Perangkat Lunak (SKPL) atau Software Requirement Spesification (SRS) untuk Aplikasi penyewaan kendaraan dan rute perjalanan.Tujuan dari penulisan dokumen ini adalah untuk memberikan penjelasan mengenai perangkat lunak yang akan dibangun baik berupa gambaran umum maupun penjelasan detail dan menyeluruh.
 
@@ -36,26 +38,26 @@ Dengan adanya dokumen SRS ini diharapkan pengembangan perangkat lunak akan lebih
 terfokus serta tidak menimbulkan ambiguitas terutama bagi pengembang perangkat lunak 
 Aplikasi penyewaan kendaraan dan rute perjalanan.
 
-1.2 Lingkup
+__1.2 Lingkup__
 
 Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi penyewaan kendaraan, 
 yaitu merupakan perangkat lunak yang digunakan untuk mempermudah pengguna (user)
- menyewa kendaraan dan memilih jenis kendaraan beserta mengetahui rute perjalanan 
+ menyewa kendaraan dan memilih jenis kendaraan beserta mengetahui rute perjalanan.
 
 Aplikasi penyewaan  ini dapat melakukan hal-hal berikut ini :
-- pengguna ( user ) dapat mudah memilih kendaraan yang akan    
+- Pengguna (user) dapat mudah memilih kendaraan yang akan    
   disewa
 
-- pengguna ( user ) dapat mengetahui langsung harga dari 
+- Pengguna (user) dapat mengetahui langsung harga dari 
   kendaraan yang disewa 
 
-- pengguna ( user ) dapat mengetahui rute perjalanan yang  
+- Pengguna (user) dapat mengetahui rute perjalanan yang  
   akan dituju saat diperjalanan
 
 - Admin dapat menambah dan menghapus dari kendaraan yang 
   dipakai
 
-1.3 Definisi, Akronim, Singkatan
+__1.3 Definisi, Akronim, Singkatan__
 
 * Definisi
 
@@ -71,7 +73,7 @@ Akronim dan Singkatan :
 - RAM = Random Akses Memori
 - SKPL = Spesifikasi Kebutuhan Perangkat Lunak
 
-1.4 Referensi
+__1.4 Referensi__
 
 
 - https://pengertiandefinisi.com/pengertian-aplikasi-dan-sejarah-perkembangan
@@ -81,14 +83,12 @@ Akronim dan Singkatan :
 
 - https://hansiaditya.files.wordpress.com/2007/10/uts-rpl-final02.pdf
 
-1.5 Overview
+__1.5 Overview__
 
 Dokumen SRS ini merupakan acuan untuk mengetahui spesifikasi kebutuhan dalam menyelesaikan proyek ini.	
 Dokumen SRS ini berisi tentang deskripsi kebutuhan perangkat lunak (tools pendukung , peranan sistem yang akan dikembangkan), perangkat keras, dan sumber daya manusia (SDM).
   
- BAB 2 
- 
- GAMBARAN UMUM
+__BAB 2 GAMBARAN UMUM__
 
 __2.1 Perspektif Produk__
 
@@ -107,19 +107,15 @@ __2.1.1 Antarmuka Sistem__
 __2.1.2 Antarmuka Pengguna__
 
 ![1](http://i63.tinypic.com/mrb8ko.jpg)
-
 ![2](http://i67.tinypic.com/jzchav.jpg)
 
 ![3](http://i65.tinypic.com/2vs4zo9.jpg)
-
 ![4](http://i64.tinypic.com/2pt57ol.jpg)
 
 ![5](http://i63.tinypic.com/29zyo9h.jpg)
-
 ![6](http://i66.tinypic.com/hsryv6.jpg)
 
 ![7](http://i66.tinypic.com/1609yqe.jpg)
-
 ![8](http://i64.tinypic.com/152pdfb.jpg)
 
 ![9](http://i63.tinypic.com/dgo613.jpg)
@@ -172,7 +168,7 @@ __2.5 Asumsi-asumsi dan ketergantungan/keterkaitan__
    
    
    
-##2.6 Kebutuhan-kebutuhan penyeimbang
+__2.6 Kebutuhan-kebutuhan penyeimbang__
 
 Kebutuhan fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan yang memiliki input,proses, dan output.
 
@@ -180,20 +176,48 @@ kebutuhan fungsional yang harus ada dalam sistem yang akan dikembangkan adalah
 
 sebagai berikut:
 
-    1. Sistem harus dapat mempermudah pengguna/user dalam konsumen.
-    2. Sistem harus dapat mempermudah pengguna/ user dalam menggunakan aplikasi ini.
+1. Sistem harus dapat mempermudah pengguna/user dalam konsumen.
+2. Sistem harus dapat mempermudah pengguna/ user dalam menggunakan aplikasi ini.
 
-3 Kebutuhan lain yang spesifik
+Kebutuhan lain yang spesifik
 
-    1. perawatan rutin setiap minggu
-    2. full serfis setiap bulannya
-
-
-4 Informasi pendukung
-
-    1. internet
-    2. iklan di berbagai media sosial
-    3. pamplet
+1. Perawatan rutin setiap minggu
+2. Full service setiap bulannya
 
 
+Informasi Pendukung
 
+  1. Internet
+  2. Iklan di berbagai media sosial
+  3. Pamflet
+
+
+__BAB 3 DESKRIPSI RINCI KEBUTUHAN__
+
+__3.1 Kebutuhan AntarMuka Eksternal__
+
+Kebutuhan antarmuka eksternal pada perangkat lunak Sistem Aplikasi Penyewaan Kendaraan beserta Rute Perjalanan Alikha Ekspress mencakup kebutuhan antarmuka pemakai, antarmuka perangkat keras, dan antarmuka perangkat lunak.
+
+__3.2 Kebutuhan Fungsional__
+
+Kebutuhan Fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan yang memiliki input, proses, dan output. Kebutuhan fungsional yang harus ada dalam sistem yang akan dikembangkan ini adalah sebagai berikut:
+
+1.	Sistem harus dapat menyediakan informasi mengenai penyewaan kendaraan secara lebih detail, cepat dan efektif.
+2.	Sistem harus dapat mempermudah user dalam proses penyewaan kendaraan.
+
+Aktor yang ada dalam dalam lingkup sistem adalah:
+
+__a. Admin__
+
+Yang dilakukan adalah : Login, menyediakan fasilitas untuk penyewaan kendaraan(memasukkan stok kendaraan, memberikan promo) dan Memilih menu-menu yang tersedia.
+
+__b. Customer__
+
+Yang dilakukan adalah : Login , melakukan pemesanan (Mengisi data, melihat data mobil) dan Memilih menu-menu yang tersedia.
+
+__3.3 Structur Logis dari Data__
+![ERD](http://i66.tinypic.com/t86cna.jpg)
+
+__3.4 Pemeliharaan__
+
+Untuk pemeliharaannya dapat dilakukan oleh admin dengan cara memantau , mengupdate ataupun menghapus data kendaraan yang tersedia pada Sistem Aplikasi Penyewaan Kendaraan Beserta Rute Perjalanan (Alikha Express).
