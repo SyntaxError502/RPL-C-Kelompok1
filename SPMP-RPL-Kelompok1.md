@@ -44,18 +44,18 @@ Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, k
 
 __1.5 Definisi dan Akronim__
 
-Sistem : Suatu kesatuan yang terdiri komponen atau elemen yang dihubungkan bersama untuk memudahkan aliran informasi, materi atau energi untuk mencapai suatu tujuan.
-
-Aplikasi : Suatu program komputer yang dibuat untuk mengerjakan dan melaksanakan tugas khusus dari pengguna.
-
-Penyewaan : Sebuah persetujuan di mana sebuah pembayaran dilakukan atas penggunaan suatu barang atau properti secara sementara oleh orang lain. Barang yang dapat disewa bermacam-macam, tarif dan lama sewa juga bermacam-macam.
-
-IEEE : The International Institute of Electronic and Electrical Engineers.
-
+|------------------------------------------------------------------------|
+| **Sistem** | Suatu kesatuan yang terdiri komponen atau elemen yang dihubungkan bersama untuk memudahkan aliran informasi, materi atau energi untuk mencapai suatu tujuan. |
+| **Aplikasi** | Suatu program komputer yang dibuat untuk mengerjakan dan melaksanakan tugas khusus dari pengguna. |
+| **Penyewaan** | Sebuah persetujuan di mana sebuah pembayaran dilakukan atas penggunaan suatu barang atau properti secara sementara oleh orang lain. Barang yang dapat disewa bermacam-macam, tarif dan lama sewa juga bermacam-macam. |
+| **IEEE** | The International Institute of Electronic and Electrical Engineers.
+ 
 
 __BAB 2 ORGANISASI PROYEK__
 
 __2.1 Model Prosess__
+
+![](http://i67.tinypic.com/n1v0cm.jpg)
 
 Model proses yang akan digunakan dalam proyek ini adalah V Model. V Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang.
 
@@ -72,18 +72,23 @@ Anggota	    :
 
 
 __2.3 Batasan dan antarmuka organisasi__
+
 Project manager yang bertanggung jawab penuh pada prject yang kita buat
 programer yang bertanggung jawab membuat dan menyempurnakan program
 analisis bertanggung jawab memberikan gmabaran project dan alur pengkodingan pada programer
 
 __2.4 Lingkup Tanggung Jawab__
 
-__Penjelasan__
 
-Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pembuatan proyek ini
-project manager :seseorang yang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim tidak hanya fokus pada hal-hal yang teknis sifatnya manager juga harus memenjemen tim dengan baik agar target project tercapai. selain itu beri pengarahan, memonitoring kinejrha tim serta membagi tugas juga bagian tanggung jawab dari seorang manager
-Programer :Dalam hal ini, seorang programer bertugas unutk mengimplementsikan dari sistem yang sudah dirancang didesaign . programer dituntut dalam penulisan code program dengan baik, dan efesien . hal ini dimaksudkan menghindari terjadi nya banyak oror dalam proses implentsinya.
-Ananlisis :Banyak hal yang harus dilakukan oleh seorang analisis, terutama yang berkaitan dengan pemecehan maslah. seorang sistem analisis harus mampu menganalisa segala kemungkinan dari permaslahan yang ada, dan dapat menghasilkan solusi yang tepat dari permasalahan tersebut. menentukan sistem yang tepat merupakan bagian dari tugas seorang analiss, sehingga kinerja tim dapat berjalan secara efesien
+Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pembuatan proyek ini :
+
+|------------------------------------------------------------------------------|
+| **Project Manager** | Seseorang yang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim tidak hanya fokus pada hal-hal yang teknis sifatnya manager juga harus memenjemen tim dengan baik agar target project tercapai. selain itu beri pengarahan, memonitoring kinejrha tim serta membagi tugas juga bagian tanggung jawab dari seorang manager. |
+| **Web Developer** | Seorang Web Developer bertugas untuk mengimplementasikan dari sistem yang sudah dirancang. Web Developer dituntut dapat menuliskan code program dengan baik, dan efesien pada platform Web. Hal ini dimaksudakan untuk menghindari terjadinya banyak error dalam proses implementasinya. |
+| **Android Developer** | Sama halnya dengan Web Developer, Android Developer bertugas untuk mengimplementasikan dari sistem yang sudah dirancang didesain. Programmer dituntut dapat menuliskan code program dengan baik, dan efesien pada platform Android. Hal ini dimaksudakan untuk menghindari terjadinya banyak error dalam proses implementasinya. |
+| **Designer UI/UX** | Bertanggung jawab atas perancangan antarmuka dari aplikasi atau program dalam proyek. Baik dari sisi admin maupun user lainnya. Tugas dari designer meliputi perancangan dan pembuatan antarmuka dari aplikasi dari setiap user. |
+| **Database Engineer** | Dituntut untuk bisa membuat rancangan database yang dibutuhkan oleh aplikasi dalam proyek. Tugas database engineer meliputi perancangan dan pembuatan database dari aplikasi dan bertanggung jawab atas jalannya data dari aplikasi tersebut agar tidak terjadinya redudansi ataupun kesalahan data. |
+| **Analisis** | Banyak hal yang harus dilakukan oleh seorang analisis, terutama yang berkaitan dengan pemecahan masalah. Seorang sistem analis harus mampu menganalisa segala kemungkinan dari permasalahan yang ada, dan dapat menghasilkan solusi yang tepat dari permasalahan tersebut. menentukan sistem yang tepat merupakan bagian dari tugas seorang analis, sehingga kinerja tim dapat berjalan secara efesien. |
 
 __BAB 3 PROSES MANAGERIAL__
 
@@ -99,7 +104,7 @@ Perusahaan jasa rental mobil dapat menciptakan dan meningkatkan kepuasan konsume
 * __Batasan-Batasan__
 Penelitian dilakukan dengan batasan - batasan tertentu agar tidak menyimpang dari permasalahan yang ada. Dalam penelitian ini, membatasi pada masalah strategi pemasaran jasa meliputi product, harga, tempat, promosi, orang, sarana fisik, dan proses, yang berpengaruh terhadap kepuasan konsumen dalam meggunakan jasa sewa kendaraan
 
-__3.3 Manajemen Resiko__
+__3.3 Manajemen Risiko__
 
 * Manajemen keuangan
 * Manajemen Armada atau Mobil
@@ -115,11 +120,13 @@ __3.4 Mekanisme Monitoring dan Kontroling__
 
 __3.5 Perencanaan Staf__
 
-* Planning ( perencanaan )
-* Menganalisis
-* Mendesain
-* Mengimplementasikan
-
+| Nama | JobDesk | Rincian Pekerjaan |
+| ----------- | :---------: | ----------: |
+| Annisa Kartika Utami | Design | - |
+| Ari Irawan | Analysis | - |
+| Imam Muhayat | Projek manager | - |
+| Hasri Habbeana Pertiwi | Database | - |
+| Ade Kartono | Programmer | - |
 
 __BAB 4 PROSES TEKNIK__
 
@@ -127,23 +134,17 @@ __4.1 Metoda, Tool, dan Teknik__
 
 Metode SDLC (The sytems development life cycle) adalah model konseptual yang digunakan dalam manajemen pengembangan proyek sistem informasi dari studi kelayakan hingga aplikasi selesai dibangun. Enam langkah utama dari SDLC yang paling sering digunakan oleh para software developer meliputi :
 
-a.	Studi kelayakan
-Mempelajari konsep sistem yang diinginkan oleh pihak manajemen dengan pengambilan keputusan untuk mengupdate sistem yang sudah ada atau mengganti dengan yang baru.
+* Studi Kelayakan : Mempelajari konsep sistem yang diinginkan oleh pihak manajemen dengan pengambilan keputusan untuk mengupdate sistem yang sudah ada atau mengganti dengan yang baru.
 
-b.	Analisis
-Mengumpulkan, mempelajari kebutuhan secara analisis dengan masukan dari konsumen.
+* Analisis : Mengumpulkan, mempelajari kebutuhan secara analisis dengan masukan dari konsumen.
 
-c.	Desain
-Developer melakukan pembuatanblueprintsistem.Dengan penyesuaian arsitektur komunikasi, software, hardware serta membuat model sistem secara graphical user interface (GUI), data base dan lain – lain unyuk pengembangan lebih lanjut.
+* Desain : Developer melakukan pembuatanblueprintsistem.Dengan penyesuaian arsitektur komunikasi, software, hardware serta membuat model sistem secara graphical user interface (GUI), data base dan lain – lain unyuk pengembangan lebih lanjut.
 
-d.	Pengembangan
-Developer melakukan koding untuk menerapkan desain kedalam sistem yang sesungguhnya, membuat program dan menyiapkan database.
+* Pengembangan : Developer melakukan koding untuk menerapkan desain kedalam sistem yang sesungguhnya, membuat program dan menyiapkan database.
 
-e.	Pengujian
-Melakukan pengujian terhadap sistem yang dikembangkan apakah sesuai dengan harapan dan kebutuhan pengguna serta melakukan debugging dan penyesuain akhir.
+* Pengujian : Melakukan pengujian terhadap sistem yang dikembangkan apakah sesuai dengan harapan dan kebutuhan pengguna serta melakukan debugging dan penyesuain akhir.
 
-f.	Implementasi
-Software yang telah diuji lalu diimplemetasikan kedalam sistem pengguna serta membuat panduan manual maupun pelatihan.
+* Implementasi : Software yang telah diuji lalu diimplemetasikan kedalam sistem pengguna serta membuat panduan manual maupun pelatihan.
 
 
 __4.2 Dokumentasi Perangkat Lunak__
@@ -188,7 +189,7 @@ Kategori Kegiatan :
 
 __5.2 Ketergantungan dan Keterkaitan__
 
-![](http://i64.tinypic.com/o1mon.png)
+![](http://i63.tinypic.com/29glidx.jpg)
 
 Penjelasan dari keterkaitan modul aplikasi ini yaitu terdapat 3 modul
 
