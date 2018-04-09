@@ -168,13 +168,13 @@ __BAB 5 Paket Pekerjaan, Jadwal dan Budget__
 __5.1 Paket Pekerjaan__
 
 
-| Nama | JobDesk | Rincian Pekerjaan |
-| ----------- | :---------: | ----------: |
-| Annisa Kartika Utami | Design | - |
-| Ari Irawan | Analysis | - |
-| Imam Muhayat | Projek manager | - |
-| Hasri Habbeana Pertiwi | Database | - |
-| Ade Kartono | Programmer | - |
+| Nama | JobDesk | Modul | Rincian |
+| ----------- | :---------: | ----------: | ----------: |
+| Annisa Kartika Utami | Design | kendaraan | mendesain tampilan dari kendaraan | 
+| Ari Irawan | Analysis | Booking, Transaksi | Menganalisa sistem dalam proses Pembookingan dan Transaksi |
+| Imam Muhayat | Projek manager | Maps, laporan | Membuat Sistem rute perjalanan beserta laporan |
+| Hasri Habbeana Pertiwi | Database | denda, kendaraan | Membuat database dari kendaraan |
+| Ade Kartono | Programmer | login, booking | Membuat program booking dan login |
 	
 
 Kategori Kegiatan :
