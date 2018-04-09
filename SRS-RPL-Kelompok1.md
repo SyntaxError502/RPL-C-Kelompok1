@@ -60,7 +60,7 @@ Aplikasi penyewaan  ini dapat melakukan hal-hal berikut ini :
 __1.3 Definisi, Akronim, Singkatan__
 
  
-| ------ | ------ |
+
 | Sistem |Suatu kesatuan yang terdiri komponen atau elemen yang dihubungkan bersama untuk memudahkan aliran informasi, materi atau energi untuk mencapai suatu tujuan. |
 | Aplikasi |Suatu program komputer yang dibuat untuk mengerjakan dan melaksanakan tugas khusus dari pengguna. |
 | Penyewaan | Sebuah persetujuan di mana sebuah pembayaran dilakukan atas penggunaan suatu barang atau properti secara sementara oleh orang lain. Barang yang dapat disewa bermacam-macam, tarif dan lama sewa juga bermacam-macam. |
