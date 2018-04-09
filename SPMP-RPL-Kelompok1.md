@@ -170,7 +170,7 @@ __5.1 Paket Pekerjaan__
 
 | Nama | JobDesk | Modul | Rincian |
 | ----------- | :---------: | ----------: | ----------: |
-| Annisa Kartika Utami | Design | kendaraan | mendesain tampilan dari kendaraan | 
+| Annisa Kartika Utami | Design | kendaraan | mendesain tampilan dari kendaraan  | 
 | Ari Irawan | Analysis | Booking, Transaksi | Menganalisa sistem dalam proses Pembookingan dan Transaksi |
 | Imam Muhayat | Projek manager | Maps, laporan | Membuat Sistem rute perjalanan beserta laporan |
 | Hasri Habbeana Pertiwi | Database | denda, kendaraan | Membuat database dari kendaraan |
