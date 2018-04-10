@@ -32,7 +32,10 @@ Pada proyek ini kami membuat Aplikasi Penyewaan Transportasi Beserta Rute Perjal
 
 __1.2 Dokumen - Dokumen Dalam Proyek__
 
-Dokumen yang akan digunakan dalam proyek antara lain: 1. SPMP (Software Project Management Plan) 2. SRS (Software Requirements Specification)
+Dokumen yang akan digunakan dalam proyek antara lain: 
+
+1. SPMP (Software Project Management Plan) 
+2. SRS (Software Requirements Specification)
 
 __1.3 Evolusi SPMP__
 
@@ -40,7 +43,8 @@ Dokumen ini dirawat oleh masing-masing anggota sesuai dengan tanggung jawabnya. 
 
 __1.4 Material Acuan__
 
-Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum, siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi umum serta mengakui proses, kegiatan dan tugas. IEEE adalah sebuah organisasi profesi nirlaba yang terdiri dari banyak ahli dibidang teknik yang mempromosikan pengembangan standar-standar dan bertindak sebagai pihak yang mempercepat teknologi- teknologi baru dalam semua aspek dalam industry dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika. Tujuan inti IEEE adalah mendorong inovasi teknologi dan kesempurnaan untuk kepentingan kemanusiaan.Visi IEEE adalah akan menjadi penting untuk masyarakat teknis global dan professional teknis dimana-mana dan dikenal secara universal untuk kontribusi teknologi dan teknis yang professional dalam meningkatkan kondisi perkembangan global. Standar dalam IEEE adalah mengatur fungsi, kemampuan dan interoperabilitas dari berbagai macam produk dan layanan yang mengubah cara orang hidup, bekerja dan berkomunikasi.
+- https://www.scribd.com/doc/92119959/Software-Project-Management-Plan<br>
+- http://www.academia.edu/14955510/Dokumentasi_Project_RPL_Aplikasi_Manajemen_Perangkat_Lunak_Berbasis_Dekstop_
 
 __1.5 Definisi dan Akronim__
 
@@ -71,7 +75,7 @@ Anggota	    :
 4. Ade Kartono		(Pogrammer)
 
 
-__2.3 Batasan dan antarmuka organisasi__
+__2.3 Batasan dan Antarmuka Organisasi__
 
 Project manager yang bertanggung jawab penuh pada prject yang kita buat
 programer yang bertanggung jawab membuat dan menyempurnakan program
@@ -98,11 +102,19 @@ Tujuan dari proyek ini adalah untuk megembangkan sistem penyewaan transpotasi se
 
 __3.2 Asumsi, Keterkaitan dan Batasan-Batasan__
 
-* __Asumsi__
-Perusahaan jasa rental mobil dapat menciptakan dan meningkatkan kepuasan konsumennya. Strategi pemasaran yang telah dilaksanakan selama ini dirasakan kurang efektif sehingga menyebabkan keuntungan yang diperoleh tidak maksimal karena fluktasi jumlah penjualan dari waktu ke waktu. Hal ini diindikasikan karena adanya tingkat kepuasan konsumen yang rendah. Dengan demikian, kami berusaha meningkatkan cara - cara pemasaran dan membuat aplikasi penyewaan transportasi yang lebih efektif agar dapat meciptakakn dan meningkatkakn kepuasan konsumen sehingga dapat merebut juga sekaligus mempertahankan pelanggannya demi kelangsungan hidup perusahaan.
+<html>
+	<head>
+		<title>Asumsi, Keterkaitan dan Batasan-Batasan</title>
+	</head>
+	<body>
+		<ul>
+			<li><b>Asumsi</b><br>
+				Perusahaan jasa rental mobil dapat menciptakan dan meningkatkan kepuasan konsumennya. Strategi pemasaran yang telah dilaksanakan selama ini dirasakan kurang efektif sehingga menyebabkan keuntungan yang diperoleh tidak maksimal karena fluktasi jumlah penjualan dari waktu ke waktu. Hal ini diindikasikan karena adanya tingkat kepuasan konsumen yang rendah. Dengan demikian, kami berusaha meningkatkan cara - cara pemasaran dan membuat aplikasi penyewaan transportasi yang lebih efektif agar dapat meciptakakn dan meningkatkakn kepuasan konsumen sehingga dapat merebut juga sekaligus mempertahankan pelanggannya demi kelangsungan hidup perusahaan.</li><br>
+			<li><b>Batasan-Batasan</b><br>
+				Penelitian dilakukan dengan batasan-batasan tertentu agar tidak menyimpang dari permasalahan yang ada. Dalam penelitian ini, membatasi pada masalah strategi pemasaran jasa meliputi product, harga, tempat, promosi, orang, sarana fisik, dan proses, yang berpengaruh terhadap kepuasan konsumen dalam meggunakan jasa sewa kendaraan.</li>
+	</body>
+</html>
 
-* __Batasan-Batasan__
-Penelitian dilakukan dengan batasan - batasan tertentu agar tidak menyimpang dari permasalahan yang ada. Dalam penelitian ini, membatasi pada masalah strategi pemasaran jasa meliputi product, harga, tempat, promosi, orang, sarana fisik, dan proses, yang berpengaruh terhadap kepuasan konsumen dalam meggunakan jasa sewa kendaraan
 
 __3.3 Manajemen Risiko__
 
@@ -134,35 +146,39 @@ __4.1 Metoda, Tool, dan Teknik__
 
 Metode SDLC (The sytems development life cycle) adalah model konseptual yang digunakan dalam manajemen pengembangan proyek sistem informasi dari studi kelayakan hingga aplikasi selesai dibangun. Enam langkah utama dari SDLC yang paling sering digunakan oleh para software developer meliputi :
 
-* Studi Kelayakan : Mempelajari konsep sistem yang diinginkan oleh pihak manajemen dengan pengambilan keputusan untuk mengupdate sistem yang sudah ada atau mengganti dengan yang baru.
+* Studi Kelayakan<br>
+Mempelajari konsep sistem yang diinginkan oleh pihak manajemen dengan pengambilan keputusan untuk mengupdate sistem yang sudah ada atau mengganti dengan yang baru.
 
-* Analisis : Mengumpulkan, mempelajari kebutuhan secara analisis dengan masukan dari konsumen.
+* Analisis<br>
+Mengumpulkan, mempelajari kebutuhan secara analisis dengan masukan dari konsumen.
 
-* Desain : Developer melakukan pembuatanblueprintsistem.Dengan penyesuaian arsitektur komunikasi, software, hardware serta membuat model sistem secara graphical user interface (GUI), data base dan lain – lain unyuk pengembangan lebih lanjut.
+* Desain<br>
+Developer melakukan pembuatanblueprintsistem.Dengan penyesuaian arsitektur komunikasi, software, hardware serta membuat model sistem secara graphical user interface (GUI), data base dan lain – lain unyuk pengembangan lebih lanjut.
 
-* Pengembangan : Developer melakukan koding untuk menerapkan desain kedalam sistem yang sesungguhnya, membuat program dan menyiapkan database.
+* Pengembangan<br>
+Developer melakukan koding untuk menerapkan desain kedalam sistem yang sesungguhnya, membuat program dan menyiapkan database.
 
 * Pengujian : Melakukan pengujian terhadap sistem yang dikembangkan apakah sesuai dengan harapan dan kebutuhan pengguna serta melakukan debugging dan penyesuain akhir.
 
-* Implementasi : Software yang telah diuji lalu diimplemetasikan kedalam sistem pengguna serta membuat panduan manual maupun pelatihan.
+* Implementasi<br>
+Software yang telah diuji lalu diimplemetasikan kedalam sistem pengguna serta membuat panduan manual maupun pelatihan.
 
 
 __4.2 Dokumentasi Perangkat Lunak__
 
 Dalam pengembangan perangkat lunak professional, dokumentasi merupakan hal yang fital, oleh karena itu oleh karena itu projeck manager dan Software Engineer harus memperhatikan dokumentasi. Adapun dokumentasi perangkat lunak terbagi dalam 2 yaitu,
 
-a.	Dokumentasi proses Adalah pekerjaan dokumentasi yang merekam semua proses pengimbangan dan perawatan (maintenance). Adapun hal-hal yang di catat dalam dokumentasi adalah rencana-rencana, jadwal, Standar organisasi, Standar proses.
-
-b.	Dokumentasi produk Menggambarkan produk yang sudah di kembangkan.
-
-
-__4.3 Fungsi-Fungsi Pendukung Proyek__
-
-a.	Laptop Untuk membuat projek dan merangkum semua materi dll.
-
-b.	Internet Untuk membantu mencari referensi projeck material
-
-
+<html>
+	<head>
+		<title>Dokumentasi Perangkat Lunak</title>
+	</head>
+	<body>
+		<ul>
+			<li>Dokumentasi proses Adalah pekerjaan dokumentasi yang merekam semua proses pengimbangan dan perawatan (maintenance). Adapun hal-hal yang di catat dalam dokumentasi adalah rencana-rencana, jadwal, Standar organisasi, Standar proses.</li>
+			<li>Dokumentasi produk Menggambarkan produk yang sudah di kembangkan.</li>
+		</ul>
+	</body>
+</html>
 
 __BAB 5 Paket Pekerjaan, Jadwal dan Budget__
 
@@ -191,14 +207,16 @@ __5.2 Ketergantungan dan Keterkaitan__
 
 ![](http://i63.tinypic.com/29glidx.jpg)
 
-Penjelasan dari keterkaitan modul aplikasi ini yaitu terdapat 3 modul
+Penjelasan dari keterkaitan aplikasi ini terdapat 7 modul, yaitu :
 
-- Data kendaraan
-- Stok kendaraan
-- Data penyewa
-
-Data kendaraan dan Stok kendaraan diotorisasi oleh admin jika admin ingin mengupdate data kendaraan atau stok
-diharuskan login terlebih dahulu sedangkan penyewa disini hanya menginput data jika ingin menyewa kendaraan. 
+| ----------- | ---------|
+| Modul Otorisasi | Menangani otorisasi pengguna. |
+| Modul Kendaraan | Menangani data kendaraan. |
+| Modul Transaksi | Menangani transaksi pembayaran sewa. |
+| Modul Booking | Menangani pemesanan kendaraan. |
+| Modul Denda | Menangani perhitungan pembayaran denda. |
+| Modul Tracking | Menangani pelacakan mobil. |
+| Modul Laporan | Menangani rekap keuntungan, dll. |
 
 
 __5.3 Kebutuhan-Kebutuhan Sumber Daya__
@@ -215,13 +233,13 @@ __5.3.2 Kebutuhan Sumber Daya Software__
 
 - Android studio
 - Mysql
-- emulator
+- Emulator
 
 __5.3.3 Kebutuhan Sumber Daya Hardware__
 
-- Pc/Laptop
-- flashdrive
-- ponsel/smartphone
+- PC/Laptop
+- Flashdrive
+- Smartphone
 
 __5.4 Alokasi Budget dan Sumber Daya__
 
