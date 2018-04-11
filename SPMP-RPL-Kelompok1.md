@@ -66,14 +66,13 @@ Model proses yang akan digunakan dalam proyek ini adalah V Model. V Model ini me
 
 __2.2 Struktur Organisasi__
 
-Project Manager : Imam Muhayat
-
-Anggota	    :
-
-1. Annisa Kartika Utami	(UI/UX Design)
-2. Ari Irawan 		(Analisis)
-3. Hasri Habbeana Pertiwi 	(Database)
-4. Ade Kartono		(Pogrammer)
+| No | Jabatan | Nama | NIM |
+|----|---------|------|-----|
+| 1 | Project Manager | Imam Muhayat | 1603071 |
+| 2 | Analysis & Android Developer | Ari Irawan | 1603063 |
+| 3 | Web Developer | Ade Kartono | 1503029 |
+| 4 | UI/UX Designer | Annisa Kartika Utami | 1603061 |
+| 5 | Database Engineer | Hasri Habbeana Pertiwi | 1603070 |
 
 
 __2.3 Batasan dan Antarmuka Organisasi__
@@ -108,19 +107,10 @@ Tujuan dari proyek ini adalah untuk megembangkan sistem penyewaan transpotasi se
 
 __3.2 Asumsi, Keterkaitan dan Batasan-Batasan__
 
-<html>
-	<head>
-		<title>Asumsi, Keterkaitan dan Batasan-Batasan</title>
-	</head>
-	<body>
-		<ul>
-			<li><b>Asumsi</b><br>
-				Perusahaan jasa rental mobil dapat menciptakan dan meningkatkan kepuasan konsumennya. Strategi pemasaran yang telah dilaksanakan selama ini dirasakan kurang efektif sehingga menyebabkan keuntungan yang diperoleh tidak maksimal karena fluktasi jumlah penjualan dari waktu ke waktu. Hal ini diindikasikan karena adanya tingkat kepuasan konsumen yang rendah. Dengan demikian, kami berusaha meningkatkan cara - cara pemasaran dan membuat aplikasi penyewaan transportasi yang lebih efektif agar dapat meciptakakn dan meningkatkakn kepuasan konsumen sehingga dapat merebut juga sekaligus mempertahankan pelanggannya demi kelangsungan hidup perusahaan.</li><br>
-			<li><b>Batasan-Batasan</b><br>
-				Penelitian dilakukan dengan batasan-batasan tertentu agar tidak menyimpang dari permasalahan yang ada. Dalam penelitian ini, membatasi pada masalah strategi pemasaran jasa meliputi product, harga, tempat, promosi, orang, sarana fisik, dan proses, yang berpengaruh terhadap kepuasan konsumen dalam meggunakan jasa sewa kendaraan.</li>
-	</body>
-</html>
-
+- **Asumsi**<br>
+Perusahaan jasa rental mobil dapat menciptakan dan meningkatkan kepuasan konsumennya. Strategi pemasaran yang telah dilaksanakan selama ini dirasakan kurang efektif sehingga menyebabkan keuntungan yang diperoleh tidak maksimal karena fluktasi jumlah penjualan dari waktu ke waktu. Hal ini diindikasikan karena adanya tingkat kepuasan konsumen yang rendah. Dengan demikian, kami berusaha meningkatkan cara - cara pemasaran dan membuat aplikasi penyewaan transportasi yang lebih efektif agar dapat meciptakakn dan meningkatkakn kepuasan konsumen sehingga dapat merebut juga sekaligus mempertahankan pelanggannya demi kelangsungan hidup perusahaan.</li><br>
+- **Batasan-Batasan**<br>
+Penelitian dilakukan dengan batasan-batasan tertentu agar tidak menyimpang dari permasalahan yang ada. Dalam penelitian ini, membatasi pada masalah strategi pemasaran jasa meliputi product, harga, tempat, promosi, orang, sarana fisik, dan proses, yang berpengaruh terhadap kepuasan konsumen dalam meggunakan jasa sewa kendaraan.</li>
 
 __3.3 Manajemen Risiko__
 
@@ -138,13 +128,13 @@ __3.4 Mekanisme Monitoring dan Kontroling__
 
 __3.5 Perencanaan Staf__
 
-| Nama | JobDesk | Rincian Pekerjaan |
-| ----------- | :---------: | ----------: |
-| Annisa Kartika Utami | Design | - |
-| Ari Irawan | Analysis | - |
-| Imam Muhayat | Projek manager | - |
-| Hasri Habbeana Pertiwi | Database | - |
-| Ade Kartono | Programmer | - |
+| Nama | JobDesk | 
+| ----------- | :---------: |
+| Imam Muhayat | Project Manager |
+| Ari Irawan | Analysis & Android Developer |
+| Ade Kartono | Web Developer |
+| Annisa Kartika Utami | UI/UX Designer |
+| Hasri Habbeana Pertiwi | Database |
 
 __BAB 4 PROSES TEKNIK__
 
@@ -173,18 +163,8 @@ Software yang telah diuji lalu diimplemetasikan kedalam sistem pengguna serta me
 __4.2 Dokumentasi Perangkat Lunak__
 
 Dalam pengembangan perangkat lunak professional, dokumentasi merupakan hal yang fital, oleh karena itu oleh karena itu projeck manager dan Software Engineer harus memperhatikan dokumentasi. Adapun dokumentasi perangkat lunak terbagi dalam 2 yaitu,
-
-<html>
-	<head>
-		<title>Dokumentasi Perangkat Lunak</title>
-	</head>
-	<body>
-		<ul>
-			<li>Dokumentasi proses Adalah pekerjaan dokumentasi yang merekam semua proses pengimbangan dan perawatan (maintenance). Adapun hal-hal yang di catat dalam dokumentasi adalah rencana-rencana, jadwal, Standar organisasi, Standar proses.</li>
-			<li>Dokumentasi produk Menggambarkan produk yang sudah di kembangkan.</li>
-		</ul>
-	</body>
-</html>
+- Dokumentasi proses Adalah pekerjaan dokumentasi yang merekam semua proses pengimbangan dan perawatan (maintenance). Adapun hal-hal yang di catat dalam dokumentasi adalah rencana-rencana, jadwal, Standar organisasi, Standar proses.</li>
+- Dokumentasi produk Menggambarkan produk yang sudah di kembangkan.</li>
 
 __BAB 5 Paket Pekerjaan, Jadwal dan Budget__
 
@@ -192,13 +172,12 @@ __5.1 Paket Pekerjaan__
 
 
 | Nama | JobDesk | Rincian Pekerjaan |
-| ----------- | :---------: | ----------: |
-| Annisa Kartika Utami | Design | - |
-| Ari Irawan | Analysis | - |
-| Imam Muhayat | Projek manager | - |
+| ----------- | :---------: |--------|
+| Imam Muhayat | Project Manager | - |
+| Ari Irawan | Analysis & Android Developer | - |
+| Ade Kartono | Web Developer | - |
+| Annisa Kartika Utami | UI/UX Designer | - |
 | Hasri Habbeana Pertiwi | Database | - |
-| Ade Kartono | Programmer | - |
-	
 
 Kategori Kegiatan :
 
@@ -227,25 +206,15 @@ Penjelasan dari keterkaitan aplikasi ini terdapat 7 modul, yaitu :
 
 __5.3 Kebutuhan-Kebutuhan Sumber Daya__
 
-__5.3.1 Kebutuhan Sumber Daya Manusia__
-
-- Annisa Kartika Utami
-- Ari Irawan
-- Imam Muhayat
-- Hasri Habbeana Pertiwi
-- Ade Kartono
-
-__5.3.2 Kebutuhan Sumber Daya Software__
-
-- Android studio
-- Mysql
-- Emulator
-
-__5.3.3 Kebutuhan Sumber Daya Hardware__
-
-- PC/Laptop
-- Flashdrive
-- Smartphone
+| Sumber Daya | Jenis Kebutuhan | Alasan |
+| ----------- | --------- | ---------- | 
+| Sumber Daya Manusia | 5 Orang anggota pekerja projek | Mengajukan jumlah tersebut dikarenakan agar keseimbangan antara pengerjaan projek, dokumen-dokumen dan pencarian masukan dari pasar, dengan demikian kita dapat mempercepat proses pekerjaan projek. |
+| Sumber Daya Software | Android Studio | Pengajuan software android studio dikarenakan pengerjaan projek menggunakan bahasa pemrograman Java dan agar pengerjaan jauh lebih efisien. |
+| MySql Phpmyadmin | Menggunakan software ini di gunakan untuk pembuatan database untuk mengaktifkan projeknya. |
+| JDK dan plugin-pluginnya | Digunakan untuk pembuatan sistem capturing images. |
+| Sublime Text 3| Digunakan untuk merancang web admin |
+| Sumber Daya Hardware | Perangkat Komputer | Perangkat induk yang di gunakan dalam pengerjaan projek. |
+| Mobile | Perangkat yang digunakan untuk uji coba aplikasi. |
 
 __5.4 Alokasi Budget dan Sumber Daya__
 
