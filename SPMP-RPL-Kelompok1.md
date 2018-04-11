@@ -86,13 +86,18 @@ __2.4 Lingkup Tanggung Jawab__
 
 Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pembuatan proyek ini :
 
-|-----------------------------------------|--------------------------------------------------|
-| **Project Manager** | Seseorang yang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim tidak hanya fokus pada hal-hal yang teknis sifatnya manager juga harus memenjemen tim dengan baik agar target project tercapai. selain itu beri pengarahan, memonitoring kinerja tim serta membagi tugas juga bagian tanggung jawab dari seorang manager. |
-| **Web Developer** | Seorang Web Developer bertugas untuk mengimplementasikan dari sistem yang sudah dirancang. Web Developer dituntut dapat menuliskan code program dengan baik, dan efesien pada platform Web. Hal ini dimaksudakan untuk menghindari terjadinya banyak error dalam proses implementasinya. |
-| **Android Developer** | Sama halnya dengan Web Developer, Android Developer bertugas untuk mengimplementasikan dari sistem yang sudah dirancang didesain. Programmer dituntut dapat menuliskan code program dengan baik, dan efesien pada platform Android. Hal ini dimaksudakan untuk menghindari terjadinya banyak error dalam proses implementasinya. |
-| **Designer UI/UX** | Bertanggung jawab atas perancangan antarmuka dari aplikasi atau program dalam proyek. Baik dari sisi admin maupun user lainnya. Tugas dari designer meliputi perancangan dan pembuatan antarmuka dari aplikasi dari setiap user. |
-| **Database Engineer** | Dituntut untuk bisa membuat rancangan database yang dibutuhkan oleh aplikasi dalam proyek. Tugas database engineer meliputi perancangan dan pembuatan database dari aplikasi dan bertanggung jawab atas jalannya data dari aplikasi tersebut agar tidak terjadinya redudansi ataupun kesalahan data. |
-| **Analisis** | Banyak hal yang harus dilakukan oleh seorang analisis, terutama yang berkaitan dengan pemecahan masalah. Seorang sistem analis harus mampu menganalisa segala kemungkinan dari permasalahan yang ada, dan dapat menghasilkan solusi yang tepat dari permasalahan tersebut. menentukan sistem yang tepat merupakan bagian dari tugas seorang analis, sehingga kinerja tim dapat berjalan secara efesien. |
+- **Project Manager**<br>
+Seseorang yang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim tidak hanya fokus pada hal-hal yang teknis sifatnya manager juga harus memenjemen tim dengan baik agar target project tercapai. selain itu beri pengarahan, memonitoring kinerja tim serta membagi tugas juga bagian tanggung jawab dari seorang manager.
+- **Web Developer**<br>
+Seorang Web Developer bertugas untuk mengimplementasikan dari sistem yang sudah dirancang. Web Developer dituntut dapat menuliskan code program dengan baik, dan efesien pada platform Web. Hal ini dimaksudakan untuk menghindari terjadinya banyak error dalam proses implementasinya. 
+- **Android Developer**<br>
+Sama halnya dengan Web Developer, Android Developer bertugas untuk mengimplementasikan dari sistem yang sudah dirancang didesain. Programmer dituntut dapat menuliskan code program dengan baik, dan efesien pada platform Android. Hal ini dimaksudakan untuk menghindari terjadinya banyak error dalam proses implementasinya. 
+- **Designer UI/UX**<br>
+Bertanggung jawab atas perancangan antarmuka dari aplikasi atau program dalam proyek. Baik dari sisi admin maupun user lainnya. Tugas dari designer meliputi perancangan dan pembuatan antarmuka dari aplikasi dari setiap user. 
+- **Database Engineer**<br>
+Dituntut untuk bisa membuat rancangan database yang dibutuhkan oleh aplikasi dalam proyek. Tugas database engineer meliputi perancangan dan pembuatan database dari aplikasi dan bertanggung jawab atas jalannya data dari aplikasi tersebut agar tidak terjadinya redudansi ataupun kesalahan data. 
+- **Analisis**<br>
+Banyak hal yang harus dilakukan oleh seorang analisis, terutama yang berkaitan dengan pemecahan masalah. Seorang sistem analis harus mampu menganalisa segala kemungkinan dari permasalahan yang ada, dan dapat menghasilkan solusi yang tepat dari permasalahan tersebut. menentukan sistem yang tepat merupakan bagian dari tugas seorang analis, sehingga kinerja tim dapat berjalan secara efesien. 
 
 __BAB 3 PROSES MANAGERIAL__
 
