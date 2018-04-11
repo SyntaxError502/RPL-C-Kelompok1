@@ -46,6 +46,7 @@ Secara ringkas fungsi dari aplikasi ini diantaranya :
 - Dan yang terakhir menentukan Rute perjalanannya 
 
 __1.2 Lingkup Masalah__ <br>
+
 Aplikasi Penyewaan Kendaraan adalah sebuah aplikasi berbasis android yang mempermudah dalam sarana penyewaan kendaraan dan transaksi. Pengguna aplikasi ini dapat melakukan pedaftaran, sign in, melihat harga dan jenis jenis mobil , memilih mobil , melakukan penyewaan kendaraan , dan melakukan transaksi. Sistem ini dikelola oleh seorang admin yang bertugas memperbaharui jenis-jenis mobil dan data admin. <br>
 
 __1.3 Definisi, Akronim dan Singkatan__ <br>
