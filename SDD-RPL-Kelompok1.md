@@ -60,9 +60,37 @@ User | Pengguna Aplikasi
 Admin | Pengelola Sistem  Aplikasi.
 
 
+__1.4 Aturan Penamaan dan Penomoran__ <br>
+
+__1.5 Referensi__ <br>
+Dokumen ini memiliki beberapa referensi dalam pembuatannya, yaitu sebagai berikut: <br>
+<ul> <li>IEEE. 1998. IEEE Recommended Practice for Software Requirement Specification. New York : IEEE
+<li>Pressman, Roger S. 2001. Software engineering: a practitioner’s approach 5th ed. New York : McGraw-Hill Companies, Inc.</li>
+<li>Dokumen Spesifikasi Kebutuhan Perangkat Lunak (SKPL) Super Monster Mall</li></ul>
+
+__1.6 Ikhtisar Dokumen__
+
+<br>
 
 
+### BAB 2 Deksripsi Perancangan Global
+__2.1 Rancangan Lingkungan Implementasi__ <br>
 
+__2.2 Deskripsi Data__ <br>
+
+____2.2.1 Definisi Domain/Type____ <br>
+
+____2.2.2 Conceptual Data Model____ <br>
+
+____2.2.3 Physical Data Model____ <br>
+
+____2.2.4 Daftar Tabel Aplikasi____ <br>
+
+__2.3 Deskripsi Modul__ <br>
+
+### BAB 3 Deskripsi Perancangan Rinci <br>
+__3.1 Diagram Konteks__ <br>
+* Context Diagram
 __Context Diagram__
 
 ![Context Diagram](http://i64.tinypic.com/234iah.jpg)
