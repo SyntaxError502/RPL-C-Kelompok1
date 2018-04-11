@@ -129,7 +129,7 @@ __3.4 Mekanisme Monitoring dan Kontroling__
 __3.5 Perencanaan Staf__
 
 | Nama | JobDesk | 
-| ----------- | :---------: |
+| ----------- | --------- |
 | Imam Muhayat | Project Manager |
 | Ari Irawan | Analysis & Android Developer |
 | Ade Kartono | Web Developer |
