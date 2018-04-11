@@ -45,36 +45,22 @@ Secara ringkas fungsi dari aplikasi ini diantaranya :
 - Mengisikan form data transaksi
 - Dan yang terakhir menentukan Rute perjalanannya 
 
+__1.2 Lingkup Masalah__ <br>
+Aplikasi Penyewaan Kendaraan adalah sebuah aplikasi berbasis android yang mempermudah dalam sarana penyewaan kendaraan dan transaksi. Pengguna aplikasi ini dapat melakukan pedaftaran, sign in, melihat harga dan jenis jenis mobil , memilih mobil , melakukan penyewaan kendaraan , dan melakukan transaksi. Sistem ini dikelola oleh seorang admin yang bertugas memperbaharui jenis-jenis mobil, data admin. <br>
+
+__1.3 Definisi, Akronim dan Singkatan__ <br>
+
+Definisi, Akronim dan Singkatan  | Penjelasan
+----------------- | -------------
+DFD  | Data Flow Diagram. Diagram yang menggambarkan aliran data
+ERD  | Entity Relationship Diagram. Diagram yang menggambarkan entitas suatu objek beserta relasinya.
+SKPL | Spesifikasi Kebutuhan Perangkat Lunak. Sebuah dokumen yang berisi analisis terhadap suatu perangkat lunak yang akan dibangun yang dijabarkan dalam suatu spesifikasi kebutuhan.
+User | Pengguna Aplikasi
+Admin | Pengelola Sistem  Aplikasi.
 
 
-__1.2 LINGKUP__
 
-- Fleksibel
 
-Hadirnya aplikasi sebagai sarana untuk memudahkan konsumen untuk menggunakan jasa layanan transportasi rental mobil haruslah mempertimbangkan aspek fleksibilitas dalam penggunaan nya, salah satu yang harus tertanam adalah kemudahan untuk syarat sebelum konsumen menggunakan mobil rental. Jika jalur konvensioanal mengharuskan konsumen menyerahkan identitas diri dengan menunjukan data fisik kepada perushaan, kini aktivitas tersebut dapat diganti dengan data digital berupa scan atau copy dari dokumen document tersebut.
-    
-- Informasi Detil
-
-Aplikasi rental mobil yang baik adalah yang mampu memberikan infomasi secara komprehensif kepada konsumen, melalui media aplikasi tersebut penyedia jasa haruslah memberikan detil jasa yang ditawarkan, informasi dapat berupa varian dan tipe mobil yang dapat dipilih oleh konsumen berikut harga sewa yang harus dibayarkan, jangan lupa untuk menambahkan tahun keluaran mobil dan ketentuan tertentu.
-
-- Komunikatif
-
-Tak hanya sebagai sarana pemesanan mobil, aplikasi rental mobil haruslah mampu menghadirkan komunikasi dua arah antara konsumen dan operator penyedia jasa, kehadirran fitur ini semata mata untuk memberikan kenyamanan konsumen selama mereka menggunakan mobil dari perusahaan rental. Adanya fitur komunisi dua arah membuat pemilik rental mudah mengontrol kendaraan yang sedang digunakan. Kalaupun terjadi kasus seperti kecelakaan atau kondisi lain yang menghambat aktifitas konsumen, pemilik rental mobil tentu dengan mudah mengirimkan mobil pengganti atau teknisi untuk mengatasi permasalahan tersebut.
-
-- GPS dan Tracking
-
-Melalui aplikasi, konsumen tentu dengan mudah melacak keberadaan mobil rental yang hendak disewa, lewat fitur ini konsumen dapat mendeteksi mobil yang paling dekat dengan lokasi mereka secara real time. Meskipun fitur ini mungkin berlebihan untuk aplikasi rental mobil, tak ada salahnya memberikan informasi detil lewat aplikasi kepada konsumen.
-
-1.3 Definisi, akronim, singkatan
-
-SKPL      : Spesifikasi Kebutuhan Perangkat Lunak
-
-SO        : Front Offices
-
-SKPL      : Spesifikasi Perangkat Lunak
-
-ADMIN     : Administrator
-     
 
 __Context Diagram__
 
