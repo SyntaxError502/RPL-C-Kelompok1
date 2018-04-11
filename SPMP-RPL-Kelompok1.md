@@ -194,6 +194,7 @@ __5.2 Ketergantungan dan Keterkaitan__
 
 Penjelasan dari keterkaitan aplikasi ini terdapat 7 modul, yaitu :
 
+| Modul | Fungsi |
 | ----------- | ---------|
 | Modul Otorisasi | Menangani otorisasi pengguna. |
 | Modul Kendaraan | Menangani data kendaraan. |
