@@ -29,7 +29,6 @@ __BAB 1 PENDAHULUAN__
 __1.1 Tujuan__
 
 Dokumen ini berisi Spesifikasi Kebutuhan Perangkat Lunak (SKPL) atau Software Requirement Spesification (SRS) untuk Aplikasi penyewaan kendaraan dan rute perjalanan.Tujuan dari penulisan dokumen ini adalah untuk memberikan penjelasan mengenai perangkat lunak yang akan dibangun baik berupa gambaran umum maupun penjelasan detail dan menyeluruh.
-
 Pengguna dari dokumen ini adalah pengembang Aplikasi penyewaan kendaraan dan rute perjalanan dari 
 perangkat lunak atau personil-personil yang terlibat dalam sistem.
 Dokumen ini akan digunakan sebagai bahan acuan dalam proses pengembangan dan sebagai bahan evaluasi 
@@ -40,36 +39,21 @@ Aplikasi penyewaan kendaraan dan rute perjalanan.
 
 __1.2 Lingkup__
 
-Perangkat lunak yang akan dikembangkan adalah perangkat lunak aplikasi penyewaan kendaraan, 
-yaitu merupakan perangkat lunak yang digunakan untuk mempermudah pengguna (user)
- menyewa kendaraan dan memilih jenis kendaraan beserta mengetahui rute perjalanan.
-
-Aplikasi penyewaan  ini dapat melakukan hal-hal berikut ini :
-- Pengguna (user) dapat mudah memilih kendaraan yang akan    
-  disewa
-
-- Pengguna (user) dapat mengetahui langsung harga dari 
-  kendaraan yang disewa 
-
-- Pengguna (user) dapat mengetahui rute perjalanan yang  
-  akan dituju saat diperjalanan
-
-- Admin dapat menambah dan menghapus dari kendaraan yang 
-  dipakai
+Semua hal yang tercantum didalam dokumen ini merupakan bagian dari ruang lingkup kebutuhan pembangunan perangkat lunak yang berupa aplikasi penyewaan kendaraan berbasis android yang digunakan untuk memberikan kemudahan kepada para penyewa dalam melakukan transaksi penyewaan kendaraan di Alikha Express.
 
 __1.3 Definisi, Akronim, Singkatan__
 
-Definisi
-	
-- Sistem Suatu kesatuan yang terdiri komponen atau elemen yang dihubungkan bersama untuk memudahkan aliran informasi, materi atau energi untuk mencapai suatu tujuan.
-- Aplikasi Suatu program komputer yang dibuat untuk mengerjakan dan melaksanakan tugas khusus dari pengguna.
-- Penyewaan Sebuah persetujuan di mana sebuah pembayaran dilakukan atas penggunaan suatu barang atau properti secara sementara oleh orang lain. Barang yang dapat disewa bermacam-macam, tarif dan lama sewa juga bermacam-macam.
+| Definisi, Akronim dan Singkatan | Penjelasan |
+| ----------------- | --------------------------- |
+| SRS/SKPL | adalah dokumen yang menggambarkan secara detail spesifikasi kebutuhan software dalam pembangunan proyek perangkat lunak Aplikasi Kasir QR Code Berbasis Android.|
+| DFD | adalah suatu diagram yang menggunakan notasi-notasi untuk menggambarkan arus dari data pada suatu sistem atau menjelaskan proses kerja suatu sistem, yang penggunaannya sangat membantu untuk memahami sistem secara logika, tersruktur dan jelas.|
+| Software | Perangkat Lunak.|
+| Hardware | Perangkat Keras|
+| SRS | Software Requirements Specification.|
+| SKPL | Spesifikasi Kebutuhan Perangkat Lunak.|
+| DFD | Data Flow Diagram|
+| IEEE | The Institute of Electrical and Electronics Engineers|
 
-Akronim dan Singkatan :
-	
-- SRS = Software Requirement Spesification
-- RAM = Random Akses Memori
-- SKPL = Spesifikasi Kebutuhan Perangkat Lunak
 
 __1.4 Referensi__
 
@@ -88,9 +72,11 @@ Dokumen SRS ini berisi tentang deskripsi kebutuhan perangkat lunak (tools penduk
   
 __BAB 2 GAMBARAN UMUM__
 
+Kendaraan merupakan salah satu kebutuhan yang tidak bisa ditinggalkan dalam keseharian, dimana di zaman modern ini mobil menjadi primadona bagi masyarakat untuk dapat melakukan perjalanan. Bukan hanya karena kenyamanannya, melainkan juga muatan yang dapat diangkut mobil jauh lebih besar. Namun dengan segala kelebihan tersebut membuat harga mobil tidaklah murah, akan tetapi banyaknya 
+
 __2.1 Perspektif Produk__
 
-Aplikasi Penyewaan Mobil Beserta Rute Kendaraan Alika Express ini merupakan aplikasi berbasis android yang dapat memudahkan penyewa dalam melakukan proses penyewaan kendaraan.
+Aplikasi Penyewaan Mobil Beserta Rute Kendaraan Alikha Express ini merupakan aplikasi berbasis android yang dapat memudahkan penyewa dalam melakukan proses penyewaan kendaraan.
 
 __2.1.1 Antarmuka Sistem__
 
