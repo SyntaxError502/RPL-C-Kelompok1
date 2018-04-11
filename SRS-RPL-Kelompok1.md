@@ -73,11 +73,17 @@ Dokumen SRS ini berisi tentang deskripsi kebutuhan perangkat lunak (tools penduk
   
 __BAB 2 GAMBARAN UMUM__
 
-Kendaraan merupakan salah satu kebutuhan yang tidak bisa ditinggalkan dalam keseharian, dimana di zaman modern ini mobil menjadi primadona bagi masyarakat untuk dapat melakukan perjalanan. Bukan hanya karena kenyamanannya, melainkan juga muatan yang dapat diangkut mobil jauh lebih besar. Namun dengan segala kelebihan tersebut membuat harga mobil tidaklah murah, akan tetapi banyaknya 
+Kendaraan merupakan salah satu kebutuhan yang tidak bisa ditinggalkan dalam keseharian, dimana pada zaman modern ini mobil menjadi primadona bagi masyarakat untuk dapat melakukan perjalanan. Bukan hanya karena kenyamanan yang ditawarkan, melainkan juga muatan yang dapat diangkut mobil jauh lebih besar. Namun dengan segala kelebihan tersebut membuat harga mobil tidaklah murah, akan tetapi banyaknya kebutuhan masyarakat akan pentingnya mobil semakin hari semakin bertambah. Karena alasan tersebut membuat banyak kalangan yang menyediakan layanan rental mobil, termasuk rental mobil Alikha Express. Dalam kasus ini Alikha Express masih menggunakan cara manual dalam melakukan transaksi penyewaan mobil. Dimana customers harus datang langsung untuk menyewa mobil, tanpa mengetahui apakah masih ada stok mobil yang tersedia.
+
+Penggunaan smartphone berbasis android sudah sangat mengakar di kalangan masyarakat saat ini, dari berbagai usia, profesi dan latar belakang. Hal tersebut menjadi alasan banyaknya aplikasi yang telah diciptakan untuk perangkat berbasis android. Karena masalah tersebut membuat kelompok kami berinisiatif untuk membuat aplikasi penyewaan rental mobil beserta rute kendaraan Alikha Express berbasis android. Dimana pada aplikasi ini terdapat 2 user, yaitu admin dan customers.
 
 __2.1 Perspektif Produk__
 
-Aplikasi Penyewaan Mobil Beserta Rute Kendaraan Alika Express ini merupakan aplikasi berbasis android yang dapat memudahkan penyewa dalam melakukan proses penyewaan kendaraan.
+Aplikasi penyewaan mobil beserta rute perjalanan Alika Express ini merupakan aplikasi berbasis android yang dapat memudahkan customers dalam melakukan proses penyewaan mobil. Dimana user customers dapat mengakses aplikasi ini melalui sistem android dan user admin melakukan pengolahan data menggunakan sistem web.
+
+Sistem aplikasi penyewaan yang difasilitasi bagi customers antara lain tentunya customers dapat melakukan transaksi penyewaan mobil secara online melalui smartphone masing-masing, melihat data stok mobil dan detail mobil serta dapat melihat lokasinya dengan menggunakan maps yang tersedia pada aplikasi. Customers juga harus menginputkan data diri yang valid kedalam sistem saat melakukan proses register.
+
+Adapun admin mengelola data mobil melalui sistem web. Dimana admin dapat menambahkan, mengedit maupun menghapus data stok kendaraan dan data detail kendaraan. Admin juga dapat melihat data customers yang berasal dari data yang telah di inputkan oleh customers. Serta admin juga dapat melihat laporan dari transaksi penyewaan yang pernah dilakukan.
 
 __2.1.1 Antarmuka Sistem__
 
