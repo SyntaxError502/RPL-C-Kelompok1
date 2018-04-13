@@ -90,7 +90,6 @@ __2.3 Deskripsi Modul__ <br>
 
 ### BAB 3 Deskripsi Perancangan Rinci <br>
 __3.1 Diagram Konteks__ <br>
-* Context Diagram
 __Context Diagram__
 
 ![Context Diagram](http://i64.tinypic.com/234iah.jpg)
