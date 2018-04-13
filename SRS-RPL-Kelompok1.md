@@ -109,9 +109,9 @@ __2.1.2 Antarmuka Pengguna__
 				<td><img src="http://i68.tinypic.com/33uewev.jpg" width="180" height="350" /><br><p align="justify">Pada register terdapat form yang yang harus diisi oleh user. Dimana data yang harus diinputka adalah data diri dari user tersebut.</p></td>		
 		</tr>
 		<tr align="center">
-			<td><b>Halaman Mahasiswa </td>
-			<td><b>Scan QR Code</td>
-			<td><b>Scan Sukses</td>
+			<td><b>Transaksi Penyewaan</td>
+			<td><b>List Mobil</td>
+			<td><b>Detail Mobil</td>
 		</tr>
 		<tr valign="top" align="center">
 				<td><img src="http://i66.tinypic.com/whgv9z.jpg" width="180" height="350" /><br><p align="justify">Pada tampilan halaman mahasiswa terdapat beberapa informasi yang bisa dilihat yakni, absensi, presensi, dan kompensasi. Ada juga 2 tombol yakni tombol jadwal dan tombol scan</p></td>
@@ -120,9 +120,9 @@ __2.1.2 Antarmuka Pengguna__
 		</tr>
 			</tr>
 		<tr align="center">
-			<td><b>Halaman Dosen</td>
-			<td><b>Menu Dosen</td>
-			<td><b>Menu Jadwal</td>
+			<td><b>Detail Pesanan</td>
+			<td><b>Navigasi</td>
+			<td><b>Menu Logout</td>
 		</tr>
 		<tr valign="top" align="center">
 				<td><img src="http://i65.tinypic.com/98wv7r.jpg" width="180" height="350" /><br><p align="justify">Di tampilan halaman dosen, mengunakan cardview yang ditunjang dengan 2 tombol pada tiap kontentnya yakni tombl mulai pada tiap mata kuliah dan tombol ubah jadwal mata kuliah tersebut. Ada juga tombol menu yang akan bisa digunakan untuk membuka menu</p></td>
@@ -144,37 +144,37 @@ __2.1.2 Antarmuka Pengguna__
 			<td><img src=""> <br><p align="justify">Pada Dashboard admin terdapat panel-panel yang berisi beberapa informasi seperti jumlah mahasiswa, jumlah dosen, jumlah kelas, kalender dan ucapan selamat datang.</p></td>
 		</tr>
 				<tr>
-			<td><b>Data Dosen</td>
+			<td><b> - </td>
 		</tr>
 		<tr>
 			<td><img src=""><br><p align="justify">Menu Dosen terdapat tabel list nama-nama dosen dan tombol untuk edit dosen</p></td>
 		</tr>
 				<tr>
-			<td><b>Data Kelas</td>
+			<td><b> - </td>
 		</tr>
 		<tr>
 			<td><img src=""><br><p align="justify">Di dalam menu kelas terdapat data kelas berupa table. Di dalam table tersebut juga ada tombol untuk melihat detail kelasnya</p></td>
 		</tr>
 				<tr>
-			<td><b>Data Mahasiswa</td>
+			<td><b> - </td>
 		</tr>
 		<tr>
 			<td><img src=""><br><p align="justify">Di menu mahasiswa terdapat Data mahasiswa perkelas berupa tabel</p></td>
 		</tr>
 				<tr>
-			<td><b>Edit Data Dosen</td>
+			<td><b> - </td>
 		</tr>
 		<tr>
 			<td><img src=""><br><p align="justify">Pada edit menu data dosen terdapat tombol download tamplate dan upload file berupa .xls</p></td>
 		</tr>
 				<tr>
-			<td><b>Edit Data Mahasiswa</td>
+			<td><b> - </td>
 		</tr>
 		<tr>
 			<td><img src=""><br><p align="justify">Pada Edit Data Mahasiswa sama seperti Edit Data Dosen yakni terdapat tombol untuk upload dan download untuk mengedit data mahasiswa</p></td>
 		</tr>
 				<tr>
-			<td><b>Jadwal</td>
+			<td><b> - </td>
 		</tr>
 		<tr>
 			<td><img src=""><br><p align="justify">Di dalam halaman jadwal terdapat dua tombol yaitu Lihat jadwal dan ubah jadwal.</p></td>
@@ -186,19 +186,19 @@ __2.1.2 Antarmuka Pengguna__
 			<td><img src=""><br><p align="justify">Pada halaman Login terdapat beberapa input yang harus di masukan oleh admin yakni username, password dan captcha. Dan ada juga tombol untuk login</p></td>
 		</tr>
 				<tr>
-			<td><b>Rekap Absensi</td>
+			<td><b> - </td>
 		</tr>
 		<tr>
 			<td><img src=""><br><p align="justify">DI halamman rekap abesnsi admin bisa langsung mendownload hasilnya dengan menekan tombol Download</p></td>
 		</tr>
 				<tr>
-			<td><b>Tambah Data Kelas</td>
+			<td><b> - </td>
 		</tr>
 		<tr>
 			<td><img src=""><br><p align="justify">Pada tambah kelas Admin  harus memasukan nama kelas terlebih dahulu</p></td>
 		</tr>
 				<tr>
-			<td><b>Edit Jadwal</td>
+			<td><b> - </td>
 		</tr>
 		<tr>
 			<td><img src=""><br><p align="justify">Pada Edit jadwal sama seperti pada Edit mahasiswa dan dosen yakni terdapat 2 tombol untuk download tamplate dan upload untuk mengunggah data yang sudah di edit</p></td>
