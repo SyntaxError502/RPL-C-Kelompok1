@@ -100,6 +100,29 @@ ____3.1.1 DFD Level 0____ <br>
 ____3.1.2 DFD Level 1____ <br>
 
 
+__3.2 Deskripsi Rinci Tabel__ <br>
+
+____3.2.1 Tabel____ <br>
+
+__3.3 Deskripsi Rinci Modul__ <br>
+
+____3.3.1 Modul____ <br>
+
+______3.3.1.1 Fungsi Modul______ <br>
+
+______3.3.1.2 Spesifikasi Layar Utama______ <br>
+
+______3.3.1.3 Spesifikasi Query______ <br>
+
+______3.3.1.4 Spesifikasi Field Data Layar______ <br>
+
+______3.3.1.5 Spesifikasi Objek-objek pada Layar______ <br>
+
+______3.3.1.6 Spesifikasi Proses/Algoritma______ <br>
+
+__3.4 Matriks Kerunutan__ <br>
+
+
 
 
 
