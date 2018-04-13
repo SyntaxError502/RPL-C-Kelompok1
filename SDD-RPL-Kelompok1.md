@@ -86,6 +86,13 @@ ____2.2.3 Physical Data Model____ <br>
 
 ____2.2.4 Daftar Tabel Aplikasi____ <br>
 
+| Nama Tabel | Primary Key | Data Store | E/R | Deskripsi Isi |
+|----|---------|------|-----|---------|
+| 1 |Tabel Admin      | Id_Admin     | 
+| 2 |Tabel Customer   | Id_Customer  |
+| 3 |Tabel Data Mobil | Id_Mobil     |
+| 4 |Tabel Promo      | id_Promo     |
+| 5 |Tabel Transaksi  | Id_Transaksi |
 
 __2.3 Deskripsi Modul__ <br>
 
