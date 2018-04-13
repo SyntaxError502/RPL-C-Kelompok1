@@ -90,14 +90,14 @@ __2.3 Deskripsi Modul__ <br>
 
 ### BAB 3 Deskripsi Perancangan Rinci <br>
 __3.1 Diagram Konteks__ <br>
-__Context Diagram__
 
 ![Context Diagram](http://i64.tinypic.com/234iah.jpg)
 
 
-__DFD Level 0__
-
+____3.1.1 DFD Level 0____ <br>
 ![DFD Level 0](http://i65.tinypic.com/fmjbba.png)
+
+___3.1.2 DFD Level 1____ <br>
 
 
 
