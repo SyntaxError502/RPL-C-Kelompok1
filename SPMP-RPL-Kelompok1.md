@@ -210,20 +210,15 @@ Kategori Kegiatan :
 
 __5.2 Ketergantungan dan Keterkaitan__
 
-![](http://i63.tinypic.com/29glidx.jpg)
+Dalam pengerjaan projek ini keterkaitan dari tugas masing-masing saling menopang agar terbentuknya ketelitian saat pengerjaan dan mendapat hasil akhir yang maksimal dan dapat digunakan dengan semestinya
 
-Penjelasan dari keterkaitan aplikasi ini terdapat 7 modul, yaitu :
-
-| Modul | Fungsi |
-| ----------- | ---------|
-| Modul Otorisasi | Menangani otorisasi pengguna. |
-| Modul Kendaraan | Menangani data kendaraan. |
-| Modul Transaksi | Menangani transaksi pembayaran sewa. |
-| Modul Booking | Menangani pemesanan kendaraan. |
-| Modul Denda | Menangani perhitungan pembayaran denda. |
-| Modul Tracking | Menangani pelacakan mobil. |
-| Modul Laporan | Menangani rekap keuntungan, dll. |
-
+| From | To | Kaitan |
+| ----------- | --------- | ---------- |  
+| Manager     | Anggota | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. |
+| Programmer  | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analisis memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
+| Analysis    | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.|
+| Design      | Programmer | Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis. |
+| Programmer  | Database Engineer | Bertugas membuat perancangan sistem database. |
 
 __5.3 Kebutuhan-Kebutuhan Sumber Daya__
 
@@ -232,10 +227,11 @@ __5.3 Kebutuhan-Kebutuhan Sumber Daya__
 | Sumber Daya Manusia | 5 Orang anggota pekerja projek | Mengajukan jumlah tersebut dikarenakan agar keseimbangan antara pengerjaan projek, dokumen-dokumen dan pencarian masukan dari pasar, dengan demikian kita dapat mempercepat proses pekerjaan projek. |
 | Sumber Daya Software | Android Studio | Pengajuan software android studio dikarenakan pengerjaan projek menggunakan bahasa pemrograman Java dan agar pengerjaan jauh lebih efisien. |
 | MySql Phpmyadmin | Menggunakan software ini di gunakan untuk pembuatan database untuk mengaktifkan projeknya. |
-| JDK dan plugin-pluginnya | Digunakan untuk pembuatan sistem capturing images. |
 | Sublime Text 3| Digunakan untuk merancang web admin |
+| Balsamic Mockup | Digunakan untuk membuat rancangan desain interface aplikasi |
 | Sumber Daya Hardware | Perangkat Komputer | Perangkat induk yang di gunakan dalam pengerjaan projek. |
 | Mobile | Perangkat yang digunakan untuk uji coba aplikasi. |
+
 
 __5.4 Alokasi Budget dan Sumber Daya__
 
