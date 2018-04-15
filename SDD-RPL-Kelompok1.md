@@ -212,7 +212,7 @@ ____2.2.4 Daftar Tabel Aplikasi____ <br>
 | Kendaraan | id_kendaraan | D1 | - | Berisi data kendaraan yang terdapat di penyewaan tersebut |
 | promo | id_promo | D4 | - | Berisi data promo |
 | denda | id_denda |  | - | Berisi data denda yang digunakan untuk mengetahui berapa denda jika terlambat mengembalikan mobil |
-| pemesanan | id_pemesanan |  | - | Berisi data pemesaan yang digunakan untuk pemesanan mobil |
+| pemesanan | id_pemesanan | D3 | - | Berisi data pemesaan yang digunakan untuk pemesanan mobil |
 
 __2.3 Deskripsi Modul__ <br>
 
