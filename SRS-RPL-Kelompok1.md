@@ -195,8 +195,17 @@ sedangkan ruang cakra padat (hard disk) yang diperlukan adalah 500 GB.
 
 __2.1.7 Operasi - Operasi__
 
-Sebagai penyesuaian operasional untuk pengguna akan dilakukan Training bertingkat.
-Tingkat user/Operator dan Supervisor, masing-masing tingkat memiliki tingkat pengetahuan yang berbeda dan hak akses sistem yang berbeda sehingga pelatihannya pun akan berberda.
+| Operasi | Fungsi |
+|---------|--------|
+| Login | Digunakan untuk masuk dan dapat mengakses layanan aplikasi |
+| Register | Digunakan untuk mendaftar agar dapat melakukan login |
+| Transaksi Penyewaan | Digunakan untuk melakukan transaksi penyewaan kendaraan |
+| List Mobil | Digunakan untuk menampilkan data mobil yang tersedia |
+| Detail Mobil | Digunakan untuk melihat detail mobil yang dipilih |
+| Detail Pesanan | Digunakan untuk menampilkan kembali data pemesanan |
+| Stok Kendaraan | Digunakan untuk melihat stok kendaraan yang tersedia |
+| Data Transaksi | Digunakan untuk menampilkan data transaksi yang pernah dilakukan |
+| Data Penyewa | Digunakan untuk memantau data penyewa yang telah melakukan penyewaan |
 
 __2.1.8 Kebutuhan - Kebutuhan Dalam Tahapan Adaptasi__
 
