@@ -46,7 +46,7 @@ __1.3 Definisi, Akronim, Singkatan__
 
 | Definisi, Akronim dan Singkatan | Penjelasan |
 | ----------------- | --------------------------- |
-| SRS/SKPL | adalah dokumen yang menggambarkan secara detail spesifikasi kebutuhan software dalam pembangunan proyek perangkat lunak Aplikasi Kasir QR Code Berbasis Android.|
+| SRS/SKPL | adalah dokumen yang menggambarkan secara detail spesifikasi kebutuhan software dalam pembangunan proyek perangkat lunak Aplikasi Penyewaan Kendaraan Beserta Rute Kendaraan Alikha Express.|
 | DFD | adalah suatu diagram yang menggunakan notasi-notasi untuk menggambarkan arus dari data pada suatu sistem atau menjelaskan proses kerja suatu sistem, yang penggunaannya sangat membantu untuk memahami sistem secara logika, tersruktur dan jelas.|
 | Software | Perangkat Lunak.|
 | Hardware | Perangkat Keras|
