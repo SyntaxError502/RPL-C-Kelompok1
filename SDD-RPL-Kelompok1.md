@@ -229,7 +229,8 @@ ____3.1.2 DFD Level 1____ <br>
 
 
 __3.2 Deskripsi Rinci Tabel__ <br>
-__3.2.1 Tabel Admin__ <br>
+**Tabel Admin**
+
 <br>Identifikasi/Nama : Admin
 <br>Deskripsi Isi : Berisi data untuk login
 <br>Jenis : Tabel referensi
@@ -242,7 +243,9 @@ __3.2.1 Tabel Admin__ <br>
 | id_admin | merupakan key dari tabel admin | int | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
 | username | menyatakan username admin | varchar(50) | No | - | username akan digunakan sebagai username untuk login admin |
 | password | menyatakan password admin | varchar(30) | No | - | password akan digunakan untuk login admin|
-__3.2. Tabel Customer__ <br>
+
+**Tabel Customer**
+
 <br>Identifikasi/Nama : Customer
 <br>Deskripsi Isi : Berisi data untuk regitrasi dan login
 <br>Jenis : Tabel referensi
@@ -260,7 +263,9 @@ __3.2. Tabel Customer__ <br>
 | no_telp | menyatakan no telp customer | integer(12) | No | - | no telp akan digunakan untuk registrasi |
 | no_ktp | menyatakan no ktp customer | varchar(30) | No | - | no ktp akan digunakan untuk registrasi |
 | email | menyatakan email customer | varchar(40) | No | - | email akan digunakan untuk registrasi |
-__3.2.3 Tabel Kendaraan__ <br>
+
+**Tabel Kendaraan**
+
 <br>Identifikasi/Nama : Kendaraan
 <br>Deskripsi Isi : Berisi data Kendaraan
 <br>Jenis : Tabel referensi
@@ -276,7 +281,9 @@ __3.2.3 Tabel Kendaraan__ <br>
 | nopol | menyatakan nopol mobil | varchar(15) | No | - | nopol mobil akan digunakan pada menu data kendaraan |
 | harga/hari | menyatakan harga sewa mobil/hari | varchar(30) | No | - | harga/hari akan digunakan pada menu data kendaraan  |
 | gambar | menyatakan gambar mobil | varchar(50) | No | - | gambar mobil akan diigunakan pada menu data kendaraan |
-__3.2.4 Tabel Promo__ <br>
+
+**Tabel Promo**
+
 <br>Identifikasi/Nama : Promo
 <br>Deskripsi Isi : Berisi data Promo
 <br>Jenis : Tabel referensi
@@ -291,7 +298,9 @@ __3.2.4 Tabel Promo__ <br>
 | merk | menyatakan merk mobil | varchar(50) | No | - | merk akan digunakan pada menu promo |
 | tujuan | menyatakan tujuan wisata | varchar(50) | No | - | tujuan akan digunakan pada menu promo |
 | harga/orang | menyatakan harga promo/orang | varchar(30) | No | - | harga/orang akan digunakan pada menu promo  |
-__3.2.5 Tabel Denda__ <br>
+
+**Tabel Denda**
+
 <br>Identifikasi/Nama : Denda
 <br>Deskripsi Isi : Berisi data denda
 <br>Jenis : Tabel referensi
@@ -304,7 +313,9 @@ __3.2.5 Tabel Denda__ <br>
 | id_denda | merupakan key dari tabel denda | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
 | merk | menyatakan merk mobil | varchar(50) | No | - | merk mobil akan digunakan pada data denda |
 | denda/jam | menyatakan total denda | varchar(50) | No | - | denda/jam akan digunakan untuk mengetahui berapa total denda  |
-__3.2.6 Tabel Pemesanan__ <br>
+
+**Tabel Pemesanan**
+
 <br>Identifikasi/Nama : Pemesanan
 <br>Deskripsi Isi : Berisi data untuk melakukan pemesanan
 <br>Jenis : Tabel referensi
