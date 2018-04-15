@@ -229,6 +229,42 @@ ____3.1.2 DFD Level 1____ <br>
 
 
 __3.2 Deskripsi Rinci Tabel__ <br>
+<br>Identifikasi/Nama : Admin
+<br>Deskripsi Isi : Berisi data untuk login
+<br>Jenis : Tabel referensi
+<br>Volume : -
+<br>Laju : -
+<br>Primary Key : id_admin
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| --------- | --------- | --------- | --------- | --------- | --------- |
+| id_admin | merupakan key dari tabel admin | int | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
+| username | menyatakan username admin | varchar(50) | No | - | username akan digunakan sebagai username untuk login admin |
+| password | menyatakan password admin | varchar(30) | No | - | password akan digunakan untuk login admin|
+
+br>Identifikasi/Nama : Customer
+<br>Deskripsi Isi : Berisi data untuk regitrasi dan login
+<br>Jenis : Tabel referensi
+<br>Volume : -
+<br>Laju : -
+<br>Primary Key : id_customer
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| --------- | --------- | --------- | --------- | --------- | --------- |
+| id_customer | merupakan key dari tabel admin | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
+| username | menyatakan username customer | varchar(30) | No | - | username akan digunakan sebagai username untuk login customer |
+| password | menyatakan password customer | varchar(30) | No | - | password akan digunakan untuk login customer |
+| nama | menyatakan nama customer | varchar(50) | No | - | nama akan digunakan untuk registrasi |
+| alamat | menyatakan alamat customer | varchar(50) | No | - | alamat akan digunakan untuk registrasi |
+| no_telp | menyatakan no telp customer | integer(12) | No | - | no telp akan digunakan untuk registrasi |
+| no_ktp | menyatakan no ktp customer | varchar(30) | No | - | no ktp akan digunakan untuk registrasi |
+| email | menyatakan email customer | varchar(40) | No | - | email akan digunakan untuk registrasi |
+
+
+
+
+
+
 
 ____3.2.1 Tabel____ <br>
 
