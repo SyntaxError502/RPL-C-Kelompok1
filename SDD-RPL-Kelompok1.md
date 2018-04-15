@@ -76,7 +76,11 @@ Dokumen SDD ini dibagi menjadi tiga bagian utama. Bagian pertama berisi penjelas
 
 ### BAB 2 Deksripsi Perancangan Global
 __2.1 Rancangan Lingkungan Implementasi__ <br>
-
+Aplikasi ini akan dikembangkan pada lingkungan dengan spesifikasi sebagai berikut :
+-	Sistem Operasi	: Android, Windows
+-	Bahasa Pemrograman	: Java, PHP, HTML
+-	DBMS	: MySQL
+-	Tools	: Android Studio, XAMPP, Sublime Text
 __2.2 Deskripsi Data__ <br>
 
 ____2.2.1 Definisi Domain/Type____ <br>
