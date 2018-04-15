@@ -111,7 +111,7 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi POS Menggun
 |Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
 |------------|----------|----------|-------------|-----------|-----------|---------------------|
 | id_promo| Integer| 11 | Primary Key| Iya |Auto_increment| Id promo auto increment |
-| id_kendaraan| integer| 11 | Tidak | Tidak | -|id mobil |
+| id_kendaraan| integer| 11 | Tidak | Tidak | -|relasi untuk menghubungkan tabel promo dengan tabel kendaraan |
 | merk| varchar| 50 | Tidak | Tidak | - |merk mobil |
 | tujuan| Varchar| 50 | Tidak | Tidak | -|tujuan wisata |
 | harga/orang| Varchar| 30 | Tidak | Tidak | -|harga wisata/orang |
@@ -129,8 +129,8 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi POS Menggun
 |Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
 |------------|----------|----------|-------------|-----------|-----------|---------------------|
 | id_pemesanan| Integer| 11 | Primary Key| Iya |Auto_increment| Id pemesanan auto increment |
-| id_customer| Integer| 11 | Tidak | Tidak | -|id customer |
-| id_kendaraan| integer| 11 | Tidak | Tidak | - |id mobil |
+| id_customer| Integer| 11 | Tidak | Tidak | -|relasi untuk menghubungkan tabel pemesanan dengan tabel customer |
+| id_kendaraan| integer| 11 | Tidak | Tidak | - |relasi untuk menghubungkan tabel pemesanan dengan tabel kendaraan |
 | nama| Varchar| 50 | Tidak | Tidak | -|nama customer |
 | tgl_peminjaman| date| - | Tidak | Tidak | -|tanggal peminjaman mobil |
 | tgl_pengembalian| date| - | Tidak | Tidak | -|tanggal pengembaian mobil |
