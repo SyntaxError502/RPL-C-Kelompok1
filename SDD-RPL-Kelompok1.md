@@ -82,6 +82,25 @@ Aplikasi ini akan dikembangkan pada lingkungan dengan spesifikasi sebagai beriku
 -	DBMS	: MySQL
 -	Tools	: Android Studio, XAMPP, Sublime Text
 __2.2 Deskripsi Data__ <br>
+Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi POS Menggunakan QR-CODE Scanner ini adalah sebagai berikut :
+
+**Tabel Admin**
+
+|Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
+|------------|----------|----------|-------------|-----------|-----------|---------------------|
+| id_admin| Integer| 11 | Primary Key| Iya |Auto_increment| Id admin auto increment |
+| username| Varchar| 50 | Tidak | Tidak | -| Email yang digunakan user untuk login |
+| password| Varchar| 30 | Tidak | Tidak | - |Password yang digunakan user untuk login |
+
+**Tabel Customer**
+
+|Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
+|------------|----------|----------|-------------|-----------|-----------|---------------------|
+| id_customer| Integer| 11 | Primary Key| Iya |Auto_increment| Id user auto increment |
+| email| Varchar| 40 | Tidak | Tidak | -| Email yang digunakan user untuk login |
+| password| Varchar| 30 | Tidak | Tidak | - |Password yang digunakan user untuk login |
+| username| Varchar| 20 | Tidak | Tidak | -| |
+| nama| Varchar| 50 | Tidak | Tidak | -| |
 
 ____2.2.1 Definisi Domain/Type____ <br>
 
