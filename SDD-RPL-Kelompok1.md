@@ -242,7 +242,7 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | username | menyatakan username admin | varchar(50) | No | - | username akan digunakan sebagai username untuk login admin |
 | password | menyatakan password admin | varchar(30) | No | - | password akan digunakan untuk login admin|
 
-br>Identifikasi/Nama : Customer
+<br>Identifikasi/Nama : Customer
 <br>Deskripsi Isi : Berisi data untuk regitrasi dan login
 <br>Jenis : Tabel referensi
 <br>Volume : -
@@ -259,6 +259,54 @@ br>Identifikasi/Nama : Customer
 | no_telp | menyatakan no telp customer | integer(12) | No | - | no telp akan digunakan untuk registrasi |
 | no_ktp | menyatakan no ktp customer | varchar(30) | No | - | no ktp akan digunakan untuk registrasi |
 | email | menyatakan email customer | varchar(40) | No | - | email akan digunakan untuk registrasi |
+
+<br>Identifikasi/Nama : Kendaraan
+<br>Deskripsi Isi : Berisi data Kendaraan
+<br>Jenis : Tabel referensi
+<br>Volume : -
+<br>Laju : -
+<br>Primary Key : id_kendaraan
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| --------- | --------- | --------- | --------- | --------- | --------- |
+| id_kendaran | merupakan key dari tabel kendaraan | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
+| merk | menyatakan merk mobil | varchar(30) | No | - | merk mobil akan digunakan pada menu data kendaran |
+| tahun | menyatakan tahun mobil | int(11) | No | - | tahun mobil akan digunakan pada menu data kendaraan |
+| nopol | menyatakan nopol mobil | varchar(15) | No | - | nopol mobil akan digunakan pada menu data kendaraan |
+| harga/hari | menyatakan harga sewa mobil/hari | varchar(30) | No | - | harga/hari akan digunakan pada menu data kendaraan  |
+| gambar | menyatakan gambar mobil | varchar(50) | No | - | gambar mobil akan diigunakan pada menu data kendaraan |
+
+<br>Identifikasi/Nama : Promo
+<br>Deskripsi Isi : Berisi data Promo
+<br>Jenis : Tabel referensi
+<br>Volume : -
+<br>Laju : -
+<br>Primary Key : id_promo
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| --------- | --------- | --------- | --------- | --------- | --------- |
+| id_promo | merupakan key dari tabel promo | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
+| id_kedaraan |  | int(11) | No | - | username akan digunakan sebagai username untuk login customer |
+| merk | menyatakan merk mobil | varchar(50) | No | - | merk akan digunakan pada menu promo |
+| tujuan | menyatakan tujuan wisata | varchar(50) | No | - | tujuan akan digunakan pada menu promo |
+| harga/orang | menyatakan harga promo/orang | varchar(30) | No | - | harga/orang akan digunakan pada menu promo  |
+
+<br>Identifikasi/Nama : Promo
+<br>Deskripsi Isi : Berisi data Promo
+<br>Jenis : Tabel referensi
+<br>Volume : -
+<br>Laju : -
+<br>Primary Key : id_promo
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| --------- | --------- | --------- | --------- | --------- | --------- |
+| id_promo | merupakan key dari tabel promo | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
+| id_kedaraan |  | int(11) | No | - | username akan digunakan sebagai username untuk login customer |
+| merk | menyatakan merk mobil | varchar(50) | No | - | merk akan digunakan pada menu promo |
+| tujuan | menyatakan tujuan wisata | varchar(50) | No | - | tujuan akan digunakan pada menu promo |
+| harga/orang | menyatakan harga promo/orang | varchar(30) | No | - | harga/orang akan digunakan pada menu promo  |
+
+
 
 
 
