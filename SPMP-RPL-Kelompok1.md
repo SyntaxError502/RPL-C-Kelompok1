@@ -191,22 +191,13 @@ __BAB 5 Paket Pekerjaan, Jadwal dan Budget__
 __5.1 Paket Pekerjaan__
 
 
-| Nama | JobDesk | Rincian Pekerjaan |
-| ----------- | :---------: |--------|
-| Imam Muhayat | Project Manager | - |
-| Ari Irawan | Analysis & Android Developer | - |
-| Ade Kartono | Web Developer | - |
-| Annisa Kartika Utami | UI/UX Designer | - |
-| Hasri Habbeana Pertiwi | Database | - |
-
-Kategori Kegiatan :
-
-- Penentuan judul proyek dan pengumpulan sumber daya yang diperlukan
-- Membuat proposal dan pengajuan ke mitra
-- Pencarian referensi dan pengerjaan projek
-- Pengecekan aplikasi dan implementasikan hasil projek
-- Melakukan Perbaikan jika terjadi kesalahan
-- Melaksanakan persentasi projek
+| No | Nama | JobDesk | Modul | Rincian Pekerjaan |
+|----| ----------- | :---------: |--------|
+| 1 | Imam Muhayat | Project Manager | | - |
+| 2 | Ari Irawan | Analysis & Android Developer | | - |
+| 3 | Ade Kartono | Web Developer | | - |
+| 4 | Annisa Kartika Utami | UI/UX Designer | | - |
+| 5 | Hasri Habbeana Pertiwi | Database | | - |
 
 __5.2 Ketergantungan dan Keterkaitan__
 
