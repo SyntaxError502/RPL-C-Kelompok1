@@ -21,8 +21,7 @@
 </p>
 </body>
 </html>
-
-
+<html>
 
 
 __BAB 1 PENDAHULUAN__
@@ -30,20 +29,11 @@ __BAB 1 PENDAHULUAN__
 
 __1.1 TUJUAN__
 
-Tujuan pembuatan SDD (Software Design Description) ini adalah untuk menjelaskan
-langkah langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan
-diterapkan pada Aplikasi penyewaan kendaraan dan rute perjalanan, dan juga memberi definisi kebutuhan
-untuk sistem, spesifikasi kebutuhan fungsional.
-Fungsi utama dari aplikasi ini adalah mempermudah customer memesan kendaraan untuk disewa dan dapat memantau rute yang akan dituju.
+Tujuan pembuatan SDD (Software Design Description) ini adalah untuk menjelaskan langkah langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan diterapkan pada Aplikasi Penyewaan Kendaraan Beserta Rute Perjalanan Alikha Express, dan juga memberi definisi kebutuhan untuk sistem, spesifikasi kebutuhan fungsional.
 
-Secara ringkas fungsi dari aplikasi ini diantaranya :
+Dokumen perancangan ini dibuat berdasarkan spesifikasi kebutuhan Aplikasi Penyewaan Kendaraan Beserta Rute Perjalanan Alikha Express yang akan dibuat. Dalam rangka membangun aplikasi tersebut, tentunya deskripsi perancangan untuk aplikasi tersebut dibutuhkan, khususnya oleh para pengembang dan pembangun aplikasi tersebut.
 
-- Customer mengunduh dan menginstall aplikasi ini.
-- Customer Login ke aplikasi jika belum terdaftar sign up terlebih dahulu
-- Mencari dan memilih mobil yang akan disewa
-- Customer memasukan data sesuai ketentuan
-- Mengisikan form data transaksi
-- Dan yang terakhir menentukan Rute perjalanannya 
+Fungsi utama dari Aplikasi ini adalah membantu member untuk melakukan transaksi penyewaan kendaraan melalui smartphone, dan memudahkan admin dalam melihat rekap laporan penyewaan.
 
 __1.2 Lingkup Masalah__ <br>
 
@@ -123,11 +113,11 @@ __2.3 Deskripsi Modul__ <br>
 ### BAB 3 Deskripsi Perancangan Rinci <br>
 __3.1 Diagram Konteks__ <br>
 
-![Context Diagram](http://i64.tinypic.com/234iah.jpg)
+![Context Diagram](http://i63.tinypic.com/wipqar.jpg)
 
 
 ____3.1.1 DFD Level 0____ <br>
-![DFD Level 0](http://i65.tinypic.com/fmjbba.png)
+![DFD Level 0](http://i66.tinypic.com/30vk5rc.jpg)
 
 ____3.1.2 DFD Level 1____ <br>
 
