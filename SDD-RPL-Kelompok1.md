@@ -122,7 +122,7 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi POS Menggun
 |------------|----------|----------|-------------|-----------|-----------|---------------------|
 | id_denda| Integer| 11 | Primary Key| Iya |Auto_increment| Id denda auto increment |
 | merk| varchar| 50 | Tidak | Tidak | -|id mobil |
-| denda/jam| varchar| 50 | Tidak | Tidak | - |merk mobil |
+| denda/jam| varchar| 50 | Tidak | Tidak | - |denda/jam bila telat mengembalikan mobil |
 
 **Tabel Pemesanan**
 
