@@ -230,7 +230,6 @@ ____3.1.2 DFD Level 1____ <br>
 
 __3.2 Deskripsi Rinci Tabel__ <br>
 **Tabel Admin**
-
 <br>Identifikasi/Nama : Admin
 <br>Deskripsi Isi : Berisi data untuk login
 <br>Jenis : Tabel referensi
@@ -245,7 +244,6 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | password | menyatakan password admin | varchar(30) | No | - | password akan digunakan untuk login admin|
 
 **Tabel Customer**
-
 <br>Identifikasi/Nama : Customer
 <br>Deskripsi Isi : Berisi data untuk regitrasi dan login
 <br>Jenis : Tabel referensi
@@ -265,7 +263,6 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | email | menyatakan email customer | varchar(40) | No | - | email akan digunakan untuk registrasi |
 
 **Tabel Kendaraan**
-
 <br>Identifikasi/Nama : Kendaraan
 <br>Deskripsi Isi : Berisi data Kendaraan
 <br>Jenis : Tabel referensi
@@ -283,7 +280,6 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | gambar | menyatakan gambar mobil | varchar(50) | No | - | gambar mobil akan diigunakan pada menu data kendaraan |
 
 **Tabel Promo**
-
 <br>Identifikasi/Nama : Promo
 <br>Deskripsi Isi : Berisi data Promo
 <br>Jenis : Tabel referensi
@@ -300,7 +296,6 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | harga/orang | menyatakan harga promo/orang | varchar(30) | No | - | harga/orang akan digunakan pada menu promo  |
 
 **Tabel Denda**
-
 <br>Identifikasi/Nama : Denda
 <br>Deskripsi Isi : Berisi data denda
 <br>Jenis : Tabel referensi
@@ -315,7 +310,6 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | denda/jam | menyatakan total denda | varchar(50) | No | - | denda/jam akan digunakan untuk mengetahui berapa total denda  |
 
 **Tabel Pemesanan**
-
 <br>Identifikasi/Nama : Pemesanan
 <br>Deskripsi Isi : Berisi data untuk melakukan pemesanan
 <br>Jenis : Tabel referensi
