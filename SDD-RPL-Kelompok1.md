@@ -286,25 +286,50 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
 | --------- | --------- | --------- | --------- | --------- | --------- |
 | id_promo | merupakan key dari tabel promo | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
-| id_kedaraan |  | int(11) | No | - | username akan digunakan sebagai username untuk login customer |
+| id_kendaraan | merupakan foreign key dari tabel promo  | int(11) | No | - | id kendaraan akan digunakan pada menu promo |
 | merk | menyatakan merk mobil | varchar(50) | No | - | merk akan digunakan pada menu promo |
 | tujuan | menyatakan tujuan wisata | varchar(50) | No | - | tujuan akan digunakan pada menu promo |
 | harga/orang | menyatakan harga promo/orang | varchar(30) | No | - | harga/orang akan digunakan pada menu promo  |
 
-<br>Identifikasi/Nama : Promo
-<br>Deskripsi Isi : Berisi data Promo
+<br>Identifikasi/Nama : Denda
+<br>Deskripsi Isi : Berisi data denda
 <br>Jenis : Tabel referensi
 <br>Volume : -
 <br>Laju : -
-<br>Primary Key : id_promo
+<br>Primary Key : id_denda
 
 | Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
 | --------- | --------- | --------- | --------- | --------- | --------- |
-| id_promo | merupakan key dari tabel promo | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
-| id_kedaraan |  | int(11) | No | - | username akan digunakan sebagai username untuk login customer |
-| merk | menyatakan merk mobil | varchar(50) | No | - | merk akan digunakan pada menu promo |
-| tujuan | menyatakan tujuan wisata | varchar(50) | No | - | tujuan akan digunakan pada menu promo |
-| harga/orang | menyatakan harga promo/orang | varchar(30) | No | - | harga/orang akan digunakan pada menu promo  |
+| id_denda | merupakan key dari tabel denda | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
+| merk | menyatakan merk mobil | varchar(50) | No | - | merk mobil akan digunakan pada data denda |
+| denda/jam | menyatakan total denda | varchar(50) | No | - | denda/jam akan digunakan untuk mengetahui berapa total denda  |
+
+<br>Identifikasi/Nama : Pemesanan
+<br>Deskripsi Isi : Berisi data untuk melakukan pemesanan
+<br>Jenis : Tabel referensi
+<br>Volume : -
+<br>Laju : -
+<br>Primary Key : id_pemesanan
+
+| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
+| --------- | --------- | --------- | --------- | --------- | --------- |
+| id_pemesanan | merupakan key dari tabel pemesanan | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
+| id_customer| merupakan foreign key pada tabel pemesanan | int(11) | No | - | id customer akan digunakan untuk pemesanan |
+| id_kendaraan | merupakan foreign key pada tabel pemesanan | int(11) | No | - | id kendaraan akan digunakan untuk pemesanan  |
+| nama | menyatakan nama customer | varchar(50) | No | - | nama akan digunakan untuk pemesanan  |
+| tgl_peminjaman | menyatakan tgl peminjaman | date | No | - |  tgl peminjaman akan digunakan untuk pemesanan   |
+| tgl_pengembalian | menyatakan tgl pengembalian | date | No | - | tgl pengembalian akan digunakan untuk pemesanan  |
+| merk | menyatakan merk mobil | varchar(50) | No | - | merk akan digunakan untuk mengetahui jenis mobil pada saat pemesanan |
+| total | menyatakan total harga sewa | varchar(40) | No | - | total akan digunakan untuk mengetahui harga total sewa mobil  |
+| gambar | menyatakan total denda | varchar(50) | No | - | gambar akan digunakan untuk mengetahui bukti pembayaran |
+
+
+
+
+
+
+
+
 
 
 
