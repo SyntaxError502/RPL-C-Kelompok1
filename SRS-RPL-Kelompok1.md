@@ -59,12 +59,11 @@ __1.3 Definisi, Akronim, Singkatan__
 __1.4 Referensi__
 
 
-- https://pengertiandefinisi.com/pengertian-aplikasi-dan-sejarah-perkembangan
-  aplikasi/
-
-- IEEE std.830-1998,IEEE Recomended Practice for Software Requitment Specification
+- https://pengertiandefinisi.com/pengertian-aplikasi-dan-sejarah-perkembangan-aplikasi/
 
 - https://hansiaditya.files.wordpress.com/2007/10/uts-rpl-final02.pdf
+
+- IEEE std.830-1998,IEEE Recomended Practice for Software Requitment Specification
 
 __1.5 Overview__
 
