@@ -207,12 +207,12 @@ ____2.2.4 Daftar Tabel Aplikasi____ <br>
 
 | Nama Tabel | Primary Key | Data Store | E/R | Deskripsi Isi |
 | --------- | --------- | --------- | --------- | --------- |
-| admin | id_admin | D10 | - | Berisi username dan password admin yang digunakan untuk login |
-| customer | id_customer | D1 | - |Berisi username , password customer yang digunakan untuk login dan berisi email, nama, alamat, no_telp, no_hp yang digunakan untuk reistrasi  |
-| Kendaraan | id_kendaraan | D3 | - | Berisi data kendaraan yang terdapat di penyewaan tersebut |
-| promo | id_promo | D2 | - | Berisi data promo |
-| denda | id_denda | D4 | - | Berisi data denda yang digunakan untuk mengetahui berapa denda jika terlambat mengembalikan mobil |
-| pemesanan | id_pemesanan | D5 | - | Berisi data pemesaan yang digunakan untuk pemesanan mobil |
+| admin | id_admin |  | - | Berisi username dan password admin yang digunakan untuk login |
+| customer | id_customer | D2 | - |Berisi username , password customer yang digunakan untuk login dan berisi email, nama, alamat, no_telp, no_hp yang digunakan untuk reistrasi  |
+| Kendaraan | id_kendaraan | D1 | - | Berisi data kendaraan yang terdapat di penyewaan tersebut |
+| promo | id_promo | D4 | - | Berisi data promo |
+| denda | id_denda |  | - | Berisi data denda yang digunakan untuk mengetahui berapa denda jika terlambat mengembalikan mobil |
+| pemesanan | id_pemesanan |  | - | Berisi data pemesaan yang digunakan untuk pemesanan mobil |
 
 __2.3 Deskripsi Modul__ <br>
 
