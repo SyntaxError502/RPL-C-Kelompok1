@@ -86,11 +86,58 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi POS Menggun
 
 |Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
 |------------|----------|----------|-------------|-----------|-----------|---------------------|
-| id_customer| Integer| 11 | Primary Key| Iya |Auto_increment| Id user auto increment |
-| email| Varchar| 40 | Tidak | Tidak | -| Email yang digunakan user untuk login |
+| id_customer| Integer| 11 | Primary Key| Iya |Auto_increment| Id customer auto increment |
+| email| Varchar| 40 | Tidak | Tidak | -|Email customer |
 | password| Varchar| 30 | Tidak | Tidak | - |Password yang digunakan user untuk login |
-| username| Varchar| 20 | Tidak | Tidak | -| |
-| nama| Varchar| 50 | Tidak | Tidak | -| |
+| username| Varchar| 30 | Tidak | Tidak | -|username yang digunakan untuk login |
+| nama| Varchar| 50 | Tidak | Tidak | -|nama customer |
+| alamat| Varchar| 50 | Tidak | Tidak | -|alamat customer |
+| no_telp| Integer| 12 | Tidak | Tidak | -|no telp customer |
+| no_ktp| Varchar| 30 | Tidak | Tidak | -|no ktp customer |
+
+**Tabel Kendaraan**
+
+|Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
+|------------|----------|----------|-------------|-----------|-----------|---------------------|
+| id_kendaraan| Integer| 11 | Primary Key| Iya |Auto_increment| Id kendaraan auto increment |
+| merk| Varchar| 30 | Tidak | Tidak | -|merk mobil |
+| tahun| integer| 11 | Tidak | Tidak | - |tahun mobil |
+| nopol| Varchar| 15 | Tidak | Tidak | -|nopol mobil |
+| harga/hari| Varchar| 30 | Tidak | Tidak | -|harga mobil |
+| gambar| Varchar| 50 | Tidak | Tidak | -|gambar mobil |
+
+**Tabel Promo**
+
+|Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
+|------------|----------|----------|-------------|-----------|-----------|---------------------|
+| id_promo| Integer| 11 | Primary Key| Iya |Auto_increment| Id promo auto increment |
+| id_kendaraan| integer| 11 | Tidak | Tidak | -|id mobil |
+| merk| varchar| 50 | Tidak | Tidak | - |merk mobil |
+| tujuan| Varchar| 50 | Tidak | Tidak | -|tujuan wisata |
+| harga/orang| Varchar| 30 | Tidak | Tidak | -|harga wisata/orang |
+
+**Tabel Denda**
+
+|Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
+|------------|----------|----------|-------------|-----------|-----------|---------------------|
+| id_denda| Integer| 11 | Primary Key| Iya |Auto_increment| Id denda auto increment |
+| merk| varchar| 50 | Tidak | Tidak | -|id mobil |
+| denda/jam| varchar| 50 | Tidak | Tidak | - |merk mobil |
+
+**Tabel Pemesanan**
+
+|Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
+|------------|----------|----------|-------------|-----------|-----------|---------------------|
+| id_pemesanan| Integer| 11 | Primary Key| Iya |Auto_increment| Id pemesanan auto increment |
+| id_customer| Integer| 11 | Tidak | Tidak | -|id customer |
+| id_kendaraan| integer| 11 | Tidak | Tidak | - |id mobil |
+| nama| Varchar| 50 | Tidak | Tidak | -|nama customer |
+| tgl_peminjaman| date| - | Tidak | Tidak | -|tanggal peminjaman mobil |
+| tgl_pengembalian| date| - | Tidak | Tidak | -|tanggal pengembaian mobil |
+| merk| Varchar| 50 | Tidak | Tidak | -|merk mobil |
+| total| Varchar| 40 | Tidak | Tidak | -|total harga penyewaan mobil |
+| gambar| Varchar| 50 | Tidak | Tidak | -|gambar bukti pembayaran |
+
 
 ____2.2.1 Definisi Domain/Type____ <br>
 
