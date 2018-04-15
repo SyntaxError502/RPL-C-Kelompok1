@@ -117,9 +117,9 @@ __2.1.2 Antarmuka Pengguna__
 			<td><b>Detail Mobil</td>
 		</tr>
 		<tr valign="top" align="center">
-				<td><img src="http://i66.tinypic.com/whgv9z.jpg" width="180" height="350" /><br><p align="justify">Pada tampilan halaman mahasiswa terdapat beberapa informasi yang bisa dilihat yakni, absensi, presensi, dan kompensasi. Ada juga 2 tombol yakni tombol jadwal dan tombol scan</p></td>
-				<td><img src="http://i68.tinypic.com/av3rbq.jpg" width="180" height="350" /><br><p align="justify">Pada tampilan scan menggunakan kamera pada device untuk memindai kode QR</p></td>
-				<td><img src="http://i63.tinypic.com/hs3jpg.jpg" width="180" height="350" /><br><p align="justify">Pada Tampilan sukses akan ada keterangan bahwa sudah berhasil menscan dan ada tombol tutup untuk kembali ke halaman utama</p></td>		
+				<td><img src="http://i66.tinypic.com/whgv9z.jpg" width="180" height="350" /><br><p align="justify">Pada tampilan transaksi penyewaan user harus menginputkan jenis mobil yang akan disewa, tanggal penyewaan, tanggal pengembalian di form yang sudah disediakan.</p></td>
+				<td><img src="http://i68.tinypic.com/av3rbq.jpg" width="180" height="350" /><br><p align="justify">Pada tampilan list mobil akan menampilkan beberapa jenis mobil yang disediakan oleh Alikha Express yang digunakan untuk mempermudah user dalam memilih jenis mobil yang ingin disewa.</p></td>
+				<td><img src="http://i63.tinypic.com/hs3jpg.jpg" width="180" height="350" /><br><p align="justify">Pada tampilan detail mobil maka akan tertera data detail dari mobil yang dipilih, seperti jenis mobil, nomor polisi, dll.</p></td>		
 		</tr>
 			</tr>
 		<tr align="center">
@@ -128,9 +128,9 @@ __2.1.2 Antarmuka Pengguna__
 			<td><b>Menu Logout</td>
 		</tr>
 		<tr valign="top" align="center">
-				<td><img src="http://i65.tinypic.com/98wv7r.jpg" width="180" height="350" /><br><p align="justify">Di tampilan halaman dosen, mengunakan cardview yang ditunjang dengan 2 tombol pada tiap kontentnya yakni tombl mulai pada tiap mata kuliah dan tombol ubah jadwal mata kuliah tersebut. Ada juga tombol menu yang akan bisa digunakan untuk membuka menu</p></td>
-				<td><img src="http://i63.tinypic.com/10o38mo.jpg" width="180" height="350" /><br><p align="justify">Di menu terdapat keterangan nama dan NIP dosen dan ada 2 pilihan menu yakni lihat jadwal dan lihat rekap absensi</p></td>
-				<td><img src="http://i64.tinypic.com/10pn8km.jpg" width="180" height="350" /><br><p align="justify">Menu jadwal akan menampilan tombol download yang akan mengunduh file jadwal yang berupa .pdf</p></td>		
+				<td><img src="http://i65.tinypic.com/98wv7r.jpg" width="180" height="350" /><br><p align="justify">Di tampilan detail pesanan akan menampilkan kembali data pesanan yang sebelumnya telah diinputkan oleh customers.</p></td>
+				<td><img src="http://i63.tinypic.com/10o38mo.jpg" width="180" height="350" /><br><p align="justify">Navigasi ini digunakan untuk memudahkan pengguna untuk menuju menu tertentu yang tersedia di aplikasi Alikha Express.</p></td>
+				<td><img src="http://i64.tinypic.com/10pn8km.jpg" width="180" height="350" /><br><p align="justify">Apabila ingin keluar dari aplikasi maka akan muncul menu pilihan logout.</p></td>		
 		</tr>
 		</tr>
 			</tr>
@@ -144,25 +144,25 @@ __2.1.2 Antarmuka Pengguna__
 			<td><b>Login Admin</td>
 		</tr>
 		<tr align="center">
-			<td><img src="http://i65.tinypic.com/1rvm2w.jpg" align="center"> <br><p align="justify">Pada Dashboard admin terdapat panel-panel yang berisi beberapa informasi seperti jumlah mahasiswa, jumlah dosen, jumlah kelas, kalender dan ucapan selamat datang.</p></td>
+			<td><img src="http://i65.tinypic.com/1rvm2w.jpg" align="center"> <br><p align="justify">Login admin digunakan sebagai proses otorisasi admin agar dapat mengolah data pada sistem Alikha Express berbasis web.</p></td>
 		</tr>
 				<tr>
 			<td><b> Stok Kendaraan </td>
 		</tr>
 		<tr align="center">
-			<td><img src="http://i66.tinypic.com/b51o2f.jpg"><br><p align="justify">Menu Dosen terdapat tabel list nama-nama dosen dan tombol untuk edit dosen</p></td>
+			<td><img src="http://i66.tinypic.com/b51o2f.jpg"><br><p align="justify">Pada tampilan stok kendaraan terdapat tabel dimana tercantum beberapa kendaraan yang tersedia di Alikha Express. Admin juga dapat melakukan perubahan terhadap data stok kendaraan.</p></td>
 		</tr>
 				<tr>
 			<td><b> Data Transaksi </td>
 		</tr>
 		<tr align="center">
-			<td><img src="http://i66.tinypic.com/wcbz7p.jpg"><br><p align="justify">Di dalam menu kelas terdapat data kelas berupa table. Di dalam table tersebut juga ada tombol untuk melihat detail kelasnya</p></td>
+			<td><img src="http://i66.tinypic.com/wcbz7p.jpg"><br><p align="justify">Di dalam data transaksi terdapat tabel transaksi yang pernah dilakukan oleh sistem.</p></td>
 		</tr>
 				<tr>
 			<td><b> Data Penyewa </td>
 		</tr>
 		<tr align="center">
-			<td><img src="http://i67.tinypic.com/11imhkm.jpg"><br><p align="justify">Di menu mahasiswa terdapat Data mahasiswa perkelas berupa tabel</p></td>
+			<td><img src="http://i67.tinypic.com/11imhkm.jpg"><br><p align="justify">Pada data penyewa terdapat tabel yang berisikan data penyewa yang telah diinputkan oleh customers melalui smartphone.</p></td>
 		</tr>			
 	</table>
 
@@ -215,7 +215,21 @@ __2.2 Spesifikasi Kebutuhan Fungsional__
  
 __2.3 Spesifikasi Kebutuhan Non-Fungsional__
  
-Karakteristik pengguna dari perangkat lunak adalah pengguna langsung berinteraksi langsung.
+* Availability<br>
+Ketersediaan aplikasi yang dapat di-update sewaktu-waktu dan dapat beroperasi terus menerus selama 24 jam per hari tanpa berhenti, karena aplikasi ini akan bersifat android-based dan web-based dan akan diakses oleh pengguna yang membutuhkan dari berbagai tempat pada waktu yang berbeda-beda.
+
+* Security<br>
+Aplikasi yang dikembangkan nantinya harus memiliki tingkat keamanan yang tinggi dimana setiap user yang masuk tidak dapat seenaknya mengubah data yang berada di dalam aplikasi ini. Aplikasi ini juga aman karena terdapat transaksi penyewaan kendaran maka faktor keamanan menjadi sangat penting.
+
+* Usability<br>
+Aplikasi ini diharapkan memudahkan user dalam penggunaannya.
+
+* Accessibility<br>
+Aplikasi bisa digunakan kapanpun dan dimanapun selama terkoneksi internet.
+
+* Portability<br>
+Aplikasi ini memberi kemudahan dalam pengaksesan sistem khususnya terkait dengan faktor waktu dan lokasi pengaksesan, serta perangkat atau teknologi yang digunakan untuk mengakses.
+
 
 __2.4 Karakteristik Pengguna__
 
@@ -226,11 +240,8 @@ __2.5 Batasan-batasan__
 * DBMS yang digunakan adalah MySQL.
     
 __2.6 Asumsi-Asumsi Keterkaitan__
-
-Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan
-Pengembangan perangkat lunak tidak akan merubah file-file atau pun database yang ada
    
-__2.7 Kebutuhan-kebutuhan penyeimbang__
+__2.7 Kebutuhan-Kebutuhan Penyeimbang__
 
 Kebutuhan fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan yang memiliki input,proses, dan output.
 
@@ -256,9 +267,9 @@ Informasi Pendukung
 
 __BAB 3 DESKRIPSI RINCI KEBUTUHAN__
 
-__3.1 Kebutuhan AntarMuka Eksternal__
+__3.1 Kebutuhan Antarmuka Eksternal__
 
-Kebutuhan antarmuka eksternal pada perangkat lunak Sistem Aplikasi Penyewaan Kendaraan beserta Rute Perjalanan Alikha Ekspress mencakup kebutuhan antarmuka pemakai, antarmuka perangkat keras, dan antarmuka perangkat lunak.
+Dalam operasionalnya, aplikasi yang akan dikembangkan memerlukan adanya interaksi dengan komponen-komponen lain diluar perangkat lunak itu seperti, user sebagai seorang pengguna perangkat lunak, perangkat keras dimana perangkat lunak ini akan dijalankan, perangkat komunikasi dimana perangkat lunak ini akan saling berkomunikasi dalam jaringan internet.
 
 __3.2 Kebutuhan Fungsional__
 
