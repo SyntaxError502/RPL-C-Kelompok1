@@ -226,11 +226,11 @@ __5.3 Kebutuhan-Kebutuhan Sumber Daya__
 | ----------- | --------- | ---------- | 
 | Sumber Daya Manusia | 5 Orang anggota pekerja projek | Mengajukan jumlah tersebut dikarenakan agar keseimbangan antara pengerjaan projek, dokumen-dokumen dan pencarian masukan dari pasar, dengan demikian kita dapat mempercepat proses pekerjaan projek. |
 | Sumber Daya Software | Android Studio | Pengajuan software android studio dikarenakan pengerjaan projek menggunakan bahasa pemrograman Java dan agar pengerjaan jauh lebih efisien. |
-| MySql Phpmyadmin | Menggunakan software ini di gunakan untuk pembuatan database untuk mengaktifkan projeknya. |
-| Sublime Text 3| Digunakan untuk merancang web admin |
-| Balsamic Mockup | Digunakan untuk membuat rancangan desain interface aplikasi |
+| | MySql Phpmyadmin | Menggunakan software ini di gunakan untuk pembuatan database untuk mengaktifkan projeknya. |
+| | Sublime Text 3| Digunakan untuk merancang web admin |
+| | Balsamic Mockup | Digunakan untuk membuat rancangan desain interface aplikasi |
 | Sumber Daya Hardware | Perangkat Komputer | Perangkat induk yang di gunakan dalam pengerjaan projek. |
-| Mobile | Perangkat yang digunakan untuk uji coba aplikasi. |
+| | Mobile | Perangkat yang digunakan untuk uji coba aplikasi. |
 
 
 __5.4 Alokasi Budget dan Sumber Daya__
