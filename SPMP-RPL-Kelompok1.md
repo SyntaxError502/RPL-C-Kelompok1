@@ -106,21 +106,45 @@ __3.2 Asumsi, Keterkaitan dan Batasan-Batasan__
 - **Asumsi**<br>
 Perusahaan jasa rental mobil dapat menciptakan dan meningkatkan kepuasan konsumennya. Strategi pemasaran yang telah dilaksanakan selama ini dirasakan kurang efektif sehingga menyebabkan keuntungan yang diperoleh tidak maksimal karena fluktasi jumlah penjualan dari waktu ke waktu. Hal ini diindikasikan karena adanya tingkat kepuasan konsumen yang rendah. Dengan demikian, kami berusaha meningkatkan cara - cara pemasaran dan membuat aplikasi penyewaan transportasi yang lebih efektif agar dapat meciptakakn dan meningkatkakn kepuasan konsumen sehingga dapat merebut juga sekaligus mempertahankan pelanggannya demi kelangsungan hidup perusahaan.</li><br>
 - **Batasan-Batasan**<br>
-Penelitian dilakukan dengan batasan-batasan tertentu agar tidak menyimpang dari permasalahan yang ada. Dalam penelitian ini, membatasi pada masalah strategi pemasaran jasa meliputi product, harga, tempat, promosi, orang, sarana fisik, dan proses, yang berpengaruh terhadap kepuasan konsumen dalam meggunakan jasa sewa kendaraan.</li>
+Dalam projek yang kami buat terdapat batasan-batasan tertentu yaitu user tidak dapat melakukan tracking kendaraan.</li>
 
 __3.3 Manajemen Risiko__
 
-* Manajemen keuangan
-* Manajemen Armada atau Mobil
-* Manajemen Administrasi
-* Manajemen Pelanggan
+| Resiko        | Teknik Memanajemen Resiko           |
+| ---------------- |:-------------------:|
+|Estimasi biaya dan waktu yang tidak realitis |Desain untuk biaya |
+|| Merekam danmenganalisa project yang akan dibuat |
+|| Mengembangkan sofware yang salah | Evaluasi project yang ditingkatkan |
+|| Buat metode spesifikasi yang formal |
+|| Survai pengguna |
+|| Buat prototype |
+|Terlambat membangun kebutuhan software| Mengubah prosedur kendali |
+|| Membatasi perubahan terlalu banyak |
+|| Meningkatkan pengaembangan(akibat perubahan) |
+|Kegagalan pada komponen-komponen| Inspeksi |
+|| Analisis project yang akan di buat |
+|| Keterbatasan bahan-bahan |
+|Kegagalan kinerja real time| Prosedur jaminan kualitas |
+|| Desain yang kompatitif |
+|| Membangun tim |
+|| Kesungguhan dalam tim |
+|Pengembanganya terlalu sulit secara teknis| Analisa teknis |
+|| Anlisa biaya maanfaat |
+|| Anlisa software |
+|| Simulasi software |
+|Kegalan menjalan tugas eksternal| Benchmarking |
+|| Simulas |
+|| Tuning |
+|| Analisis teknis |
+
 
 __3.4 Mekanisme Monitoring dan Kontroling__
 
-* Rapat proyek mingguan
-* Penyimpanan dokumen bersama
-* Perencanaan Proyek
-* Pencarian manfaat dalam proyek
+__3.4.1 Monitoring__
+<br>Proses monitoring dilakukan secara tim, adapun proses pelaksanaannya dilakukan setiap hari senin.
+
+__3.4.2 Kontroling__
+<br>Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil kerja proyek dapat dievaluasi pada hari terakhir kerja.
 
 __3.5 Perencanaan Staf__
 
