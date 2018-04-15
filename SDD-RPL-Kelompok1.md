@@ -111,7 +111,7 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi POS Menggun
 |Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
 |------------|----------|----------|-------------|-----------|-----------|---------------------|
 | id_promo| Integer| 11 | Primary Key| Iya |Auto_increment| Id promo auto increment |
-| id_kendaraan| integer| 11 | Tidak | Tidak | -|relasi untuk menghubungkan tabel promo dengan tabel kendaraan |
+| id_kendaraan| integer| 11 | Tidak | Tidak | -|relasi untuk menghubungkan data promo dengan data kendaraan |
 | merk| varchar| 50 | Tidak | Tidak | - |merk mobil |
 | tujuan| Varchar| 50 | Tidak | Tidak | -|tujuan wisata |
 | harga/orang| Varchar| 30 | Tidak | Tidak | -|harga wisata/orang |
@@ -129,8 +129,8 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi POS Menggun
 |Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
 |------------|----------|----------|-------------|-----------|-----------|---------------------|
 | id_pemesanan| Integer| 11 | Primary Key| Iya |Auto_increment| Id pemesanan auto increment |
-| id_customer| Integer| 11 | Tidak | Tidak | -|relasi untuk menghubungkan tabel pemesanan dengan tabel customer |
-| id_kendaraan| integer| 11 | Tidak | Tidak | - |relasi untuk menghubungkan tabel pemesanan dengan tabel kendaraan |
+| id_customer| Integer| 11 | Tidak | Tidak | -|relasi untuk menghubungkan akun customer dengan data pemesanan |
+| id_kendaraan| integer| 11 | Tidak | Tidak | - |relasi untuk menghubungkan data pemesanan dengan data kendaraan |
 | nama| Varchar| 50 | Tidak | Tidak | -|nama customer |
 | tgl_peminjaman| date| - | Tidak | Tidak | -|tanggal peminjaman mobil |
 | tgl_pengembalian| date| - | Tidak | Tidak | -|tanggal pengembaian mobil |
@@ -206,12 +206,13 @@ ____2.2.3 Physical Data Model____ <br>
 ____2.2.4 Daftar Tabel Aplikasi____ <br>
 
 | Nama Tabel | Primary Key | Data Store | E/R | Deskripsi Isi |
-|----|---------|------|-----|---------|
-|Tabel Admin      | Id_Admin     | 
-|Tabel Customer   | Id_Customer  |
-|Tabel Data Mobil | Id_Mobil     |
-|Tabel Promo      | id_Promo     |
-|Tabel Transaksi  | Id_Transaksi |
+| --------- | --------- | --------- | --------- | --------- |
+| admin | id_admin | D10 | - | Berisi username dan password admin yang digunakan untuk login |
+| customer | id_customer | D1 | - |Berisi username , password customer yang digunakan untuk login dan berisi email, nama, alamat, no_telp, no_hp yang digunakan untuk reistrasi  |
+| Kendaraan | id_kendaraan | D3 | - | Berisi data kendaraan yang terdapat di penyewaan tersebut |
+| promo | id_promo | D2 | - | Berisi data promo |
+| denda | id_denda | D4 | - | Berisi data denda yang digunakan untuk mengetahui berapa denda jika terlambat mengembalikan mobil |
+| pemesanan | id_pemesanan | D5 | - | Berisi data pemesaan yang digunakan untuk pemesanan mobil |
 
 __2.3 Deskripsi Modul__ <br>
 
