@@ -143,78 +143,51 @@ __2.1.2 Antarmuka Pengguna__
 		<tr>
 			<td><b>Login Admin</td>
 		</tr>
-		<tr>
-			<td><img src="http://i63.tinypic.com/25g9dso.jpg" align="center"> <br><p align="justify">Pada Dashboard admin terdapat panel-panel yang berisi beberapa informasi seperti jumlah mahasiswa, jumlah dosen, jumlah kelas, kalender dan ucapan selamat datang.</p></td>
+		<tr align="center">
+			<td><img src="http://i65.tinypic.com/1rvm2w.jpg" align="center"> <br><p align="justify">Pada Dashboard admin terdapat panel-panel yang berisi beberapa informasi seperti jumlah mahasiswa, jumlah dosen, jumlah kelas, kalender dan ucapan selamat datang.</p></td>
 		</tr>
 				<tr>
-			<td><b> - </td>
+			<td><b> Stok Kendaraan </td>
 		</tr>
-		<tr>
-			<td><img src="http://i66.tinypic.com/b51o2f.jpg" align="center"><br><p align="justify">Menu Dosen terdapat tabel list nama-nama dosen dan tombol untuk edit dosen</p></td>
-		</tr>
-				<tr>
-			<td><b> - </td>
-		</tr>
-		<tr>
-			<td><img src=""><br><p align="justify">Di dalam menu kelas terdapat data kelas berupa table. Di dalam table tersebut juga ada tombol untuk melihat detail kelasnya</p></td>
+		<tr align="center">
+			<td><img src="http://i66.tinypic.com/b51o2f.jpg"><br><p align="justify">Menu Dosen terdapat tabel list nama-nama dosen dan tombol untuk edit dosen</p></td>
 		</tr>
 				<tr>
-			<td><b> - </td>
+			<td><b> Data Transaksi </td>
 		</tr>
-		<tr>
-			<td><img src=""><br><p align="justify">Di menu mahasiswa terdapat Data mahasiswa perkelas berupa tabel</p></td>
-		</tr>
-				<tr>
-			<td><b> - </td>
-		</tr>
-		<tr>
-			<td><img src=""><br><p align="justify">Pada edit menu data dosen terdapat tombol download tamplate dan upload file berupa .xls</p></td>
+		<tr align="center">
+			<td><img src="http://i66.tinypic.com/wcbz7p.jpg"><br><p align="justify">Di dalam menu kelas terdapat data kelas berupa table. Di dalam table tersebut juga ada tombol untuk melihat detail kelasnya</p></td>
 		</tr>
 				<tr>
-			<td><b> - </td>
+			<td><b> Data Penyewa </td>
 		</tr>
-		<tr>
-			<td><img src=""><br><p align="justify">Pada Edit Data Mahasiswa sama seperti Edit Data Dosen yakni terdapat tombol untuk upload dan download untuk mengedit data mahasiswa</p></td>
-		</tr>
-				<tr>
-			<td><b> - </td>
-		</tr>
-		<tr>
-			<td><img src=""><br><p align="justify">Di dalam halaman jadwal terdapat dua tombol yaitu Lihat jadwal dan ubah jadwal.</p></td>
-		</tr>
-				<tr>
-			<td><b>Login Admin</td>
-		</tr>
-		<tr>
-			<td><img src=""><br><p align="justify">Pada halaman Login terdapat beberapa input yang harus di masukan oleh admin yakni username, password dan captcha. Dan ada juga tombol untuk login</p></td>
-		</tr>
-				<tr>
-			<td><b> - </td>
-		</tr>
-		<tr>
-			<td><img src=""><br><p align="justify">DI halamman rekap abesnsi admin bisa langsung mendownload hasilnya dengan menekan tombol Download</p></td>
-		</tr>
-				<tr>
-			<td><b> - </td>
-		</tr>
-		<tr>
-			<td><img src=""><br><p align="justify">Pada tambah kelas Admin  harus memasukan nama kelas terlebih dahulu</p></td>
-		</tr>
-				<tr>
-			<td><b> - </td>
-		</tr>
-		<tr>
-			<td><img src=""><br><p align="justify">Pada Edit jadwal sama seperti pada Edit mahasiswa dan dosen yakni terdapat 2 tombol untuk download tamplate dan upload untuk mengunggah data yang sudah di edit</p></td>
-		</tr>
+		<tr align="center">
+			<td><img src="http://i67.tinypic.com/11imhkm.jpg"><br><p align="justify">Di menu mahasiswa terdapat Data mahasiswa perkelas berupa tabel</p></td>
+		</tr>			
 	</table>
 
 __2.1.3 Antarmuka Perangkat Keras__
 
- 
+Kebutuhan minimum perangkat keras yang dapat digunakan oleh aplikasi ini adalah :
+
+* Smarthpone Android<br>
+Dibutuhkan sebuah smartphone dengan os Android yang untuk dapat menggunakan aplikasi Alikha Express ini untuk user customers.
+
+* PC/Laptop<br>
+Untuk admin membutuhkan PC/Laptop untuk dapat menggunakan aplikasi Alikha Express ini.
+
+__2.1.4 Antarmuka Perangkat Lunak__
+
+Perangkat lunak yang dibutuhkan untuk aplikasi ini yaitu :
+* Android Studio
+* Sublime Teks
+* XAMPP
+* Balsamiq Mockup
+
 
 __2.1.5 Antarmuka Komunikasi__
 
-Proses komunikasi dalam aplikasi ini melibatkan pengguna dengan perangkat mobile berbasis android.
+Proses komunikasi dalam aplikasi ini melibatkan pengguna dengan internet.
 
 __2.1.6 Batasan - Batasan Memori__
 
@@ -226,37 +199,38 @@ __2.1.7 Operasi - Operasi__
 Sebagai penyesuaian operasional untuk pengguna akan dilakukan Training bertingkat.
 Tingkat user/Operator dan Supervisor, masing-masing tingkat memiliki tingkat pengetahuan yang berbeda dan hak akses sistem yang berbeda sehingga pelatihannya pun akan berberda.
 
-__2.1.8 Kebutuhan - Kebutuhan dalam tahapan adaptasi__
+__2.1.8 Kebutuhan - Kebutuhan Dalam Tahapan Adaptasi__
 
 * Perangkat lunak menggunakan bahasa indonesia
 * Panduan aplikasi menggunakan mode interaktif
 * Aplikasi ini menggunakan rute perjalanan
 
-__2.2 Fungsi-fungsi produk__
+__2.2 Spesifikasi Kebutuhan Fungsional__
 
-Fungsi dari aplikasi rental mobiil berdasarkan pengguna sistem ini adalah sebagai berikut:
-a. Membuat user dalam dalam membuat atau membagi sebuah atau beberapa kelompok secara acak dengan mudah dan cepat
-b. Program ini bisa menginputkan list nama peminjam kemudian ditampilkan
-  
- __2.3 Karakteristik pengguna__
+ * Mobile<br>
+ ![](http://i67.tinypic.com/23m6683.jpg)
+ 
+ * Web<br>
+ ![](http://i63.tinypic.com/2e5tnaq.jpg)
+ 
+__2.3 Spesifikasi Kebutuhan Non-Fungsional__
  
 Karakteristik pengguna dari perangkat lunak adalah pengguna langsung berinteraksi langsung.
 
-__2.4 Batasan-batasan__
+__2.4 Karakteristik Pengguna__
 
-   Penginputan data atau memasukan nama pada aplikasi ini.
-   Perangkat lunak bisa diakses ketika terhubung dengan internet 
+__2.5 Batasan-batasan__
+
+* Bahasa pemrograman berbasis android yang digunakan adalah Java.
+* Bahasa pemrograman berbasis web yang digunakan adalah PHP dan HTML.
+* DBMS yang digunakan adalah MySQL.
     
-__2.5 Asumsi-asumsi dan ketergantungan/keterkaitan__
+__2.6 Asumsi-Asumsi Keterkaitan__
 
-   Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan
-   Pengembangan perangkat lunak tidak akan merubah file-file atau pun database yang ada
+Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan
+Pengembangan perangkat lunak tidak akan merubah file-file atau pun database yang ada
    
-   
-   
-   
-   
-__2.6 Kebutuhan-kebutuhan penyeimbang__
+__2.7 Kebutuhan-kebutuhan penyeimbang__
 
 Kebutuhan fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan yang memiliki input,proses, dan output.
 
@@ -303,9 +277,7 @@ __b. Customer__
 
 Yang dilakukan adalah : Login , melakukan pemesanan (Mengisi data, melihat data mobil) dan Memilih menu-menu yang tersedia.
 
-__3.3 Structur Logis dari Data__
+__3.3 Struktur Detail Kebutuhan Non-Fungsional__
+
+__3.3.1 Logika Struktur Data__
 ![ERD](http://i66.tinypic.com/t86cna.jpg)
-
-__3.4 Pemeliharaan__
-
-Untuk pemeliharaannya dapat dilakukan oleh admin dengan cara memantau , mengupdate ataupun menghapus data kendaraan yang tersedia pada Sistem Aplikasi Penyewaan Kendaraan Beserta Rute Perjalanan (Alikha Express).
