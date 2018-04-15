@@ -87,13 +87,16 @@ Adapun admin mengelola data mobil melalui sistem web. Dimana admin dapat menamba
 
 __2.1.1 Antarmuka Sistem__
 
-* Use Case Costumers
+![](http://i65.tinypic.com/10zddnm.jpg)
 
-![Use Case Costumers](http://i66.tinypic.com/mhbtd5.jpg)
-
-* Use Case Admin
-
-![Use Case Admin](http://i65.tinypic.com/34od4w5.jpg)
+| Modul | Fungsi |
+|-------|--------|
+| Modul otorisasi | Menangani otorisasi pengguna |
+| Modul kendaraan | Menangani data kendaraan |
+| Modul booking | Menangani pemesanan kendaraan |
+| Modul transaksi | Menangani transaksi pembayaran sewa |
+| Modul denda | Menangani perhitungan pembayaran denda |
+| Modul laporan | Menangani rekap keuntungan, dll |
 
 __2.1.2 Antarmuka Pengguna__
 
@@ -138,10 +141,10 @@ __2.1.2 Antarmuka Pengguna__
 	
 <table align="center">
 		<tr>
-			<td><b>Dashboard Admin</td>
+			<td><b>Login Admin</td>
 		</tr>
 		<tr>
-			<td><img src=""> <br><p align="justify">Pada Dashboard admin terdapat panel-panel yang berisi beberapa informasi seperti jumlah mahasiswa, jumlah dosen, jumlah kelas, kalender dan ucapan selamat datang.</p></td>
+			<td><img src="http://i63.tinypic.com/25g9dso.jpg"> <br><p align="justify">Pada Dashboard admin terdapat panel-panel yang berisi beberapa informasi seperti jumlah mahasiswa, jumlah dosen, jumlah kelas, kalender dan ucapan selamat datang.</p></td>
 		</tr>
 				<tr>
 			<td><b> - </td>
