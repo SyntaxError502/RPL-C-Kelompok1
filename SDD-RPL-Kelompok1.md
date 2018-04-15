@@ -229,6 +229,7 @@ ____3.1.2 DFD Level 1____ <br>
 
 
 __3.2 Deskripsi Rinci Tabel__ <br>
+__3.2 Tabel Admin__ <br>
 <br>Identifikasi/Nama : Admin
 <br>Deskripsi Isi : Berisi data untuk login
 <br>Jenis : Tabel referensi
