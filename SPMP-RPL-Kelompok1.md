@@ -194,10 +194,16 @@ __5.1 Paket Pekerjaan__
 
 | No | Nama | JobDesk | Modul | Rincian Pekerjaan |
 | :--: | :-----------: | :---------: |:--------: | :--------: |
-| 1 | Imam Muhayat | Project Manager | Login | CRUD Login |
-| 2 | Ari Irawan | Analysis & Android Developer | Login | Membuat login pada android |
-| | | | Register | Membuat register pada android
-| 3 | Ade Kartono | Web Developer | | - |
+| 1 | Imam Muhayat | Project Manager | Login | CRUD login pada web |
+| | | | Stok Kendaraan | CRUD stok kendaraan pada web |
+| | | | Data Penyewa | CRUD data penyewa pada web |
+| | | | Data Transaksi | CRUD data transaksi pada web |
+| 2 | Ari Irawan | Analysis & Android Developer | Login | Membuat login pada android untuk customers |
+| | | | Register | Membuat register pada android untuk customers |
+| 3 | Ade Kartono | Web Developer | Login | Membuat login pada web untuk admin |
+| | | | Stok Kendaraan | Membuat tabel stok kendaraan pada web |
+| | | | Data Penyewa | Membuat tabel data penyewa pada web |
+| | | | Data Transaksi | Membuat tabel data transaksi pada web |
 | 4 | Annisa Kartika Utami | UI/UX Designer | Login | Mendesain interface login pada android |
 | | | | | Mendesain interface login pada web |
 | | | | Register | Mendesain interface register pada android |
@@ -209,7 +215,7 @@ __5.1 Paket Pekerjaan__
 | | | | Stok Kendaraan | Mendesain interface stok kendaraan pada web |
 | | | | Data Transaksi | Mendesain interface data transaksi pada web |
 | | | | Data Penyewa | Mendesain interface data penyewa pada web |
-| 5 | Hasri Habbeana Pertiwi | Database | | - |
+| 5 | Hasri Habbeana Pertiwi | Database | Data Master | Membuat koneksi dengan database pada android dan web |
 
 __5.2 Ketergantungan dan Keterkaitan__
 
