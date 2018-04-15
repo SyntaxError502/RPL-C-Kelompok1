@@ -68,7 +68,7 @@ Dokumen ini memiliki beberapa referensi dalam pembuatannya, yaitu sebagai beriku
 <li>Pressman, Roger S. 2001. Software engineering: a practitioner’s approach 5th ed. New York : McGraw-Hill Companies, Inc.</li>
 <li>Dokumen Spesifikasi Kebutuhan Perangkat Lunak (SKPL) Super Monster Mall</li></ul>
 
-__1.6 Ikhtisar Dokumen__
+__1.6 Ikhtisar Dokumen__<br>
 Dokumen SDD ini dibagi menjadi tiga bagian utama. Bagian pertama berisi penjelasan tentang dokumen SDD yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan oleh perangkat lunak yang dikembangkan, definisi, referensi dan deskripsi umum. Bagian kedua berisi diagram dan spesifikasi kelas, komponen sistem dan arsitektur sistem dari Q-PAY yang telah dispesifikasikan pada dokumen SRS. Bagian ketiga berisi deskripsi rinci masing-masing kelas.
 
 <br>
