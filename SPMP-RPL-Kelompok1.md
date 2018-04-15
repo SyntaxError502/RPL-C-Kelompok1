@@ -192,7 +192,7 @@ __5.1 Paket Pekerjaan__
 
 
 | No | Nama | JobDesk | Modul | Rincian Pekerjaan |
-|----| ----------- | :---------: |--------|
+| :--: | :-----------: | :---------: |:--------: | :--------: |
 | 1 | Imam Muhayat | Project Manager | | - |
 | 2 | Ari Irawan | Analysis & Android Developer | | - |
 | 3 | Ade Kartono | Web Developer | | - |
