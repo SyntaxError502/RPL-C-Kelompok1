@@ -140,6 +140,64 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi POS Menggun
 
 
 ____2.2.1 Definisi Domain/Type____ <br>
+**Data admin**
+
+| Domain Name | Power Designer Type |
+|---------|---------|
+|id_admin|primary key|
+|username|string|
+|password|string|
+
+**Data customer**
+
+| Domain Name | Power Designer Type |
+|---------|---------|
+|id_customer|primary key|
+|username|string|
+|password|string
+|email|string|
+
+**Data kendaraan**
+
+| Domain Name | Power Designer Type |
+|---------|---------|
+|id_kendaraan|primary key|
+|merk|string|
+|tahun|string
+|nopol|string|
+|harga/hari|string|
+|gambar|string
+
+**Data Promo**
+
+| Domain Name | Power Designer Type |
+|---------|---------|
+|id_promo|primary key|
+|id_kendaraan|foreign key|
+|merk|string
+|tujuan|string|
+|harga/orang|string|
+
+**Data Denda**
+
+| Domain Name | Power Designer Type |
+|---------|---------|
+|id_denda|primary key|
+|merk|string
+|denda/jam|string|
+
+**Data Pemesanan**
+
+| Domain Name | Power Designer Type |
+|---------|---------|
+|id_pemesanan|primary key|
+|id_customer|foreign key|
+|id_kendaraan|foreign key|
+|tgl_peminjaman|string|
+|tgl_pengembalian|string|
+|merk|string|
+|total|string|
+|gambar|string|
 
 ____2.2.2 Conceptual Data Model____ <br>
 
