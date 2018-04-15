@@ -144,13 +144,13 @@ __2.1.2 Antarmuka Pengguna__
 			<td><b>Login Admin</td>
 		</tr>
 		<tr>
-			<td><img src="http://i63.tinypic.com/25g9dso.jpg"> <br><p align="justify">Pada Dashboard admin terdapat panel-panel yang berisi beberapa informasi seperti jumlah mahasiswa, jumlah dosen, jumlah kelas, kalender dan ucapan selamat datang.</p></td>
+			<td><img src="http://i63.tinypic.com/25g9dso.jpg" align="center"> <br><p align="justify">Pada Dashboard admin terdapat panel-panel yang berisi beberapa informasi seperti jumlah mahasiswa, jumlah dosen, jumlah kelas, kalender dan ucapan selamat datang.</p></td>
 		</tr>
 				<tr>
 			<td><b> - </td>
 		</tr>
 		<tr>
-			<td><img src=""><br><p align="justify">Menu Dosen terdapat tabel list nama-nama dosen dan tombol untuk edit dosen</p></td>
+			<td><img src="http://i66.tinypic.com/b51o2f.jpg" align="center"><br><p align="justify">Menu Dosen terdapat tabel list nama-nama dosen dan tombol untuk edit dosen</p></td>
 		</tr>
 				<tr>
 			<td><b> - </td>
