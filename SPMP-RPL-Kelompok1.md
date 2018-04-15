@@ -174,7 +174,8 @@ Developer melakukan pembuatanblueprintsistem.Dengan penyesuaian arsitektur komun
 * Pengembangan<br>
 Developer melakukan koding untuk menerapkan desain kedalam sistem yang sesungguhnya, membuat program dan menyiapkan database.
 
-* Pengujian : Melakukan pengujian terhadap sistem yang dikembangkan apakah sesuai dengan harapan dan kebutuhan pengguna serta melakukan debugging dan penyesuain akhir.
+* Pengujian<br>
+Melakukan pengujian terhadap sistem yang dikembangkan apakah sesuai dengan harapan dan kebutuhan pengguna serta melakukan debugging dan penyesuain akhir.
 
 * Implementasi<br>
 Software yang telah diuji lalu diimplemetasikan kedalam sistem pengguna serta membuat panduan manual maupun pelatihan.
@@ -193,10 +194,21 @@ __5.1 Paket Pekerjaan__
 
 | No | Nama | JobDesk | Modul | Rincian Pekerjaan |
 | :--: | :-----------: | :---------: |:--------: | :--------: |
-| 1 | Imam Muhayat | Project Manager | | - |
-| 2 | Ari Irawan | Analysis & Android Developer | | - |
+| 1 | Imam Muhayat | Project Manager | Login | CRUD Login |
+| 2 | Ari Irawan | Analysis & Android Developer | Login | Membuat login pada android |
+| | | | Register | Membuat register pada android
 | 3 | Ade Kartono | Web Developer | | - |
-| 4 | Annisa Kartika Utami | UI/UX Designer | | - |
+| 4 | Annisa Kartika Utami | UI/UX Designer | Login | Mendesain interface login pada android |
+| | | | | Mendesain interface login pada web |
+| | | | Register | Mendesain interface register pada android |
+| | | | Transaksi Penyewaan | Mendesain interface transaksi penyewaan pada android |
+| | | | List Mobil | Mendesain interface list mobil pada android |
+| | | | Detail Mobil | Mendesain interface detail mobil pada android |
+| | | | Detail Pesanan | Mendesain interface detail pesanan pada android |
+| | | | Navigasi | Mendesain interface navigasi pada android |
+| | | | Stok Kendaraan | Mendesain interface stok kendaraan pada web |
+| | | | Data Transaksi | Mendesain interface data transaksi pada web |
+| | | | Data Penyewa | Mendesain interface data penyewa pada web |
 | 5 | Hasri Habbeana Pertiwi | Database | | - |
 
 __5.2 Ketergantungan dan Keterkaitan__
