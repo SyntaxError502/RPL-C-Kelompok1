@@ -334,9 +334,30 @@ __3.3 Deskripsi Rinci Modul__ <br>
 
 ____3.3.1 Modul____ <br>
 
+
 ______3.3.1.1 Fungsi Modul______ <br>
 
+| No | Fungsi | Jenis | Tabel Terkait |
+|---------|---------|---------|---------|
+| 1 | Login | form entry | user |
+| 2 | Register | form entry | user |
+
 ______3.3.1.2 Spesifikasi Layar Utama______ <br>
+
+ <table width="100%" align="center">
+		<tr align="center">
+			<td><b>Login</b></td>
+		</tr>
+		<tr  valign="top" align="center">
+				<td><img src="http://i66.tinypic.com/5mbds8.jpg"/></td>	
+		</tr>
+		<tr align="center">
+			<td><b>Register</b></td>
+		</tr>
+		<tr  valign="top" align="center">
+				<td><img src="http://i68.tinypic.com/2duf4ac.jpg"/></td>	
+		</tr>
+    </table>
 
 ______3.3.1.3 Spesifikasi Query______ <br>
 
