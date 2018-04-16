@@ -71,6 +71,7 @@ Aplikasi ini akan dikembangkan pada lingkungan dengan spesifikasi sebagai beriku
 -	Bahasa Pemrograman	: Java, PHP, HTML
 -	DBMS	: MySQL
 -	Tools	: Android Studio, XAMPP, Sublime Text
+
 __2.2 Deskripsi Data__ <br>
 Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi POS Menggunakan QR-CODE Scanner ini adalah sebagai berikut :
 
