@@ -290,9 +290,9 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
 | --------- | --------- | --------- | --------- | --------- | --------- |
 | id_promo | merupakan key dari tabel promo | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
-| id_kendaraan | merupakan foreign key dari tabel promo  | int(11) | No | - | id kendaraan akan digunakan pada menu promo |
+| id_kendaraan | merupakan foreign key dari tabel promo  | int(11) | No | - | foreign key relasi untuk menghubungkan tabel promo dengan data kendaraan |
 | merk | menyatakan merk mobil | varchar(50) | No | - | merk akan digunakan pada menu promo |
-| tujuan | menyatakan tujuan wisata | varchar(50) | No | - | tujuan akan digunakan pada menu promo |
+| tujuan | menyatakan tujuan wisata | varchar(50) | No | - | tujuan wisata akan digunakan pada menu promo |
 | harga/orang | menyatakan harga promo/orang | varchar(30) | No | - | harga/orang akan digunakan pada menu promo  |
 
 **Tabel Denda**
@@ -320,8 +320,8 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
 | --------- | --------- | --------- | --------- | --------- | --------- |
 | id_pemesanan | merupakan key dari tabel pemesanan | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
-| id_customer| merupakan foreign key pada tabel pemesanan | int(11) | No | - | id customer akan digunakan untuk pemesanan |
-| id_kendaraan | merupakan foreign key pada tabel pemesanan | int(11) | No | - | id kendaraan akan digunakan untuk pemesanan  |
+| id_customer| merupakan foreign key pada tabel pemesanan | int(11) | No | - | foreign key relasi untuk menghubungkan tabel pemesanan dengan data customer |
+| id_kendaraan | merupakan foreign key pada tabel pemesanan | int(11) | No | - | foreign key relasi untuk menghubungkan tabel pemesanan dengan data kendaraan  |
 | nama | menyatakan nama customer | varchar(50) | No | - | nama akan digunakan untuk pemesanan  |
 | tgl_peminjaman | menyatakan tgl peminjaman | date | No | - |  tgl peminjaman akan digunakan untuk pemesanan   |
 | tgl_pengembalian | menyatakan tgl pengembalian | date | No | - | tgl pengembalian akan digunakan untuk pemesanan  |
