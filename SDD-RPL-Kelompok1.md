@@ -361,11 +361,52 @@ ______3.3.1.2 Spesifikasi Layar Utama______ <br>
 
 ______3.3.1.3 Spesifikasi Query______ <br>
 
+| ID Query | Deskripsi | Ekspresi Query |
+---------|---------|---------|
+
+| QRY01 | Login | SELECT * FROM user where username= '$username' AND password='$password' |
+
+| QRY02 | Register | INSERT INTO user (username,nama, password,alamat, no_hp,no_ktp) VALUES ('$username,'$password','$nama',
+'$alamat','$no_hp','$no_ktp') |
+
+
 ______3.3.1.4 Spesifikasi Field Data Layar______ <br>
 
 ______3.3.1.5 Spesifikasi Objek-objek pada Layar______ <br>
 
+| ID Objek | Jenis | Keterangan | Platform |
+|---------|---------|---------|------------|
+| texUsername | input type text | isi text akan digunakan dalam proses login sebagai username | Web |
+| textPassword | input type password | isi password akan di cek apakah sesuai dengan username jika iya maka login berhasil jika tidak maka login akan gagal | Web |
+|btnLogin|button|Jika di klik maka akan menjalankan QRY01 untuk melakukan proses login jika berhasil maka akan masuk ke menu utama | Web |
+|textusernamel|AutoCompleteTextView| isi text akan digunakan dalam proses login sebagai username | Android |
+|textPassword|EditText| isi password akan di cek apakah sesuai dengan email jika iya maka login berhasil jika tidak maka login akan gagal | Android |
+|LoginBtn| Button |Jika di klik maka akan menjalankan QRY01 untuk melakukan proses login jika berhasil maka akan masuk ke menu utama | Android |
+|btn_register|Button|Jika diklik maka akan menampilkan fragmen menu sign up| Android |
+|btn_login|Button|Jika diklik maka akan menampilkan fragmen menu Login| Android |
+
+
 ______3.3.1.6 Spesifikasi Proses/Algoritma______ <br>
+
+<br>id_proses : login, register
+<br>objek terkait : username, password, button login
+<br>Event:Login
+
+|Inisial State (IS) |
+|-------------------|
+|Form login masih kosong|
+
+|Final State (FS) |
+|-------------------|
+|Mengahsilkan otentikasi user yang masuk ke aplikasi|
+
+|Spesifikasi Proses/Algoritma|
+|----------------------------------------------------|
+|1.Buka aplikasi atau web|
+|2.Inputkan username dan password|
+|3.If username dan password sesuai maka akan berpindah ke halaman utama aplikasi atau web|
+|Else username dan password tidak sesuai maka akan tampil pesan emai dan password tidak sesuai dan user diharapkan menginput ulang username dan password|
+
 
 __3.4 Matriks Kerunutan__ <br>
 
