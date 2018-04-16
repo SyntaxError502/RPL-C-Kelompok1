@@ -229,7 +229,7 @@ ____3.1.2 DFD Level 1____ <br>
 
 
 __3.2 Deskripsi Rinci Tabel__ <br>
-**Tabel Admin**
+__3.2.1 Tabel Admin__
 <br>Identifikasi/Nama : Admin
 <br>Deskripsi Isi : Berisi data untuk login
 <br>Jenis : Tabel referensi
@@ -243,7 +243,7 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | username | menyatakan username admin | varchar(50) | No | - | username akan digunakan sebagai username untuk login admin |
 | password | menyatakan password admin | varchar(30) | No | - | password akan digunakan untuk login admin|
 
-**Tabel Customer**
+__3.2.2 Tabel Customer__
 <br>Identifikasi/Nama : Customer
 <br>Deskripsi Isi : Berisi data untuk regitrasi dan login
 <br>Jenis : Tabel referensi
@@ -262,7 +262,7 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | no_ktp | menyatakan no ktp customer | varchar(30) | No | - | no ktp akan digunakan untuk registrasi |
 | email | menyatakan email customer | varchar(40) | No | - | email akan digunakan untuk registrasi |
 
-**Tabel Kendaraan**
+__3.2.3 Tabel Kendaraan__
 <br>Identifikasi/Nama : Kendaraan
 <br>Deskripsi Isi : Berisi data Kendaraan
 <br>Jenis : Tabel referensi
@@ -279,7 +279,7 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | harga/hari | menyatakan harga sewa mobil/hari | varchar(30) | No | - | harga/hari akan digunakan pada menu data kendaraan  |
 | gambar | menyatakan gambar mobil | varchar(50) | No | - | gambar mobil akan diigunakan pada menu data kendaraan |
 
-**Tabel Promo**
+__3.2.4 Tabel Promo__
 <br>Identifikasi/Nama : Promo
 <br>Deskripsi Isi : Berisi data Promo
 <br>Jenis : Tabel referensi
@@ -295,7 +295,7 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | tujuan | menyatakan tujuan wisata | varchar(50) | No | - | tujuan wisata akan digunakan pada menu promo |
 | harga/orang | menyatakan harga promo/orang | varchar(30) | No | - | harga/orang akan digunakan pada menu promo  |
 
-**Tabel Denda**
+__3.2.5 Tabel Denda__
 <br>Identifikasi/Nama : Denda
 <br>Deskripsi Isi : Berisi data denda
 <br>Jenis : Tabel referensi
@@ -309,7 +309,7 @@ __3.2 Deskripsi Rinci Tabel__ <br>
 | merk | menyatakan merk mobil | varchar(50) | No | - | merk mobil akan digunakan pada data denda |
 | denda/jam | menyatakan total denda | varchar(50) | No | - | denda/jam akan digunakan untuk mengetahui berapa total denda  |
 
-**Tabel Pemesanan**
+__3.2.6 Tabel Pemesanan__
 <br>Identifikasi/Nama : Pemesanan
 <br>Deskripsi Isi : Berisi data untuk melakukan pemesanan
 <br>Jenis : Tabel referensi
