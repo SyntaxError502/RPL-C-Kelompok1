@@ -107,16 +107,6 @@ Deskripsi tabel-tabel yang terdapat pada database pembuatan aplikasi POS Menggun
 | harga/hari| Varchar| 30 | Tidak | Tidak | -|harga mobil |
 | gambar| Varchar| 50 | Tidak | Tidak | -|gambar mobil |
 
-**Tabel Promo**
-
-|Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
-|------------|----------|----------|-------------|-----------|-----------|---------------------|
-| id_promo| Integer| 11 | Primary Key| Iya |Auto_increment| Id promo auto increment |
-| id_kendaraan| integer| 11 | Tidak | Tidak | -|relasi untuk menghubungkan data promo dengan data kendaraan |
-| merk| varchar| 50 | Tidak | Tidak | - |merk mobil |
-| tujuan| Varchar| 50 | Tidak | Tidak | -|tujuan wisata |
-| harga/orang| Varchar| 30 | Tidak | Tidak | -|harga wisata/orang |
-
 **Tabel Denda**
 
 |Nama Field  | Jenis    |  Volume  | Laju| Primary Key| contraint integrity| Deskripsi|
@@ -169,16 +159,6 @@ ____2.2.1 Definisi Domain/Type____ <br>
 |harga/hari|string|
 |gambar|string
 
-**Data Promo**
-
-| Domain Name | Power Designer Type |
-|---------|---------|
-|id_promo|primary key|
-|id_kendaraan|foreign key|
-|merk|string
-|tujuan|string|
-|harga/orang|string|
-
 **Data Denda**
 
 | Domain Name | Power Designer Type |
@@ -211,7 +191,6 @@ ____2.2.4 Daftar Tabel Aplikasi____ <br>
 | admin | id_admin |  | - | Berisi username dan password admin yang digunakan untuk login |
 | customer | id_customer | D2 | - |Berisi username , password customer yang digunakan untuk login dan berisi email, nama, alamat, no_telp, no_hp yang digunakan untuk reistrasi  |
 | Kendaraan | id_kendaraan | D1 | - | Berisi data kendaraan yang terdapat di penyewaan tersebut |
-| promo | id_promo | D4 | - | Berisi data promo |
 | denda | id_denda |  | - | Berisi data denda yang digunakan untuk mengetahui berapa denda jika terlambat mengembalikan mobil |
 | pemesanan | id_pemesanan | D3 | - | Berisi data pemesaan yang digunakan untuk pemesanan mobil |
 
@@ -279,22 +258,6 @@ __3.2.3 Tabel Kendaraan__
 | nopol | menyatakan nopol mobil | varchar(15) | No | - | nopol mobil akan digunakan pada menu data kendaraan |
 | harga/hari | menyatakan harga sewa mobil/hari | varchar(30) | No | - | harga/hari akan digunakan pada menu data kendaraan  |
 | gambar | menyatakan gambar mobil | varchar(50) | No | - | gambar mobil akan diigunakan pada menu data kendaraan |
-
-__3.2.4 Tabel Promo__
-<br>Identifikasi/Nama : Promo
-<br>Deskripsi Isi : Berisi data Promo
-<br>Jenis : Tabel referensi
-<br>Volume : -
-<br>Laju : -
-<br>Primary Key : id_promo
-
-| Id Field | Deskripsi | Tipe & Length | Boleh NULL | Default | Keterangan |
-| --------- | --------- | --------- | --------- | --------- | --------- |
-| id_promo | merupakan key dari tabel promo | int(11) | No | - | Primary key yang unik setiap user, bersifat auto increment contoh : 1 |
-| id_kendaraan | merupakan foreign key dari tabel promo  | int(11) | No | - | foreign key relasi untuk menghubungkan tabel promo dengan data kendaraan |
-| merk | menyatakan merk mobil | varchar(50) | No | - | merk akan digunakan pada menu promo |
-| tujuan | menyatakan tujuan wisata | varchar(50) | No | - | tujuan wisata akan digunakan pada menu promo |
-| harga/orang | menyatakan harga promo/orang | varchar(30) | No | - | harga/orang akan digunakan pada menu promo  |
 
 __3.2.5 Tabel Denda__
 <br>Identifikasi/Nama : Denda
