@@ -221,6 +221,23 @@ __2.2 Spesifikasi Kebutuhan Fungsional__
  * Web<br>
  ![](http://i63.tinypic.com/2e5tnaq.jpg)
  
+ __2.2.1 Sign Up dan Login Customer__
+
+Untuk dapat menggunakan aplikasi customer harus mengisi form login terlebih dahulu  dengan cara:
+<br>1. customer mengaktifkan fungsi login
+<br>2. Sistem menampilkan halaman login yang terdiri dari email dan password
+<br>3. Member mengisi email dan password
+<br>4. Sistem melakukan validasi dari email dan password
+<br>5. Jika login gagal maka member akan diminta mengulangi proses login
+<br>6. Jika login berhasil maka member akan diarahkan ke halaman pilih mobil
+
+Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dahulu dengan cara:
+<br>1. customer mangaktifkan fungsi sign up
+<br>2. Sistem menampilkan halaman register
+<br>3. Member mengisi form register sesuai dengan yang ditampilkan sistem
+<br>4. Sistem menyimpan data yang dimasukkan member
+
+ 
 __2.3 Spesifikasi Kebutuhan Non-Fungsional__
  
 * Availability<br>
