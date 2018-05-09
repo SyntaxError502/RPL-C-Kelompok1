@@ -234,8 +234,21 @@ Untuk dapat menggunakan aplikasi customer harus mengisi form login terlebih dahu
 Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dahulu dengan cara:
 <br>1. customer mangaktifkan fungsi sign up
 <br>2. Sistem menampilkan halaman register
-<br>3. Member mengisi form register sesuai dengan yang ditampilkan sistem
-<br>4. Sistem menyimpan data yang dimasukkan member
+<br>3. customer mengisi form register sesuai dengan yang ditampilkan sistem
+<br>4. Sistem menyimpan data yang dimasukkan customer
+
+__2.2.2 Memilih Mobil__
+
+Customer harus melakukan pilih mobil sebelum melakukan penyewaan dengan cara :
+
+<br>1. customer mengaktifkan menu pilih mobil
+<br>2. Sistem mengaktifkan menu pilih mobil
+<br>3. customer memilih mobil yang ingin di sewa
+<br>4. Sistem menampilkan detail mobil yang ingin disewa
+<br>5. customer memasukan mobil yang sudah dipilih
+<br>6. sistem mengarahkan customer ke menu booking
+<br>7. customer masuk ke menu booking untuk melakukan penyewaan mobil
+
 
  
 __2.3 Spesifikasi Kebutuhan Non-Fungsional__
