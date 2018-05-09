@@ -238,7 +238,6 @@ Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dah
 <br>4. Sistem menyimpan data yang dimasukkan customer
 
 __2.2.2 Memilih Mobil__
-
 Customer harus melakukan pilih mobil sebelum melakukan penyewaan dengan cara :
 
 <br>1. customer mengaktifkan menu pilih mobil
