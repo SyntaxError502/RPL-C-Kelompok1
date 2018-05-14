@@ -275,15 +275,25 @@ Admin akan dapat melakukan input mobil, dengan cara:
 <br>6. Sistem akan melakukan validasi
 <br>7. Sistem menyimpan data barang ke dalam database
 
+__2.2.5 Lihat laporan Transaksi penyewaan__
+
+Admin dapat melihat laporan dari penyewaan mobil mereka melalui aplikasi kami, dengan cara:
+<br>1. Admin masuk ke halaman dashboard admin
+<br>2. Sistem menampilkan menu untuk admin
+<br>3. Admin memilih menu laporan transaksi penyewaan
+<br>4. Sistem menampilkan laporan transaksi penyewaan
+
+__2.2.11 Daftar karyawan__
+
+Admin dapat mendaftarkan atau menambah admin lainnya, dengan cara:
+<br>1. Admin masuk ke halaman dashboard admin
+<br>2. Sistem menampilkan menu untuk admin
+<br>3. Admin memilih menu tambah admin
+<br>4. Sistem menampilkan form penambahan admin
+<br>5. Admin mengisi form penambahan admin
+<br>6. Sistem menyimpan data admin ke dalam database
 
 
-
-
-
-
-
-
- 
 __2.3 Spesifikasi Kebutuhan Non-Fungsional__
  
 * Availability<br>
