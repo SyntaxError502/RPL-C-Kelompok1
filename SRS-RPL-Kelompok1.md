@@ -262,7 +262,7 @@ Untuk admin yang belum mempunyai akun diharuskan melakukan sign up terlebih dahu
 <br>3. Admin mengisi form register sesuai dengan yang ditampilkan sistem
 <br>4. Sistem menyimpan data yang dimasukkan Admin
 
-__2.2.4 Input data mobil dan menghapus data mobil__
+__2.2.4 Input data mobil __
 
 Admin akan dapat melakukan input mobil, dengan cara:
 <br>1. Admin mengaktifkan fungsi data mobil
@@ -270,10 +270,19 @@ Admin akan dapat melakukan input mobil, dengan cara:
 <br>3. Admin menekan tombol icon tambah
 <br>4. Sistem menampilkan form input mobil
 <br>5. Admin mengisi form sesuai dengan requirement
-<br>6. Selain itu admin dapat menghapus data mobil
-<br>7. Admin menekan tombol hapus
-<br>8. Sistem akan melakukan validasi
-<br>9. Sistem menyimpan data barang ke dalam database
+<br>6. Sistem akan melakukan validasi
+<br>7. Sistem menyimpan data mobil ke dalam database
+<br>8. jika admin berhasil menginput data mobil muncul notif berhasil
+
+__2.2.5 Menghapus data mobil __
+
+Admin akan dapat melakukan menghapus data mobil, dengan cara:
+<br>1. Admin mengaktifkan fungsi data mobil
+<br>2. Sistem menampilkan data mobil yang sudah ada
+<br>3. Admin menekan tombol icon hapus
+<br>4. Sistem akan melakukan validasi
+<br>6. jika admin berhasil menghapus data mobil muncul notif berhasil
+
 
 __2.2.5 Lihat laporan Transaksi penyewaan__
 
@@ -283,7 +292,7 @@ Admin dapat melihat laporan dari penyewaan mobil mereka melalui aplikasi kami, d
 <br>3. Admin memilih menu laporan transaksi penyewaan
 <br>4. Sistem menampilkan laporan transaksi penyewaan
 
-__2.2.11 Daftar karyawan__
+__2.2.6 Daftar Admin__
 
 Admin dapat mendaftarkan atau menambah admin lainnya, dengan cara:
 <br>1. Admin masuk ke halaman dashboard admin
