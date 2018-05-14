@@ -245,8 +245,7 @@ Customer harus melakukan pilih mobil sebelum melakukan penyewaan dengan cara :
 <br>4. Sistem menampilkan detail mobil yang ingin disewa
 <br>5. customer memasukan mobil yang sudah dipilih
 <br>6. sistem mengarahkan customer ke menu booking
-<br>7. customer masuk ke menu booking untuk melakukan penyewaan mobil
-<br>8. Setelah customer masuk ke menu booking customer mengisi detail pemesanan untuk mengisi ulang data pemesanannya
+<br>7. customer masuk ke menu pemesanan untuk melakukan penyewaan mobil
 
 __2.2.3 Login Admin__
 
@@ -263,7 +262,7 @@ Untuk admin yang belum mempunyai akun diharuskan melakukan sign up terlebih dahu
 <br>3. Admin mengisi form register sesuai dengan yang ditampilkan sistem
 <br>4. Sistem menyimpan data yang dimasukkan Admin
 
-__2.2.4 Input data mobil__
+__2.2.4 Input data mobil dan menghapus data mobil__
 
 Admin akan dapat melakukan input mobil, dengan cara:
 <br>1. Admin mengaktifkan fungsi data mobil
@@ -271,8 +270,12 @@ Admin akan dapat melakukan input mobil, dengan cara:
 <br>3. Admin menekan tombol icon tambah
 <br>4. Sistem menampilkan form input mobil
 <br>5. Admin mengisi form sesuai dengan requirement
+<br>6. Selain itu admin dapat menghapus data mobil
+<br>7. Admin menekan tombol hapus
 <br>6. Sistem akan melakukan validasi
 <br>7. Sistem menyimpan data barang ke dalam database
+
+
 
 
 
