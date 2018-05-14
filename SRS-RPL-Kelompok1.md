@@ -272,8 +272,8 @@ Admin akan dapat melakukan input mobil, dengan cara:
 <br>5. Admin mengisi form sesuai dengan requirement
 <br>6. Selain itu admin dapat menghapus data mobil
 <br>7. Admin menekan tombol hapus
-<br>6. Sistem akan melakukan validasi
-<br>7. Sistem menyimpan data barang ke dalam database
+<br>8. Sistem akan melakukan validasi
+<br>9. Sistem menyimpan data barang ke dalam database
 
 __2.2.5 Lihat laporan Transaksi penyewaan__
 
