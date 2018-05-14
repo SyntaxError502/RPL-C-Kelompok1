@@ -225,11 +225,10 @@ __2.2 Spesifikasi Kebutuhan Fungsional__
 
 Untuk dapat menggunakan aplikasi customer harus mengisi form login terlebih dahulu  dengan cara:
 <br>1. customer mengaktifkan fungsi login
-<br>2. Sistem menampilkan halaman login yang terdiri dari email dan password
-<br>3. Member mengisi email dan password
-<br>4. Sistem melakukan validasi dari email dan password
-<br>5. Jika login gagal maka member akan diminta mengulangi proses login
-<br>6. Jika login berhasil maka member akan diarahkan ke halaman pilih mobil
+<br>2. Sistem menampilkan halaman login yang terdiri dari username dan password
+<br>3. Member mengisi username dan password
+<br>4. Jika login gagal maka member akan diminta mengulangi proses login
+<br>5. Jika login berhasil maka member akan diarahkan ke halaman pilih mobil
 
 Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dahulu dengan cara:
 <br>1. customer mangaktifkan fungsi sign up
@@ -237,7 +236,7 @@ Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dah
 <br>3. customer mengisi form register sesuai dengan yang ditampilkan sistem
 <br>4. Sistem menyimpan data yang dimasukkan customer
 
-__2.2.2 Memilih Mobil__
+__2.2.2 Memilih Mobil dan Transaksi Customer__
 Customer harus melakukan pilih mobil sebelum melakukan penyewaan dengan cara :
 
 <br>1. customer mengaktifkan menu pilih mobil
@@ -247,6 +246,25 @@ Customer harus melakukan pilih mobil sebelum melakukan penyewaan dengan cara :
 <br>5. customer memasukan mobil yang sudah dipilih
 <br>6. sistem mengarahkan customer ke menu booking
 <br>7. customer masuk ke menu booking untuk melakukan penyewaan mobil
+<br>8. Setelah customer masuk ke menu booking customer mengisi detail pemesanan untuk mengisi ulang data pemesanannya
+
+__2.2.3 Login Admin__
+Untuk dapat menggunakan aplikasi admin harus mengisi form login terlebih dahulu  dengan cara:
+<br>1. admin mengaktifkan fungsi login
+<br>2. Sistem menampilkan halaman login yang terdiri dari username dan password
+<br>3. Admin mengisi username dan password
+<br>4. Jika login gagal maka admin akan diminta mengulangi proses login
+<br>5. Jika login berhasil maka admin akan diarahkan ke menu utama
+
+Untuk admin yang belum mempunyai akun diharuskan melakukan sign up terlebih dahulu dengan cara:
+<br>1. Admin mangaktifkan fungsi sign up
+<br>2. Sistem menampilkan halaman register
+<br>3. Admin mengisi form register sesuai dengan yang ditampilkan sistem
+<br>4. Sistem menyimpan data yang dimasukkan Admin
+
+
+
+
 
 
  
