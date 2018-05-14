@@ -239,7 +239,6 @@ Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dah
 __2.2.2 Memilih Mobil dan Transaksi Customer__
 
 Customer harus melakukan pilih mobil sebelum melakukan penyewaan dengan cara :
-
 <br>1. customer mengaktifkan menu pilih mobil
 <br>2. Sistem mengaktifkan menu pilih mobil
 <br>3. customer memilih mobil yang ingin di sewa
@@ -263,6 +262,18 @@ Untuk admin yang belum mempunyai akun diharuskan melakukan sign up terlebih dahu
 <br>2. Sistem menampilkan halaman register
 <br>3. Admin mengisi form register sesuai dengan yang ditampilkan sistem
 <br>4. Sistem menyimpan data yang dimasukkan Admin
+
+__2.2.4 Input data mobil__
+
+Admin akan dapat melakukan input mobil, dengan cara:
+<br>1. Admin mengaktifkan fungsi data mobil
+<br>2. Sistem menampilkan data mobil yang sudah ada
+<br>3. Admin menekan tombol icon tambah
+<br>4. Sistem menampilkan form input mobil
+<br>5. Admin mengisi form sesuai dengan requirement
+<br>6. Sistem akan melakukan validasi
+<br>7. Sistem menyimpan data barang ke dalam database
+
 
 
 
