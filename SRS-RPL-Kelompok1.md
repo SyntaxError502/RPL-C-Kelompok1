@@ -237,6 +237,7 @@ Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dah
 <br>4. Sistem menyimpan data yang dimasukkan customer
 
 __2.2.2 Memilih Mobil dan Transaksi Customer__
+
 Customer harus melakukan pilih mobil sebelum melakukan penyewaan dengan cara :
 
 <br>1. customer mengaktifkan menu pilih mobil
@@ -249,6 +250,7 @@ Customer harus melakukan pilih mobil sebelum melakukan penyewaan dengan cara :
 <br>8. Setelah customer masuk ke menu booking customer mengisi detail pemesanan untuk mengisi ulang data pemesanannya
 
 __2.2.3 Login Admin__
+
 Untuk dapat menggunakan aplikasi admin harus mengisi form login terlebih dahulu  dengan cara:
 <br>1. admin mengaktifkan fungsi login
 <br>2. Sistem menampilkan halaman login yang terdiri dari username dan password
