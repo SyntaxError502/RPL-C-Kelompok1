@@ -286,7 +286,7 @@ Admin akan dapat melakukan menghapus data mobil, dengan cara:
 <br>6. jika admin berhasil menghapus data mobil muncul notif berhasil
 
 
-__2.2.5 Lihat laporan Transaksi penyewaan__
+__2.2.6 Lihat laporan Transaksi penyewaan__
 
 
 Admin dapat melihat laporan dari penyewaan mobil mereka melalui aplikasi kami, dengan cara:
@@ -295,7 +295,7 @@ Admin dapat melihat laporan dari penyewaan mobil mereka melalui aplikasi kami, d
 <br>3. Admin memilih menu laporan transaksi penyewaan
 <br>4. Sistem menampilkan laporan transaksi penyewaan
 
-__2.2.6 Daftar Admin__
+__2.2.7 Daftar Admin__
 
 Admin dapat mendaftarkan atau menambah admin lainnya, dengan cara:
 <br>1. Admin masuk ke halaman dashboard admin
