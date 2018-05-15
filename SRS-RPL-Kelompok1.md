@@ -264,6 +264,7 @@ Untuk admin yang belum mempunyai akun diharuskan melakukan sign up terlebih dahu
 
 __2.2.4 Input data mobil __
 
+
 Admin akan dapat melakukan input mobil, dengan cara:
 <br>1. Admin mengaktifkan fungsi data mobil
 <br>2. Sistem menampilkan data mobil yang sudah ada
@@ -276,6 +277,7 @@ Admin akan dapat melakukan input mobil, dengan cara:
 
 __2.2.5 Menghapus data mobil __
 
+
 Admin akan dapat melakukan menghapus data mobil, dengan cara:
 <br>1. Admin mengaktifkan fungsi data mobil
 <br>2. Sistem menampilkan data mobil yang sudah ada
@@ -285,6 +287,7 @@ Admin akan dapat melakukan menghapus data mobil, dengan cara:
 
 
 __2.2.5 Lihat laporan Transaksi penyewaan__
+
 
 Admin dapat melihat laporan dari penyewaan mobil mereka melalui aplikasi kami, dengan cara:
 <br>1. Admin masuk ke halaman dashboard admin
