@@ -46,7 +46,11 @@ __1.3 Definisi, Akronim, Singkatan__
 
 | Definisi, Akronim dan Singkatan | Penjelasan |
 | ----------------- | --------------------------- |
+<<<<<<< HEAD
 | SRS/SKPL | adalah dokumen yang menggambarkan secara detail spesifikasi kebutuhan software dalam pembangunan proyek perangkat lunak Aplikasi Kasir QR Code Berbasis Android.|
+=======
+| SRS/SKPL | adalah dokumen yang menggambarkan secara detail spesifikasi kebutuhan software dalam pembangunan proyek perangkat lunak Aplikasi Penyewaan Kendaraan Beserta Rute Kendaraan Alikha Express.|
+>>>>>>> 8992b84b8174c2d0fc52b0f9114f12c55970a36a
 | DFD | adalah suatu diagram yang menggunakan notasi-notasi untuk menggambarkan arus dari data pada suatu sistem atau menjelaskan proses kerja suatu sistem, yang penggunaannya sangat membantu untuk memahami sistem secara logika, tersruktur dan jelas.|
 | Software | Perangkat Lunak.|
 | Hardware | Perangkat Keras|
@@ -59,12 +63,11 @@ __1.3 Definisi, Akronim, Singkatan__
 __1.4 Referensi__
 
 
-- https://pengertiandefinisi.com/pengertian-aplikasi-dan-sejarah-perkembangan
-  aplikasi/
-
-- IEEE std.830-1998,IEEE Recomended Practice for Software Requitment Specification
+- https://pengertiandefinisi.com/pengertian-aplikasi-dan-sejarah-perkembangan-aplikasi/
 
 - https://hansiaditya.files.wordpress.com/2007/10/uts-rpl-final02.pdf
+
+- IEEE std.830-1998,IEEE Recomended Practice for Software Requitment Specification
 
 __1.5 Overview__
 
@@ -73,21 +76,34 @@ Dokumen SRS ini berisi tentang deskripsi kebutuhan perangkat lunak (tools penduk
   
 __BAB 2 GAMBARAN UMUM__
 
+<<<<<<< HEAD
 Kendaraan merupakan salah satu kebutuhan yang tidak bisa ditinggalkan dalam keseharian, dimana di zaman modern ini mobil menjadi primadona bagi masyarakat untuk dapat melakukan perjalanan. Bukan hanya karena kenyamanannya, melainkan juga muatan yang dapat diangkut mobil jauh lebih besar. Namun dengan segala kelebihan tersebut membuat harga mobil tidaklah murah, akan tetapi banyaknya 
+=======
+Kendaraan merupakan salah satu kebutuhan yang tidak bisa ditinggalkan dalam keseharian, dimana pada zaman modern ini mobil menjadi primadona bagi masyarakat untuk dapat melakukan perjalanan. Bukan hanya karena kenyamanan yang ditawarkan, melainkan juga muatan yang dapat diangkut mobil jauh lebih besar. Namun dengan segala kelebihan tersebut membuat harga mobil tidaklah murah, akan tetapi banyaknya kebutuhan masyarakat akan pentingnya mobil semakin hari semakin bertambah. Karena alasan tersebut membuat banyak kalangan yang menyediakan layanan rental mobil, termasuk rental mobil Alikha Express. Dalam kasus ini Alikha Express masih menggunakan cara manual dalam melakukan transaksi penyewaan mobil. Dimana customers harus datang langsung untuk menyewa mobil, tanpa mengetahui apakah masih ada stok mobil yang tersedia.
+
+Penggunaan smartphone berbasis android sudah sangat mengakar di kalangan masyarakat saat ini, dari berbagai usia, profesi dan latar belakang. Hal tersebut menjadi alasan banyaknya aplikasi yang telah diciptakan untuk perangkat berbasis android. Karena masalah tersebut membuat kelompok kami berinisiatif untuk membuat aplikasi penyewaan rental mobil beserta rute kendaraan Alikha Express berbasis android. Dimana pada aplikasi ini terdapat 2 user, yaitu admin dan customers.
+>>>>>>> 8992b84b8174c2d0fc52b0f9114f12c55970a36a
 
 __2.1 Perspektif Produk__
 
-Aplikasi Penyewaan Mobil Beserta Rute Kendaraan Alika Express ini merupakan aplikasi berbasis android yang dapat memudahkan penyewa dalam melakukan proses penyewaan kendaraan.
+Aplikasi penyewaan mobil beserta rute perjalanan Alika Express ini merupakan aplikasi berbasis android yang dapat memudahkan customers dalam melakukan proses penyewaan mobil. Dimana user customers dapat mengakses aplikasi ini melalui sistem android dan user admin melakukan pengolahan data menggunakan sistem web.
+
+Sistem aplikasi penyewaan yang difasilitasi bagi customers antara lain tentunya customers dapat melakukan transaksi penyewaan mobil secara online melalui smartphone masing-masing, melihat data stok mobil dan detail mobil serta dapat melihat lokasinya dengan menggunakan maps yang tersedia pada aplikasi. Customers juga harus menginputkan data diri yang valid kedalam sistem saat melakukan proses register.
+
+Adapun admin mengelola data mobil melalui sistem web. Dimana admin dapat menambahkan, mengedit maupun menghapus data stok kendaraan dan data detail kendaraan. Admin juga dapat melihat data customers yang berasal dari data yang telah di inputkan oleh customers. Serta admin juga dapat melihat laporan dari transaksi penyewaan yang pernah dilakukan.
 
 __2.1.1 Antarmuka Sistem__
 
-* Use Case Costumers
+![](http://i65.tinypic.com/10zddnm.jpg)
 
-![Use Case Costumers](http://i66.tinypic.com/mhbtd5.jpg)
-
-* Use Case Admin
-
-![Use Case Admin](http://i65.tinypic.com/34od4w5.jpg)
+| Modul | Fungsi |
+|-------|--------|
+| Modul otorisasi | Menangani otorisasi pengguna |
+| Modul kendaraan | Menangani data kendaraan |
+| Modul booking | Menangani pemesanan kendaraan |
+| Modul transaksi | Menangani transaksi pembayaran sewa |
+| Modul denda | Menangani perhitungan pembayaran denda |
+| Modul laporan | Menangani rekap keuntungan, dll |
 
 __2.1.2 Antarmuka Pengguna__
 
@@ -103,6 +119,7 @@ __2.1.2 Antarmuka Pengguna__
 				<td><img src="http://i68.tinypic.com/33uewev.jpg" width="180" height="350" /><br><p align="justify">Pada register terdapat form yang yang harus diisi oleh user. Dimana data yang harus diinputka adalah data diri dari user tersebut.</p></td>		
 		</tr>
 		<tr align="center">
+<<<<<<< HEAD
 			<td><b>Halaman Mahasiswa </td>
 			<td><b>Scan QR Code</td>
 			<td><b>Scan Sukses</td>
@@ -141,6 +158,30 @@ __2.1.2 Antarmuka Pengguna__
 		<tr align="center">
 			<td colspan="3"><img src="https://4.bp.blogspot.com/-RxyKPxYZ9H0/WpJgoF3xbcI/AAAAAAAAA2k/5WN4HeFuFmI1IXMcJEyXmB9S9VBghTeQQCLcBGAs/s1600/13.png" width="180" height="350" /><br><p align="justify">Tampilan splash screen terdapat keterangan aplikasi dan logo aplikasi</p></td>
 		</tr>
+=======
+			<td><b>Transaksi Penyewaan</td>
+			<td><b>List Mobil</td>
+			<td><b>Detail Mobil</td>
+		</tr>
+		<tr valign="top" align="center">
+				<td><img src="http://i66.tinypic.com/whgv9z.jpg" width="180" height="350" /><br><p align="justify">Pada tampilan transaksi penyewaan user harus menginputkan jenis mobil yang akan disewa, tanggal penyewaan, tanggal pengembalian di form yang sudah disediakan.</p></td>
+				<td><img src="http://i68.tinypic.com/av3rbq.jpg" width="180" height="350" /><br><p align="justify">Pada tampilan list mobil akan menampilkan beberapa jenis mobil yang disediakan oleh Alikha Express yang digunakan untuk mempermudah user dalam memilih jenis mobil yang ingin disewa.</p></td>
+				<td><img src="http://i63.tinypic.com/hs3jpg.jpg" width="180" height="350" /><br><p align="justify">Pada tampilan detail mobil maka akan tertera data detail dari mobil yang dipilih, seperti jenis mobil, nomor polisi, dll.</p></td>		
+		</tr>
+			</tr>
+		<tr align="center">
+			<td><b>Detail Pesanan</td>
+			<td><b>Navigasi</td>
+			<td><b>Menu Logout</td>
+		</tr>
+		<tr valign="top" align="center">
+				<td><img src="http://i65.tinypic.com/98wv7r.jpg" width="180" height="350" /><br><p align="justify">Di tampilan detail pesanan akan menampilkan kembali data pesanan yang sebelumnya telah diinputkan oleh customers.</p></td>
+				<td><img src="http://i63.tinypic.com/10o38mo.jpg" width="180" height="350" /><br><p align="justify">Navigasi ini digunakan untuk memudahkan pengguna untuk menuju menu tertentu yang tersedia di aplikasi Alikha Express.</p></td>
+				<td><img src="http://i64.tinypic.com/10pn8km.jpg" width="180" height="350" /><br><p align="justify">Apabila ingin keluar dari aplikasi maka akan muncul menu pilihan logout.</p></td>		
+		</tr>
+		</tr>
+			</tr>
+>>>>>>> 8992b84b8174c2d0fc52b0f9114f12c55970a36a
 	</table>
 </div>
 
@@ -148,6 +189,7 @@ __2.1.2 Antarmuka Pengguna__
 	
 <table align="center">
 		<tr>
+<<<<<<< HEAD
 			<td><b>Dashboard Admin</td>
 		</tr>
 		<tr>
@@ -228,14 +270,55 @@ __2.1.2 Antarmuka Pengguna__
 ![8](http://i63.tinypic.com/10o38mo.jpg)
 
 ![9](http://i64.tinypic.com/10pn8km.jpg)
+=======
+			<td><b>Login Admin</td>
+		</tr>
+		<tr align="center">
+			<td><img src="http://i65.tinypic.com/1rvm2w.jpg" align="center"> <br><p align="justify">Login admin digunakan sebagai proses otorisasi admin agar dapat mengolah data pada sistem Alikha Express berbasis web.</p></td>
+		</tr>
+				<tr>
+			<td><b> Stok Kendaraan </td>
+		</tr>
+		<tr align="center">
+			<td><img src="http://i66.tinypic.com/b51o2f.jpg"><br><p align="justify">Pada tampilan stok kendaraan terdapat tabel dimana tercantum beberapa kendaraan yang tersedia di Alikha Express. Admin juga dapat melakukan perubahan terhadap data stok kendaraan.</p></td>
+		</tr>
+				<tr>
+			<td><b> Data Transaksi </td>
+		</tr>
+		<tr align="center">
+			<td><img src="http://i66.tinypic.com/wcbz7p.jpg"><br><p align="justify">Di dalam data transaksi terdapat tabel transaksi yang pernah dilakukan oleh sistem.</p></td>
+		</tr>
+				<tr>
+			<td><b> Data Penyewa </td>
+		</tr>
+		<tr align="center">
+			<td><img src="http://i67.tinypic.com/11imhkm.jpg"><br><p align="justify">Pada data penyewa terdapat tabel yang berisikan data penyewa yang telah diinputkan oleh customers melalui smartphone.</p></td>
+		</tr>			
+	</table>
 
 __2.1.3 Antarmuka Perangkat Keras__
 
- 
+Kebutuhan minimum perangkat keras yang dapat digunakan oleh aplikasi ini adalah :
+
+* Smarthpone Android<br>
+Dibutuhkan sebuah smartphone dengan os Android yang untuk dapat menggunakan aplikasi Alikha Express ini untuk user customers.
+
+* PC/Laptop<br>
+Untuk admin membutuhkan PC/Laptop untuk dapat menggunakan aplikasi Alikha Express ini.
+>>>>>>> 8992b84b8174c2d0fc52b0f9114f12c55970a36a
+
+__2.1.4 Antarmuka Perangkat Lunak__
+
+Perangkat lunak yang dibutuhkan untuk aplikasi ini yaitu :
+* Android Studio
+* Sublime Teks
+* XAMPP
+* Balsamiq Mockup
+
 
 __2.1.5 Antarmuka Komunikasi__
 
-Proses komunikasi dalam aplikasi ini melibatkan pengguna dengan perangkat mobile berbasis android.
+Proses komunikasi dalam aplikasi ini melibatkan pengguna dengan internet.
 
 __2.1.6 Batasan - Batasan Memori__
 
@@ -244,40 +327,146 @@ sedangkan ruang cakra padat (hard disk) yang diperlukan adalah 500 GB.
 
 __2.1.7 Operasi - Operasi__
 
-Sebagai penyesuaian operasional untuk pengguna akan dilakukan Training bertingkat.
-Tingkat user/Operator dan Supervisor, masing-masing tingkat memiliki tingkat pengetahuan yang berbeda dan hak akses sistem yang berbeda sehingga pelatihannya pun akan berberda.
+| Operasi | Fungsi |
+|---------|--------|
+| Login | Digunakan untuk masuk dan dapat mengakses layanan aplikasi |
+| Register | Digunakan untuk mendaftar agar dapat melakukan login |
+| Transaksi Penyewaan | Digunakan untuk melakukan transaksi penyewaan kendaraan |
+| List Mobil | Digunakan untuk menampilkan data mobil yang tersedia |
+| Detail Mobil | Digunakan untuk melihat detail mobil yang dipilih |
+| Detail Pesanan | Digunakan untuk menampilkan kembali data pemesanan |
+| Stok Kendaraan | Digunakan untuk melihat stok kendaraan yang tersedia |
+| Data Transaksi | Digunakan untuk menampilkan data transaksi yang pernah dilakukan |
+| Data Penyewa | Digunakan untuk memantau data penyewa yang telah melakukan penyewaan |
 
-__2.1.8 Kebutuhan - Kebutuhan dalam tahapan adaptasi__
+__2.1.8 Kebutuhan - Kebutuhan Dalam Tahapan Adaptasi__
 
 * Perangkat lunak menggunakan bahasa indonesia
 * Panduan aplikasi menggunakan mode interaktif
 * Aplikasi ini menggunakan rute perjalanan
 
-__2.2 Fungsi-fungsi produk__
+__2.2 Spesifikasi Kebutuhan Fungsional__
 
-Fungsi dari aplikasi rental mobiil berdasarkan pengguna sistem ini adalah sebagai berikut:
-a. Membuat user dalam dalam membuat atau membagi sebuah atau beberapa kelompok secara acak dengan mudah dan cepat
-b. Program ini bisa menginputkan list nama peminjam kemudian ditampilkan
-  
- __2.3 Karakteristik pengguna__
+ * Mobile<br>
+ ![](http://i67.tinypic.com/23m6683.jpg)
  
-Karakteristik pengguna dari perangkat lunak adalah pengguna langsung berinteraksi langsung.
+ * Web<br>
+ ![](http://i63.tinypic.com/2e5tnaq.jpg)
+ 
+ __2.2.1 Sign Up dan Login Customer__
 
-__2.4 Batasan-batasan__
+Untuk dapat menggunakan aplikasi customer harus mengisi form login terlebih dahulu  dengan cara:
+<br>1. customer mengaktifkan fungsi login
+<br>2. Sistem menampilkan halaman login yang terdiri dari username dan password
+<br>3. Member mengisi username dan password
+<br>4. Jika login gagal maka member akan diminta mengulangi proses login
+<br>5. Jika login berhasil maka member akan diarahkan ke halaman pilih mobil
 
-   Penginputan data atau memasukan nama pada aplikasi ini.
-   Perangkat lunak bisa diakses ketika terhubung dengan internet 
+Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dahulu dengan cara:
+<br>1. customer mangaktifkan fungsi sign up
+<br>2. Sistem menampilkan halaman register
+<br>3. customer mengisi form register sesuai dengan yang ditampilkan sistem
+<br>4. Sistem menyimpan data yang dimasukkan customer
+
+__2.2.2 Memilih Mobil dan Transaksi Customer__
+
+Customer harus melakukan pilih mobil sebelum melakukan penyewaan dengan cara :
+<br>1. customer mengaktifkan menu pilih mobil
+<br>2. Sistem mengaktifkan menu pilih mobil
+<br>3. customer memilih mobil yang ingin di sewa
+<br>4. Sistem menampilkan detail mobil yang ingin disewa
+<br>5. customer memasukan mobil yang sudah dipilih
+<br>6. sistem mengarahkan customer ke menu booking
+<br>7. customer masuk ke menu pemesanan untuk melakukan penyewaan mobil
+
+__2.2.3 Login Admin__
+
+Untuk dapat menggunakan aplikasi admin harus mengisi form login terlebih dahulu  dengan cara:
+<br>1. admin mengaktifkan fungsi login
+<br>2. Sistem menampilkan halaman login yang terdiri dari username dan password
+<br>3. Admin mengisi username dan password
+<br>4. Jika login gagal maka admin akan diminta mengulangi proses login
+<br>5. Jika login berhasil maka admin akan diarahkan ke menu utama
+
+Untuk admin yang belum mempunyai akun diharuskan melakukan sign up terlebih dahulu dengan cara:
+<br>1. Admin mangaktifkan fungsi sign up
+<br>2. Sistem menampilkan halaman register
+<br>3. Admin mengisi form register sesuai dengan yang ditampilkan sistem
+<br>4. Sistem menyimpan data yang dimasukkan Admin
+
+__2.2.4 Input data mobil __
+
+
+Admin akan dapat melakukan input mobil, dengan cara:
+<br>1. Admin mengaktifkan fungsi data mobil
+<br>2. Sistem menampilkan data mobil yang sudah ada
+<br>3. Admin menekan tombol icon tambah
+<br>4. Sistem menampilkan form input mobil
+<br>5. Admin mengisi form sesuai dengan requirement
+<br>6. Sistem akan melakukan validasi
+<br>7. Sistem menyimpan data mobil ke dalam database
+<br>8. jika admin berhasil menginput data mobil muncul notif berhasil
+
+__2.2.5 Menghapus data mobil __
+
+
+Admin akan dapat melakukan menghapus data mobil, dengan cara:
+<br>1. Admin mengaktifkan fungsi data mobil
+<br>2. Sistem menampilkan data mobil yang sudah ada
+<br>3. Admin menekan tombol icon hapus
+<br>4. Sistem akan melakukan validasi
+<br>6. jika admin berhasil menghapus data mobil muncul notif berhasil
+
+
+__2.2.6 Lihat laporan Transaksi penyewaan__
+
+
+Admin dapat melihat laporan dari penyewaan mobil mereka melalui aplikasi kami, dengan cara:
+<br>1. Admin masuk ke halaman dashboard admin
+<br>2. Sistem menampilkan menu untuk admin
+<br>3. Admin memilih menu laporan transaksi penyewaan
+<br>4. Sistem menampilkan laporan transaksi penyewaan
+
+__2.2.7 Daftar Admin__
+
+Admin dapat mendaftarkan atau menambah admin lainnya, dengan cara:
+<br>1. Admin masuk ke halaman dashboard admin
+<br>2. Sistem menampilkan menu untuk admin
+<br>3. Admin memilih menu tambah admin
+<br>4. Sistem menampilkan form penambahan admin
+<br>5. Admin mengisi form penambahan admin
+<br>6. Sistem menyimpan data admin ke dalam database
+
+
+__2.3 Spesifikasi Kebutuhan Non-Fungsional__
+ 
+* Availability<br>
+Ketersediaan aplikasi yang dapat di-update sewaktu-waktu dan dapat beroperasi terus menerus selama 24 jam per hari tanpa berhenti, karena aplikasi ini akan bersifat android-based dan web-based dan akan diakses oleh pengguna yang membutuhkan dari berbagai tempat pada waktu yang berbeda-beda.
+
+* Security<br>
+Aplikasi yang dikembangkan nantinya harus memiliki tingkat keamanan yang tinggi dimana setiap user yang masuk tidak dapat seenaknya mengubah data yang berada di dalam aplikasi ini. Aplikasi ini juga aman karena terdapat transaksi penyewaan kendaran maka faktor keamanan menjadi sangat penting.
+
+* Usability<br>
+Aplikasi ini diharapkan memudahkan user dalam penggunaannya.
+
+* Accessibility<br>
+Aplikasi bisa digunakan kapanpun dan dimanapun selama terkoneksi internet.
+
+* Portability<br>
+Aplikasi ini memberi kemudahan dalam pengaksesan sistem khususnya terkait dengan faktor waktu dan lokasi pengaksesan, serta perangkat atau teknologi yang digunakan untuk mengakses.
+
+
+__2.4 Karakteristik Pengguna__
+
+__2.5 Batasan-batasan__
+
+* Bahasa pemrograman berbasis android yang digunakan adalah Java.
+* Bahasa pemrograman berbasis web yang digunakan adalah PHP dan HTML.
+* DBMS yang digunakan adalah MySQL.
     
-__2.5 Asumsi-asumsi dan ketergantungan/keterkaitan__
-
-   Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan
-   Pengembangan perangkat lunak tidak akan merubah file-file atau pun database yang ada
+__2.6 Asumsi-Asumsi Keterkaitan__
    
-   
-   
-   
-   
-__2.6 Kebutuhan-kebutuhan penyeimbang__
+__2.7 Kebutuhan-Kebutuhan Penyeimbang__
 
 Kebutuhan fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan yang memiliki input,proses, dan output.
 
@@ -303,9 +492,9 @@ Informasi Pendukung
 
 __BAB 3 DESKRIPSI RINCI KEBUTUHAN__
 
-__3.1 Kebutuhan AntarMuka Eksternal__
+__3.1 Kebutuhan Antarmuka Eksternal__
 
-Kebutuhan antarmuka eksternal pada perangkat lunak Sistem Aplikasi Penyewaan Kendaraan beserta Rute Perjalanan Alikha Ekspress mencakup kebutuhan antarmuka pemakai, antarmuka perangkat keras, dan antarmuka perangkat lunak.
+Dalam operasionalnya, aplikasi yang akan dikembangkan memerlukan adanya interaksi dengan komponen-komponen lain diluar perangkat lunak itu seperti, user sebagai seorang pengguna perangkat lunak, perangkat keras dimana perangkat lunak ini akan dijalankan, perangkat komunikasi dimana perangkat lunak ini akan saling berkomunikasi dalam jaringan internet.
 
 __3.2 Kebutuhan Fungsional__
 
@@ -324,9 +513,7 @@ __b. Customer__
 
 Yang dilakukan adalah : Login , melakukan pemesanan (Mengisi data, melihat data mobil) dan Memilih menu-menu yang tersedia.
 
-__3.3 Structur Logis dari Data__
+__3.3 Struktur Detail Kebutuhan Non-Fungsional__
+
+__3.3.1 Logika Struktur Data__
 ![ERD](http://i66.tinypic.com/t86cna.jpg)
-
-__3.4 Pemeliharaan__
-
-Untuk pemeliharaannya dapat dilakukan oleh admin dengan cara memantau , mengupdate ataupun menghapus data kendaraan yang tersedia pada Sistem Aplikasi Penyewaan Kendaraan Beserta Rute Perjalanan (Alikha Express).
