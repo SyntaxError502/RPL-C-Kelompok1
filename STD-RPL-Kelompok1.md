@@ -130,6 +130,7 @@ __*BAB 4 DESKRIPSI DAN HASIL UJI*__<br>
 
 <html>
 <head>
+<title>Penggunaan Tag Tabel</title>
 </head>
 <body>
 <table border="1">
