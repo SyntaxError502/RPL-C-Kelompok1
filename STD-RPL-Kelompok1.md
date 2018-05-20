@@ -80,7 +80,6 @@ __*BAB 3 IDENTIFIKASI DAN RENCANA PENGUJIAN*__<br>
 
 <html>
 <head>
-<title>Penggunaan Tag Tabel</title>
 </head>
 <body>
 <table border="1">
