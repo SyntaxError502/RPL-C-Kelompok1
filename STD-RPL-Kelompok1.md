@@ -1,7 +1,6 @@
 <html>
-<body><div align="center"><h3>PERENCANAAN, DESKRIPSI, DAN HASIL
-UJI PERANGKAT LUNAK </h3></div>
-<p align="center"><b>Version 1.0 </b><br>
+<body><div align="center"><h3>SOFTWARE TESTING DOCUMENT</h3></div>
+<p align="center"><b>Version 1.1 </b><br>
 <p align="center">14 Mei 2018<br><br>
 <p align="center">
 <img src="http://i67.tinypic.com/mwba89.png"/>
@@ -99,22 +98,64 @@ __*BAB 3 IDENTIFIKASI DAN RENCANA PENGUJIAN*__<br>
         <td align="center"><b>DUPL</td>
     </tr>
     <tr>
-        <td>Pengujian Login</td>
-        <td>Baris 3, Kolom 2</td>
-        <td>Baris 3, Kolom 3</td>
-		<td>Baris 1, Kolom 4</td>
-		<td>Baris 1, Kolom 5</td>
-		<td>Baris 1, Kolom 6</td>
-		<td>Baris 1, Kolom 7</td>
+        <td rowspan="3">Pengujian Login Customers</td>
+        <td>Pengujian nama pengguna & sandi untuk customers</td>
+        <td>SKPL-AlikhaExpress.K-0001</td>
+		<td>DUPL-01</td>
+		<td>Pengujian sistem</td>
+		<td>Black box</td>
+		<td>Ari</td>
     </tr>
     <tr>
-        <td>Baris 4, Kolom 1</td>
-        <td>Baris 4, Kolom 2</td>
-        <td>Baris 4, Kolom 3</td>
-		<td>Baris 1, Kolom 4</td>
-		<td>Baris 1, Kolom 5</td>
-		<td>Baris 1, Kolom 6</td>
-		<td>Baris 1, Kolom 7</td>
+        <td>Kebenaran nama pengguna & sandi untuk customers</td>
+        <td></td>
+        <td>DUPL-02</td>
+		<td>Pengujian sistem</td>
+		<td>Black box</td>
+		<td>Ari</td>
+    </tr>
+<tr>
+        <td>Kelengkapan form yang diisi oleh customers</td>
+        <td></td>
+        <td>DUPL-03</td>
+		<td>Pengujian sistem</td>
+		<td>Black box</td>
+		<td>Ari</td>
+    </tr>
+</table>
+</body>
+</html>
+
+__*BAB 4 DESKRIPSI DAN HASIL UJI*__<br>
+
+<html>
+<head>
+<title>Penggunaan Tag Tabel</title>
+</head>
+<body>
+<table border="1">
+    <tr>
+        <td align="center" ><b>Identifikasi</td>
+        <td align="center"><b>Deskripsi</td>
+		<td align="center"><b>Prosedur Pengujian
+		</td>
+		<td align="center"><b>Masukan</td>
+		<td align="center"><b>Keluaran yang Diharapkan</td>
+		<td align="center"><b>Kriteria Evaluasi Hasil 1</td>
+		<td align="center"><b>Kriteria Evaluasi Hasil 2</td>
+		<td align="center"><b>Hasil yang Didapat</td>
+		<td align="center"><b>Kesimpulan</td>
+    </tr>
+    <tr>
+        <td>DUPL-01</td>
+		<td>Pengujian Login Customers</td>
+        <td>Memasukkan username dan password customers pada field yang tersedia</td>
+        <td>Username dan password customers. Tekan button Login</td>
+		<td>Ada message box untuk keberhasilan login</td>
+		<td>Apabila ada text field username atau password yang tidak diisi maka akan muncul pop-up “Kolom Tidak Boleh Kosong”. </td>
+		<td>Apabila data username atau password yang dimasukkan salah maka akan muncul pop-up "Username atau Password Salah"</td>
+		<td>Sukses</td>
+		<td>Diterima</td>
     </tr>
 </table>
 </body>

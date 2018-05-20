@@ -1,6 +1,6 @@
 <html>
 <body><div align="center"><h1>Software Requirement Specification</h1></div>
-<p align="center"><b>Version 1.0 </b><br>
+<p align="center"><b>Version 1.1 </b><br>
 <p align="center">23 Maret 2018<br><br>
 <p align="center">
 <img src="http://i67.tinypic.com/mwba89.png"/>
@@ -46,11 +46,8 @@ __1.3 Definisi, Akronim, Singkatan__
 
 | Definisi, Akronim dan Singkatan | Penjelasan |
 | ----------------- | --------------------------- |
-<<<<<<< HEAD
 | SRS/SKPL | adalah dokumen yang menggambarkan secara detail spesifikasi kebutuhan software dalam pembangunan proyek perangkat lunak Aplikasi Kasir QR Code Berbasis Android.|
-=======
 | SRS/SKPL | adalah dokumen yang menggambarkan secara detail spesifikasi kebutuhan software dalam pembangunan proyek perangkat lunak Aplikasi Penyewaan Kendaraan Beserta Rute Kendaraan Alikha Express.|
->>>>>>> 8992b84b8174c2d0fc52b0f9114f12c55970a36a
 | DFD | adalah suatu diagram yang menggunakan notasi-notasi untuk menggambarkan arus dari data pada suatu sistem atau menjelaskan proses kerja suatu sistem, yang penggunaannya sangat membantu untuk memahami sistem secara logika, tersruktur dan jelas.|
 | Software | Perangkat Lunak.|
 | Hardware | Perangkat Keras|
@@ -76,13 +73,11 @@ Dokumen SRS ini berisi tentang deskripsi kebutuhan perangkat lunak (tools penduk
   
 __BAB 2 GAMBARAN UMUM__
 
-<<<<<<< HEAD
 Kendaraan merupakan salah satu kebutuhan yang tidak bisa ditinggalkan dalam keseharian, dimana di zaman modern ini mobil menjadi primadona bagi masyarakat untuk dapat melakukan perjalanan. Bukan hanya karena kenyamanannya, melainkan juga muatan yang dapat diangkut mobil jauh lebih besar. Namun dengan segala kelebihan tersebut membuat harga mobil tidaklah murah, akan tetapi banyaknya 
-=======
+
 Kendaraan merupakan salah satu kebutuhan yang tidak bisa ditinggalkan dalam keseharian, dimana pada zaman modern ini mobil menjadi primadona bagi masyarakat untuk dapat melakukan perjalanan. Bukan hanya karena kenyamanan yang ditawarkan, melainkan juga muatan yang dapat diangkut mobil jauh lebih besar. Namun dengan segala kelebihan tersebut membuat harga mobil tidaklah murah, akan tetapi banyaknya kebutuhan masyarakat akan pentingnya mobil semakin hari semakin bertambah. Karena alasan tersebut membuat banyak kalangan yang menyediakan layanan rental mobil, termasuk rental mobil Alikha Express. Dalam kasus ini Alikha Express masih menggunakan cara manual dalam melakukan transaksi penyewaan mobil. Dimana customers harus datang langsung untuk menyewa mobil, tanpa mengetahui apakah masih ada stok mobil yang tersedia.
 
 Penggunaan smartphone berbasis android sudah sangat mengakar di kalangan masyarakat saat ini, dari berbagai usia, profesi dan latar belakang. Hal tersebut menjadi alasan banyaknya aplikasi yang telah diciptakan untuk perangkat berbasis android. Karena masalah tersebut membuat kelompok kami berinisiatif untuk membuat aplikasi penyewaan rental mobil beserta rute kendaraan Alikha Express berbasis android. Dimana pada aplikasi ini terdapat 2 user, yaitu admin dan customers.
->>>>>>> 8992b84b8174c2d0fc52b0f9114f12c55970a36a
 
 __2.1 Perspektif Produk__
 
@@ -119,46 +114,9 @@ __2.1.2 Antarmuka Pengguna__
 				<td><img src="http://i68.tinypic.com/33uewev.jpg" width="180" height="350" /><br><p align="justify">Pada register terdapat form yang yang harus diisi oleh user. Dimana data yang harus diinputka adalah data diri dari user tersebut.</p></td>		
 		</tr>
 		<tr align="center">
-<<<<<<< HEAD
-			<td><b>Halaman Mahasiswa </td>
-			<td><b>Scan QR Code</td>
-			<td><b>Scan Sukses</td>
-		</tr>
-		<tr valign="top" align="center">
-				<td><img src="http://i66.tinypic.com/whgv9z.jpg" width="180" height="350" /><br><p align="justify">Pada tampilan halaman mahasiswa terdapat beberapa informasi yang bisa dilihat yakni, absensi, presensi, dan kompensasi. Ada juga 2 tombol yakni tombol jadwal dan tombol scan</p></td>
-				<td><img src="http://i68.tinypic.com/av3rbq.jpg" width="180" height="350" /><br><p align="justify">Pada tampilan scan menggunakan kamera pada device untuk memindai kode QR</p></td>
-				<td><img src="http://i63.tinypic.com/hs3jpg.jpg" width="180" height="350" /><br><p align="justify">Pada Tampilan sukses akan ada keterangan bahwa sudah berhasil menscan dan ada tombol tutup untuk kembali ke halaman utama</p></td>		
-		</tr>
-			</tr>
-		<tr align="center">
-			<td><b>Halaman Dosen</td>
-			<td><b>Menu Dosen</td>
-			<td><b>Menu Jadwal</td>
-		</tr>
-		<tr valign="top" align="center">
-				<td><img src="http://i65.tinypic.com/98wv7r.jpg" width="180" height="350" /><br><p align="justify">Di tampilan halaman dosen, mengunakan cardview yang ditunjang dengan 2 tombol pada tiap kontentnya yakni tombl mulai pada tiap mata kuliah dan tombol ubah jadwal mata kuliah tersebut. Ada juga tombol menu yang akan bisa digunakan untuk membuka menu</p></td>
-				<td><img src="http://i63.tinypic.com/10o38mo.jpg" width="180" height="350" /><br><p align="justify">Di menu terdapat keterangan nama dan NIP dosen dan ada 2 pilihan menu yakni lihat jadwal dan lihat rekap absensi</p></td>
-				<td><img src="http://i64.tinypic.com/10pn8km.jpg" width="180" height="350" /><br><p align="justify">Menu jadwal akan menampilan tombol download yang akan mengunduh file jadwal yang berupa .pdf</p></td>		
-		</tr>
-		</tr>
-			</tr>
-		<tr align="center">
-			<td><b>Menu Absen</td>
-			<td><b>Rubah Jadwal</td>
-			<td><b>List Scan Mahasiswa</td>
-		</tr>
-		<tr valign="top" align="center">
-				<td><img src="https://2.bp.blogspot.com/-I76d037JJTA/WpJgmncc8kI/AAAAAAAAA2c/i6ko1qfOPNcX8EcQ5xQKXxjYmNw6kMGMACLcBGAs/s1600/10.png" width="180" height="350" /><br><p align="justify">Di menu rekap absen pada dosen juga sama seperti pada menu jadwal, yakni akan mendownload sebuah file yang berupa .pdf</p></td>
-				<td><img src="https://2.bp.blogspot.com/-JoE6kve1QdY/WpJgmlckFHI/AAAAAAAAA2Y/xUM3uYnVlW0_GjEQOOSR2WPaehX1LGvngCLcBGAs/s1600/11.png" width="180" height="350" /><br><p align="justify">Pada menu ubah jadwal terdapat keterangan default jadwal yang sudah ditentukan, dan ada beberapa inputan yang bisa di pilih yakni masukan tanggal baru, jam baru, dan ruangan yang baru kemudian juga ada 2 tombol untuk simpan dan batal</p></td>
-				<td><img src="https://3.bp.blogspot.com/-UlctF2mEaCY/WpJgn5MD00I/AAAAAAAAA2g/qvDOy_y8DTccsT65K01Ic5tzk9QSyLiuQCLcBGAs/s1600/12.png" width="180" height="350" /><br><p align="justify">List scan Mahasiswa terdapat list yang akan menampilkan daftar mahasiswa yang berhasil scan absen.</p></td>		
-		</tr>
-		<tr align="center">
-			<td colspan="3"> <b>Splash Screen</td>
-		</tr>
-		<tr align="center">
-			<td colspan="3"><img src="https://4.bp.blogspot.com/-RxyKPxYZ9H0/WpJgoF3xbcI/AAAAAAAAA2k/5WN4HeFuFmI1IXMcJEyXmB9S9VBghTeQQCLcBGAs/s1600/13.png" width="180" height="350" /><br><p align="justify">Tampilan splash screen terdapat keterangan aplikasi dan logo aplikasi</p></td>
-		</tr>
-=======
+
+			
+		
 			<td><b>Transaksi Penyewaan</td>
 			<td><b>List Mobil</td>
 			<td><b>Detail Mobil</td>
@@ -181,120 +139,44 @@ __2.1.2 Antarmuka Pengguna__
 		</tr>
 		</tr>
 			</tr>
->>>>>>> 8992b84b8174c2d0fc52b0f9114f12c55970a36a
+
 	</table>
 </div>
 
  - **Mockup Website**
 	
-<table align="center">
+	<table align="center">
 		<tr>
-<<<<<<< HEAD
-			<td><b>Dashboard Admin</td>
-		</tr>
-		<tr>
-			<td><img src="https://4.bp.blogspot.com/-1bDyR-xSVp4/WpJhS6HlaSI/AAAAAAAAA3g/xHucj0eSHewp2QM5E_jQu0VvHIuEHVOXgCLcBGAs/s1600/dashboard.jpg"> <br><p align="justify">Pada Dashboard admin terdapat panel-panel yang berisi beberapa informasi seperti jumlah mahasiswa, jumlah dosen, jumlah kelas, kalender dan ucapan selamat datang.</p></td>
-		</tr>
-				<tr>
-			<td><b>Data Dosen</td>
-		</tr>
-		<tr>
-			<td><img src="https://4.bp.blogspot.com/-oTpZC5yDDHk/WpJhS11I9YI/AAAAAAAAA3Y/RWioKmHUFooXGmOEVfnGw0bycLNehL_cACLcBGAs/s1600/data%2Bdosen.jpg"><br><p align="justify">Menu Dosen terdapat tabel list nama-nama dosen dan tombol untuk edit dosen</p></td>
-		</tr>
-				<tr>
-			<td><b>Data Kelas</td>
-		</tr>
-		<tr>
-			<td><img src="https://1.bp.blogspot.com/-MzMv4SlEHy8/WpJhS6EDfpI/AAAAAAAAA3c/PnDpxT8VrvgGoclq7qhKIm_s7WPnQqK0QCLcBGAs/s1600/data%2Bkelas.jpg"><br><p align="justify">Di dalam menu kelas terdapat data kelas berupa table. Di dalam table tersebut juga ada tombol untuk melihat detail kelasnya</p></td>
-		</tr>
-				<tr>
-			<td><b>Data Mahasiswa</td>
-		</tr>
-		<tr>
-			<td><img src="https://3.bp.blogspot.com/-cimuoYqCJ-4/WpJhUMFTVUI/AAAAAAAAA3k/Ap9VlNdPOMcIqCMIGl68GLy2zydP6BeKgCLcBGAs/s1600/data%2Bmhs.jpg"><br><p align="justify">Di menu mahasiswa terdapat Data mahasiswa perkelas berupa tabel</p></td>
-		</tr>
-				<tr>
-			<td><b>Edit Data Dosen</td>
-		</tr>
-		<tr>
-			<td><img src="https://3.bp.blogspot.com/-WEmRHs3XnjQ/WpJhUUdmV1I/AAAAAAAAA3o/jWVkN9LXP6oKvwc3ujwbUqTSWTdWheK2wCLcBGAs/s1600/edit%2Bdosen.jpg"><br><p align="justify">Pada edit menu data dosen terdapat tombol download tamplate dan upload file berupa .xls</p></td>
-		</tr>
-				<tr>
-			<td><b>Edit Data Mahasiswa</td>
-		</tr>
-		<tr>
-			<td><img src="https://4.bp.blogspot.com/-tBb_4EXiMeU/WpJhUhDY_CI/AAAAAAAAA3s/S3WODC0i_ygfANN2Zmor3-KL0PSWNZV6QCLcBGAs/s1600/edit%2Bmsahasiswa.jpg"><br><p align="justify">Pada Edit Data Mahasiswa sama seperti Edit Data Dosen yakni terdapat tombol untuk upload dan download untuk mengedit data mahasiswa</p></td>
-		</tr>
-				<tr>
-			<td><b>Jadwal</td>
-		</tr>
-		<tr>
-			<td><img src="https://4.bp.blogspot.com/-PAD0N1WgFUo/WpJhVPhaAzI/AAAAAAAAA3w/U1FCYgLTuC0BMPXVFO9jH96Pdl0I6uyOgCLcBGAs/s1600/jadwal.jpg"><br><p align="justify">Di dalam halaman jadwal terdapat dua tombol yaitu Lihat jadwal dan ubah jadwal.</p></td>
-		</tr>
-				<tr>
+
 			<td><b>Login Admin</td>
 		</tr>
 		<tr>
-			<td><img src="https://4.bp.blogspot.com/-S7XMnGnLohQ/WpJhVY0pGrI/AAAAAAAAA30/D2kuP-a58X03M0PZjeH8SJfAKJ8OTeDeACLcBGAs/s1600/login.jpg"><br><p align="justify">Pada halaman Login terdapat beberapa input yang harus di masukan oleh admin yakni username, password dan captcha. Dan ada juga tombol untuk login</p></td>
+			<td><img src="http://i65.tinypic.com/1rvm2w.jpg"> <br><p align="justify">Pada login admin tersedia form untuk menginputkan username serta password. Apabila username dan password yang diinputkan sesuai maka admin dapat masuk ke halaman dashboard admin.</p></td>
 		</tr>
 				<tr>
-			<td><b>Rekap Absensi</td>
+			<td><b>Data Penyewa</td>
 		</tr>
 		<tr>
-			<td><img src="https://3.bp.blogspot.com/-7lixgM4oNEY/WpenRt_q7xI/AAAAAAAAA4g/CZlq-Q39w9wxeXfRHZKBdUHHqsBgT7aGgCLcBGAs/s1600/rekap.jpg"><br><p align="justify">DI halamman rekap abesnsi admin bisa langsung mendownload hasilnya dengan menekan tombol Download</p></td>
+			<td><img src="http://i67.tinypic.com/11imhkm.jpg"><br><p align="justify">Pada data penyewa terdapat list data penyewa yang telah melakukan register melalui aplikasi Alikha Express melalui mobile.</p></td>
 		</tr>
 				<tr>
-			<td><b>Tambah Data Kelas</td>
+			<td><b>Data Transaksi</td>
 		</tr>
 		<tr>
-			<td><img src="https://2.bp.blogspot.com/-GQ3V8XLRJ_g/WpJhWTWWHzI/AAAAAAAAA38/pvQl-DbHKLc-AKPV23X06ncA50fhma6PQCLcBGAs/s1600/tambah%2Bkelas.jpg"><br><p align="justify">Pada tambah kelas Admin  harus memasukan nama kelas terlebih dahulu</p></td>
+			<td><img src="http://i66.tinypic.com/wcbz7p.jpg"><br><p align="justify">Di dalam data transaksi terdapat list yang menampilkan data transaksi yang pernah dilakukan melalui aplikasi Alikha Express.</p></td>
 		</tr>
 				<tr>
-			<td><b>Edit Jadwal</td>
+			<td><b>Stok Mobil</td>
 		</tr>
 		<tr>
-			<td><img src="https://1.bp.blogspot.com/-6GUTyCOFLns/WpJhWvUHVsI/AAAAAAAAA4A/qQnHU3tJ0soWjCHxv4PJkCxRWQwXxZKiwCLcBGAs/s1600/ubah%2Bjadwal.jpg"><br><p align="justify">Pada Edit jadwal sama seperti pada Edit mahasiswa dan dosen yakni terdapat 2 tombol untuk download tamplate dan upload untuk mengunggah data yang sudah di edit</p></td>
+			<td><img src="http://i66.tinypic.com/b51o2f.jpg"><br><p align="justify">Pada stok mobil terdapat list mobil yang di sediakan oleh Alikha Express untuk penyewa.</p></td>
+		</tr>
+				<tr>
+			
 		</tr>
 	</table>
 
-![1](http://i68.tinypic.com/w0lvh1.jpg)
-![2](http://i65.tinypic.com/j7evbd.jpg)
 
-![3](http://i68.tinypic.com/33uewev.jpg)
-![4](http://i66.tinypic.com/whgv9z.jpg)
-
-![5](http://i68.tinypic.com/av3rbq.jpg)
-![6](http://i63.tinypic.com/hs3jpg.jpg)
-
-![7](http://i65.tinypic.com/98wv7r.jpg)
-![8](http://i63.tinypic.com/10o38mo.jpg)
-
-![9](http://i64.tinypic.com/10pn8km.jpg)
-=======
-			<td><b>Login Admin</td>
-		</tr>
-		<tr align="center">
-			<td><img src="http://i65.tinypic.com/1rvm2w.jpg" align="center"> <br><p align="justify">Login admin digunakan sebagai proses otorisasi admin agar dapat mengolah data pada sistem Alikha Express berbasis web.</p></td>
-		</tr>
-				<tr>
-			<td><b> Stok Kendaraan </td>
-		</tr>
-		<tr align="center">
-			<td><img src="http://i66.tinypic.com/b51o2f.jpg"><br><p align="justify">Pada tampilan stok kendaraan terdapat tabel dimana tercantum beberapa kendaraan yang tersedia di Alikha Express. Admin juga dapat melakukan perubahan terhadap data stok kendaraan.</p></td>
-		</tr>
-				<tr>
-			<td><b> Data Transaksi </td>
-		</tr>
-		<tr align="center">
-			<td><img src="http://i66.tinypic.com/wcbz7p.jpg"><br><p align="justify">Di dalam data transaksi terdapat tabel transaksi yang pernah dilakukan oleh sistem.</p></td>
-		</tr>
-				<tr>
-			<td><b> Data Penyewa </td>
-		</tr>
-		<tr align="center">
-			<td><img src="http://i67.tinypic.com/11imhkm.jpg"><br><p align="justify">Pada data penyewa terdapat tabel yang berisikan data penyewa yang telah diinputkan oleh customers melalui smartphone.</p></td>
-		</tr>			
-	</table>
 
 __2.1.3 Antarmuka Perangkat Keras__
 
@@ -305,11 +187,12 @@ Dibutuhkan sebuah smartphone dengan os Android yang untuk dapat menggunakan apli
 
 * PC/Laptop<br>
 Untuk admin membutuhkan PC/Laptop untuk dapat menggunakan aplikasi Alikha Express ini.
->>>>>>> 8992b84b8174c2d0fc52b0f9114f12c55970a36a
+
 
 __2.1.4 Antarmuka Perangkat Lunak__
 
 Perangkat lunak yang dibutuhkan untuk aplikasi ini yaitu :
+
 * Android Studio
 * Sublime Teks
 * XAMPP
@@ -362,7 +245,7 @@ Untuk dapat menggunakan aplikasi customer harus mengisi form login terlebih dahu
 <br>4. Jika login gagal maka member akan diminta mengulangi proses login
 <br>5. Jika login berhasil maka member akan diarahkan ke halaman pilih mobil
 
-Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dahulu dengan cara:
+Untuk customer yang belum mempunyai akun diharuskan melakukan sign up terlebih dahulu dengan cara:
 <br>1. customer mangaktifkan fungsi sign up
 <br>2. Sistem menampilkan halaman register
 <br>3. customer mengisi form register sesuai dengan yang ditampilkan sistem
@@ -394,7 +277,7 @@ Untuk admin yang belum mempunyai akun diharuskan melakukan sign up terlebih dahu
 <br>3. Admin mengisi form register sesuai dengan yang ditampilkan sistem
 <br>4. Sistem menyimpan data yang dimasukkan Admin
 
-__2.2.4 Input data mobil __
+__2.2.4 Input data mobil__
 
 
 Admin akan dapat melakukan input mobil, dengan cara:
@@ -407,7 +290,7 @@ Admin akan dapat melakukan input mobil, dengan cara:
 <br>7. Sistem menyimpan data mobil ke dalam database
 <br>8. jika admin berhasil menginput data mobil muncul notif berhasil
 
-__2.2.5 Menghapus data mobil __
+__2.2.5 Menghapus data mobil__
 
 
 Admin akan dapat melakukan menghapus data mobil, dengan cara:
