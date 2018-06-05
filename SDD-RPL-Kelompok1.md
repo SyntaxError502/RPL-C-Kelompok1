@@ -332,7 +332,6 @@ ______3.3.1.3 Spesifikasi Query______ <br>
 | QRY02 | Register | INSERT INTO user (username,nama, password,alamat, no_hp,no_ktp) VALUES ('$username,'$password','$nama',
 '$alamat','$no_hp','$no_ktp') |
 
-
 ______3.3.1.4 Spesifikasi Field Data Layar______ <br>
 
 ______3.3.1.5 Spesifikasi Objek-objek pada Layar______ <br>
