@@ -334,6 +334,12 @@ ______3.3.1.3 Spesifikasi Query______ <br>
 
 ______3.3.1.4 Spesifikasi Field Data Layar______ <br>
 
+| Label | Field | Tabel / Query | Validasi | Keterangan |
+|---------|---------|---------|---------|---------|
+| namaAdmin | nama_admin | data_admin | - | - |
+| alamatAdmin | alamat_admin | data_admin | - | - |
+| email | email | data_admin | - | - |
+
 ______3.3.1.5 Spesifikasi Objek-objek pada Layar______ <br>
 
 | ID Objek | Jenis | Keterangan | Platform |
