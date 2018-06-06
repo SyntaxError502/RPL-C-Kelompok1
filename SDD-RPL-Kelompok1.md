@@ -200,6 +200,14 @@ ____2.2.4 Daftar Tabel Aplikasi____ <br>
 
 __2.3 Deskripsi Modul__ <br>
 
+| No | Nama Modul | Keterangan |
+|---------|---------|---------|
+| 1 | Otentikasi | Modul yang digunakan untuk memberikan validasi akses user dalam menggunakan aplikasi baik sisi web ataupun mobile |
+| 2 | Master | Modul yang digunakan untuk mengelola data master seperti CRUD data toko, data barang, data karyawan, dan data pemasok |
+| 3 | Customer | Modul yang digunakan untuk mengelola data customerr dan berisi CRUD data customer |
+| 4 | Transaksi | Modul yang digunakan untuk melakukan transaksi seperti penghitungan harga, pencatatan tanggal transaksi, dan cara pembayaran |
+| 5 | Laporan | Modul yang digunakan untuk membuat laporan penyewaan mobil secara rinci |
+
 ### BAB 3 Deskripsi Perancangan Rinci <br>
 __3.1 Diagram Konteks__ <br>
 
